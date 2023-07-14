@@ -7,6 +7,37 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F23369132A5CBE4C00F2F56F /* Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = F23369122A5CBE4C00F2F56F /* Test.swift */; };
+		F240F2452A619CEC000CE5C9 /* piano-.Ab.wav in Resources */ = {isa = PBXBuildFile; fileRef = F240F22D2A619CEB000CE5C9 /* piano-.Ab.wav */; };
+		F240F2462A619CEC000CE5C9 /* piano-D.wav in Resources */ = {isa = PBXBuildFile; fileRef = F240F22E2A619CEB000CE5C9 /* piano-D.wav */; };
+		F240F2472A619CEC000CE5C9 /* piano-Db.wav in Resources */ = {isa = PBXBuildFile; fileRef = F240F22F2A619CEB000CE5C9 /* piano-Db.wav */; };
+		F240F2482A619CEC000CE5C9 /* piano-.G.wav in Resources */ = {isa = PBXBuildFile; fileRef = F240F2302A619CEB000CE5C9 /* piano-.G.wav */; };
+		F240F2492A619CEC000CE5C9 /* piano-.F.wav in Resources */ = {isa = PBXBuildFile; fileRef = F240F2312A619CEB000CE5C9 /* piano-.F.wav */; };
+		F240F24A2A619CEC000CE5C9 /* piano-C.wav in Resources */ = {isa = PBXBuildFile; fileRef = F240F2322A619CEB000CE5C9 /* piano-C.wav */; };
+		F240F24B2A619CEC000CE5C9 /* piano-.Bb.wav in Resources */ = {isa = PBXBuildFile; fileRef = F240F2332A619CEB000CE5C9 /* piano-.Bb.wav */; };
+		F240F24C2A619CEC000CE5C9 /* piano-.Gb.wav in Resources */ = {isa = PBXBuildFile; fileRef = F240F2342A619CEB000CE5C9 /* piano-.Gb.wav */; };
+		F240F24D2A619CEC000CE5C9 /* piano-.A.wav in Resources */ = {isa = PBXBuildFile; fileRef = F240F2352A619CEB000CE5C9 /* piano-.A.wav */; };
+		F240F24E2A619CEC000CE5C9 /* piano-Db..wav in Resources */ = {isa = PBXBuildFile; fileRef = F240F2362A619CEB000CE5C9 /* piano-Db..wav */; };
+		F240F24F2A619CEC000CE5C9 /* piano-E..wav in Resources */ = {isa = PBXBuildFile; fileRef = F240F2372A619CEB000CE5C9 /* piano-E..wav */; };
+		F240F2502A619CEC000CE5C9 /* piano-Ab.wav in Resources */ = {isa = PBXBuildFile; fileRef = F240F2382A619CEB000CE5C9 /* piano-Ab.wav */; };
+		F240F2512A619CEC000CE5C9 /* piano-F.wav in Resources */ = {isa = PBXBuildFile; fileRef = F240F2392A619CEB000CE5C9 /* piano-F.wav */; };
+		F240F2522A619CEC000CE5C9 /* piano-E.wav in Resources */ = {isa = PBXBuildFile; fileRef = F240F23A2A619CEB000CE5C9 /* piano-E.wav */; };
+		F240F2532A619CEC000CE5C9 /* piano-.B.wav in Resources */ = {isa = PBXBuildFile; fileRef = F240F23B2A619CEB000CE5C9 /* piano-.B.wav */; };
+		F240F2542A619CEC000CE5C9 /* piano-Gb.wav in Resources */ = {isa = PBXBuildFile; fileRef = F240F23C2A619CEB000CE5C9 /* piano-Gb.wav */; };
+		F240F2552A619CEC000CE5C9 /* piano-Bb.wav in Resources */ = {isa = PBXBuildFile; fileRef = F240F23D2A619CEB000CE5C9 /* piano-Bb.wav */; };
+		F240F2562A619CEC000CE5C9 /* piano-B.wav in Resources */ = {isa = PBXBuildFile; fileRef = F240F23E2A619CEB000CE5C9 /* piano-B.wav */; };
+		F240F2572A619CEC000CE5C9 /* piano-C..wav in Resources */ = {isa = PBXBuildFile; fileRef = F240F23F2A619CEB000CE5C9 /* piano-C..wav */; };
+		F240F2582A619CEC000CE5C9 /* piano-Eb..wav in Resources */ = {isa = PBXBuildFile; fileRef = F240F2402A619CEB000CE5C9 /* piano-Eb..wav */; };
+		F240F2592A619CEC000CE5C9 /* piano-Eb.wav in Resources */ = {isa = PBXBuildFile; fileRef = F240F2412A619CEB000CE5C9 /* piano-Eb.wav */; };
+		F240F25A2A619CEC000CE5C9 /* piano-G.wav in Resources */ = {isa = PBXBuildFile; fileRef = F240F2422A619CEC000CE5C9 /* piano-G.wav */; };
+		F240F25B2A619CEC000CE5C9 /* piano-A.wav in Resources */ = {isa = PBXBuildFile; fileRef = F240F2432A619CEC000CE5C9 /* piano-A.wav */; };
+		F240F25C2A619CEC000CE5C9 /* piano-D..wav in Resources */ = {isa = PBXBuildFile; fileRef = F240F2442A619CEC000CE5C9 /* piano-D..wav */; };
+		F255D8182A4B520F00B6A8EC /* RagaData.swift in Sources */ = {isa = PBXBuildFile; fileRef = F255D8172A4B520F00B6A8EC /* RagaData.swift */; };
+		F281B9382A4B819F008FD165 /* ragaInfo.json in Resources */ = {isa = PBXBuildFile; fileRef = F281B9372A4B819F008FD165 /* ragaInfo.json */; };
+		F281B93E2A4BB0E0008FD165 /* SingleRagaView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F281B93D2A4BB0E0008FD165 /* SingleRagaView.swift */; };
+		F28392962A3F42BF003BFF36 /* RagaList.swift in Sources */ = {isa = PBXBuildFile; fileRef = F28392952A3F42BF003BFF36 /* RagaList.swift */; };
+		F28392982A3F436D003BFF36 /* RagaBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = F28392972A3F436D003BFF36 /* RagaBuilder.swift */; };
+		F2882A722A47B5D5007819B2 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2882A712A47B5D5007819B2 /* SettingsView.swift */; };
 		F29EF6C82A3633DC005398DF /* RagaFinderApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F29EF6C72A3633DC005398DF /* RagaFinderApp.swift */; };
 		F29EF6CA2A3633DC005398DF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F29EF6C92A3633DC005398DF /* ContentView.swift */; };
 		F29EF6CC2A3633DD005398DF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F29EF6CB2A3633DD005398DF /* Assets.xcassets */; };
@@ -14,6 +45,37 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F23369122A5CBE4C00F2F56F /* Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test.swift; sourceTree = "<group>"; };
+		F240F22D2A619CEB000CE5C9 /* piano-.Ab.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = "piano-.Ab.wav"; path = "../../../../Downloads/Sounds/piano-.Ab.wav"; sourceTree = "<group>"; };
+		F240F22E2A619CEB000CE5C9 /* piano-D.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = "piano-D.wav"; path = "../../../../Downloads/Sounds/piano-D.wav"; sourceTree = "<group>"; };
+		F240F22F2A619CEB000CE5C9 /* piano-Db.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = "piano-Db.wav"; path = "../../../../Downloads/Sounds/piano-Db.wav"; sourceTree = "<group>"; };
+		F240F2302A619CEB000CE5C9 /* piano-.G.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = "piano-.G.wav"; path = "../../../../Downloads/Sounds/piano-.G.wav"; sourceTree = "<group>"; };
+		F240F2312A619CEB000CE5C9 /* piano-.F.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = "piano-.F.wav"; path = "../../../../Downloads/Sounds/piano-.F.wav"; sourceTree = "<group>"; };
+		F240F2322A619CEB000CE5C9 /* piano-C.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = "piano-C.wav"; path = "../../../../Downloads/Sounds/piano-C.wav"; sourceTree = "<group>"; };
+		F240F2332A619CEB000CE5C9 /* piano-.Bb.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = "piano-.Bb.wav"; path = "../../../../Downloads/Sounds/piano-.Bb.wav"; sourceTree = "<group>"; };
+		F240F2342A619CEB000CE5C9 /* piano-.Gb.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = "piano-.Gb.wav"; path = "../../../../Downloads/Sounds/piano-.Gb.wav"; sourceTree = "<group>"; };
+		F240F2352A619CEB000CE5C9 /* piano-.A.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = "piano-.A.wav"; path = "../../../../Downloads/Sounds/piano-.A.wav"; sourceTree = "<group>"; };
+		F240F2362A619CEB000CE5C9 /* piano-Db..wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = "piano-Db..wav"; path = "../../../../Downloads/Sounds/piano-Db..wav"; sourceTree = "<group>"; };
+		F240F2372A619CEB000CE5C9 /* piano-E..wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = "piano-E..wav"; path = "../../../../Downloads/Sounds/piano-E..wav"; sourceTree = "<group>"; };
+		F240F2382A619CEB000CE5C9 /* piano-Ab.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = "piano-Ab.wav"; path = "../../../../Downloads/Sounds/piano-Ab.wav"; sourceTree = "<group>"; };
+		F240F2392A619CEB000CE5C9 /* piano-F.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = "piano-F.wav"; path = "../../../../Downloads/Sounds/piano-F.wav"; sourceTree = "<group>"; };
+		F240F23A2A619CEB000CE5C9 /* piano-E.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = "piano-E.wav"; path = "../../../../Downloads/Sounds/piano-E.wav"; sourceTree = "<group>"; };
+		F240F23B2A619CEB000CE5C9 /* piano-.B.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = "piano-.B.wav"; path = "../../../../Downloads/Sounds/piano-.B.wav"; sourceTree = "<group>"; };
+		F240F23C2A619CEB000CE5C9 /* piano-Gb.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = "piano-Gb.wav"; path = "../../../../Downloads/Sounds/piano-Gb.wav"; sourceTree = "<group>"; };
+		F240F23D2A619CEB000CE5C9 /* piano-Bb.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = "piano-Bb.wav"; path = "../../../../Downloads/Sounds/piano-Bb.wav"; sourceTree = "<group>"; };
+		F240F23E2A619CEB000CE5C9 /* piano-B.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = "piano-B.wav"; path = "../../../../Downloads/Sounds/piano-B.wav"; sourceTree = "<group>"; };
+		F240F23F2A619CEB000CE5C9 /* piano-C..wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = "piano-C..wav"; path = "../../../../Downloads/Sounds/piano-C..wav"; sourceTree = "<group>"; };
+		F240F2402A619CEB000CE5C9 /* piano-Eb..wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = "piano-Eb..wav"; path = "../../../../Downloads/Sounds/piano-Eb..wav"; sourceTree = "<group>"; };
+		F240F2412A619CEB000CE5C9 /* piano-Eb.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = "piano-Eb.wav"; path = "../../../../Downloads/Sounds/piano-Eb.wav"; sourceTree = "<group>"; };
+		F240F2422A619CEC000CE5C9 /* piano-G.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = "piano-G.wav"; path = "../../../../Downloads/Sounds/piano-G.wav"; sourceTree = "<group>"; };
+		F240F2432A619CEC000CE5C9 /* piano-A.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = "piano-A.wav"; path = "../../../../Downloads/Sounds/piano-A.wav"; sourceTree = "<group>"; };
+		F240F2442A619CEC000CE5C9 /* piano-D..wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = "piano-D..wav"; path = "../../../../Downloads/Sounds/piano-D..wav"; sourceTree = "<group>"; };
+		F255D8172A4B520F00B6A8EC /* RagaData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RagaData.swift; sourceTree = "<group>"; };
+		F281B9372A4B819F008FD165 /* ragaInfo.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = ragaInfo.json; sourceTree = "<group>"; };
+		F281B93D2A4BB0E0008FD165 /* SingleRagaView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SingleRagaView.swift; sourceTree = "<group>"; };
+		F28392952A3F42BF003BFF36 /* RagaList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RagaList.swift; sourceTree = "<group>"; };
+		F28392972A3F436D003BFF36 /* RagaBuilder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RagaBuilder.swift; sourceTree = "<group>"; };
+		F2882A712A47B5D5007819B2 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
 		F29EF6C42A3633DC005398DF /* RagaFinder.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RagaFinder.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F29EF6C72A3633DC005398DF /* RagaFinderApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RagaFinderApp.swift; sourceTree = "<group>"; };
 		F29EF6C92A3633DC005398DF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -32,6 +94,37 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		F2882A732A488A30007819B2 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				F240F2352A619CEB000CE5C9 /* piano-.A.wav */,
+				F240F22D2A619CEB000CE5C9 /* piano-.Ab.wav */,
+				F240F23B2A619CEB000CE5C9 /* piano-.B.wav */,
+				F240F2332A619CEB000CE5C9 /* piano-.Bb.wav */,
+				F240F2312A619CEB000CE5C9 /* piano-.F.wav */,
+				F240F2302A619CEB000CE5C9 /* piano-.G.wav */,
+				F240F2342A619CEB000CE5C9 /* piano-.Gb.wav */,
+				F240F2432A619CEC000CE5C9 /* piano-A.wav */,
+				F240F2382A619CEB000CE5C9 /* piano-Ab.wav */,
+				F240F23E2A619CEB000CE5C9 /* piano-B.wav */,
+				F240F23D2A619CEB000CE5C9 /* piano-Bb.wav */,
+				F240F23F2A619CEB000CE5C9 /* piano-C..wav */,
+				F240F2322A619CEB000CE5C9 /* piano-C.wav */,
+				F240F2442A619CEC000CE5C9 /* piano-D..wav */,
+				F240F22E2A619CEB000CE5C9 /* piano-D.wav */,
+				F240F2362A619CEB000CE5C9 /* piano-Db..wav */,
+				F240F22F2A619CEB000CE5C9 /* piano-Db.wav */,
+				F240F2372A619CEB000CE5C9 /* piano-E..wav */,
+				F240F23A2A619CEB000CE5C9 /* piano-E.wav */,
+				F240F2402A619CEB000CE5C9 /* piano-Eb..wav */,
+				F240F2412A619CEB000CE5C9 /* piano-Eb.wav */,
+				F240F2392A619CEB000CE5C9 /* piano-F.wav */,
+				F240F2422A619CEC000CE5C9 /* piano-G.wav */,
+				F240F23C2A619CEB000CE5C9 /* piano-Gb.wav */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
 		F29EF6BB2A3633DC005398DF = {
 			isa = PBXGroup;
 			children = (
@@ -51,10 +144,18 @@
 		F29EF6C62A3633DC005398DF /* RagaFinder */ = {
 			isa = PBXGroup;
 			children = (
+				F2882A732A488A30007819B2 /* Sounds */,
 				F29EF6C72A3633DC005398DF /* RagaFinderApp.swift */,
 				F29EF6C92A3633DC005398DF /* ContentView.swift */,
+				F28392972A3F436D003BFF36 /* RagaBuilder.swift */,
+				F28392952A3F42BF003BFF36 /* RagaList.swift */,
+				F2882A712A47B5D5007819B2 /* SettingsView.swift */,
+				F281B93D2A4BB0E0008FD165 /* SingleRagaView.swift */,
+				F255D8172A4B520F00B6A8EC /* RagaData.swift */,
+				F281B9372A4B819F008FD165 /* ragaInfo.json */,
 				F29EF6CB2A3633DD005398DF /* Assets.xcassets */,
 				F29EF6CD2A3633DD005398DF /* Preview Content */,
+				F23369122A5CBE4C00F2F56F /* Test.swift */,
 			);
 			path = RagaFinder;
 			sourceTree = "<group>";
@@ -83,6 +184,8 @@
 			dependencies = (
 			);
 			name = RagaFinder;
+			packageProductDependencies = (
+			);
 			productName = RagaFinder;
 			productReference = F29EF6C42A3633DC005398DF /* RagaFinder.app */;
 			productType = "com.apple.product-type.application";
@@ -111,6 +214,8 @@
 				Base,
 			);
 			mainGroup = F29EF6BB2A3633DC005398DF;
+			packageReferences = (
+			);
 			productRefGroup = F29EF6C52A3633DC005398DF /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -125,8 +230,33 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F240F2582A619CEC000CE5C9 /* piano-Eb..wav in Resources */,
+				F240F2542A619CEC000CE5C9 /* piano-Gb.wav in Resources */,
+				F240F2492A619CEC000CE5C9 /* piano-.F.wav in Resources */,
+				F240F2512A619CEC000CE5C9 /* piano-F.wav in Resources */,
+				F240F2572A619CEC000CE5C9 /* piano-C..wav in Resources */,
+				F240F24B2A619CEC000CE5C9 /* piano-.Bb.wav in Resources */,
+				F281B9382A4B819F008FD165 /* ragaInfo.json in Resources */,
+				F240F2522A619CEC000CE5C9 /* piano-E.wav in Resources */,
+				F240F25A2A619CEC000CE5C9 /* piano-G.wav in Resources */,
+				F240F2482A619CEC000CE5C9 /* piano-.G.wav in Resources */,
+				F240F2462A619CEC000CE5C9 /* piano-D.wav in Resources */,
+				F240F24F2A619CEC000CE5C9 /* piano-E..wav in Resources */,
+				F240F2592A619CEC000CE5C9 /* piano-Eb.wav in Resources */,
+				F240F2532A619CEC000CE5C9 /* piano-.B.wav in Resources */,
+				F240F2472A619CEC000CE5C9 /* piano-Db.wav in Resources */,
+				F240F24E2A619CEC000CE5C9 /* piano-Db..wav in Resources */,
 				F29EF6CF2A3633DD005398DF /* Preview Assets.xcassets in Resources */,
+				F240F25C2A619CEC000CE5C9 /* piano-D..wav in Resources */,
+				F240F24A2A619CEC000CE5C9 /* piano-C.wav in Resources */,
+				F240F2452A619CEC000CE5C9 /* piano-.Ab.wav in Resources */,
+				F240F2502A619CEC000CE5C9 /* piano-Ab.wav in Resources */,
+				F240F2552A619CEC000CE5C9 /* piano-Bb.wav in Resources */,
 				F29EF6CC2A3633DD005398DF /* Assets.xcassets in Resources */,
+				F240F25B2A619CEC000CE5C9 /* piano-A.wav in Resources */,
+				F240F2562A619CEC000CE5C9 /* piano-B.wav in Resources */,
+				F240F24C2A619CEC000CE5C9 /* piano-.Gb.wav in Resources */,
+				F240F24D2A619CEC000CE5C9 /* piano-.A.wav in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,8 +267,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F255D8182A4B520F00B6A8EC /* RagaData.swift in Sources */,
 				F29EF6CA2A3633DC005398DF /* ContentView.swift in Sources */,
+				F28392962A3F42BF003BFF36 /* RagaList.swift in Sources */,
+				F28392982A3F436D003BFF36 /* RagaBuilder.swift in Sources */,
+				F2882A722A47B5D5007819B2 /* SettingsView.swift in Sources */,
+				F23369132A5CBE4C00F2F56F /* Test.swift in Sources */,
 				F29EF6C82A3633DC005398DF /* RagaFinderApp.swift in Sources */,
+				F281B93E2A4BB0E0008FD165 /* SingleRagaView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -264,26 +400,33 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"RagaFinder/Preview Content\"";
+				DEVELOPMENT_TEAM = 9N49KX2J3V;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "Find My Raga";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.rakshay.RagaFinder;
+				PRODUCT_BUNDLE_IDENTIFIER = com.RakshayNarayanan.RagaFinder;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -292,26 +435,33 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"RagaFinder/Preview Content\"";
+				DEVELOPMENT_TEAM = 9N49KX2J3V;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "Find My Raga";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.rakshay.RagaFinder;
+				PRODUCT_BUNDLE_IDENTIFIER = com.RakshayNarayanan.RagaFinder;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};

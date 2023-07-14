@@ -1,0 +1,6834 @@
+[
+  {
+    "mela_number": "1",
+    "melakarta": "true",
+    "raga_name": "Kanakangi",
+    "arohanam": "S R1 G1 M1 P D1 N1 S.",
+    "avarohanam": "S. N1 D1 P M1 G1 R1 S"
+  },
+  {
+    "mela_number": "1",
+    "melakarta": "false",
+    "raga_name": "Kanakambari",
+    "arohanam": "S R1 M1 P D1 S.",
+    "avarohanam": "S. N1 D1 P M1 G1 R1 S"
+  },
+  {
+    "mela_number": "1",
+    "melakarta": "false",
+    "raga_name": "Kanakatodi",
+    "arohanam": "S R1 G1 M1 P D1 S.",
+    "avarohanam": "S. N1 D1 P M1 R1 S"
+  },
+  {
+    "mela_number": "1",
+    "melakarta": "false",
+    "raga_name": "Karnataka Shuddha Saveri",
+    "arohanam": "S R1 M1 P D1 S.",
+    "avarohanam": "S. D1 P M1 R1 S"
+  },
+  {
+    "mela_number": "1",
+    "melakarta": "false",
+    "raga_name": "Latantapriya",
+    "arohanam": "S R1 G1 M1 P D1 S.",
+    "avarohanam": "S. D1 P M1 R1 S"
+  },
+  {
+    "mela_number": "1",
+    "melakarta": "false",
+    "raga_name": "Lavangi",
+    "arohanam": "S R1 M1 D1 S.",
+    "avarohanam": "S. D1 M1 R1 S"
+  },
+  {
+    "mela_number": "1",
+    "melakarta": "false",
+    "raga_name": "Megha",
+    "arohanam": "S R1 M1 P D1 N1 D1 P S.",
+    "avarohanam": "S. N1 D1 P M1 R1 S"
+  },
+  {
+    "mela_number": "1",
+    "melakarta": "false",
+    "raga_name": "Rishabhavilasa",
+    "arohanam": "S R1 M1 P D1 S.",
+    "avarohanam": "S. D1 P M1 R1 M1 R1 S"
+  },
+  {
+    "mela_number": "1",
+    "melakarta": "false",
+    "raga_name": "Sarvashree",
+    "arohanam": "S M1 P S.",
+    "avarohanam": "S. P M1 S"
+  },
+  {
+    "mela_number": "1",
+    "melakarta": "false",
+    "raga_name": "Suddha Mukhari",
+    "arohanam": "S R1 M1 P D1 S.",
+    "avarohanam": "S. N1 D1 P M1 G1 R1 S"
+  },
+  {
+    "mela_number": "1",
+    "melakarta": "false",
+    "raga_name": "Tatillatika",
+    "arohanam": "S R1 M1 P D1 S.",
+    "avarohanam": "S. D1 P M1 R1 S"
+  },
+  {
+    "mela_number": "1",
+    "melakarta": "false",
+    "raga_name": "Vageeshwari",
+    "arohanam": "S R1 G1 M1 P D1 S.",
+    "avarohanam": "S. D1 M1 P G1 R1 S"
+  },
+  {
+    "mela_number": "2",
+    "melakarta": "true",
+    "raga_name": "Rathnangi",
+    "arohanam": "S R1 G1 M1 P D1 N2 S.",
+    "avarohanam": "S. N2 D1 P M1 G1 R1 S"
+  },
+  {
+    "mela_number": "2",
+    "melakarta": "false",
+    "raga_name": "Phenadhyuti",
+    "arohanam": "S R1 M1 P D1 P N2 S.",
+    "avarohanam": "S. N2 D1 P M1 G1 R1 S"
+  },
+  {
+    "mela_number": "2",
+    "melakarta": "false",
+    "raga_name": "Ganamukhari",
+    "arohanam": "S R1 M1 D1 S.",
+    "avarohanam": "S. N2 D1 M1 R1 S"
+  },
+  {
+    "mela_number": "2",
+    "melakarta": "false",
+    "raga_name": "Ratnavarali",
+    "arohanam": "S R1 M1 P N2 D1 S.",
+    "avarohanam": "S. N2 P M1 R1 G1 R1 S"
+  },
+  {
+    "mela_number": "2",
+    "melakarta": "false",
+    "raga_name": "Revati",
+    "arohanam": "S R1 M1 P N2 S.",
+    "avarohanam": "S. N2 P M1 R1 S"
+  },
+  {
+    "mela_number": "2",
+    "melakarta": "false",
+    "raga_name": "Shreemani",
+    "arohanam": "S R1 G1 P D1 S.",
+    "avarohanam": "S. N2 D1 P G1 R1 S"
+  },
+  {
+    "mela_number": "2",
+    "melakarta": "false",
+    "raga_name": "Shreemati",
+    "arohanam": "S R1 G1 P D1 S.",
+    "avarohanam": "S. N2 D1 P G1 R1 S"
+  },
+  {
+    "mela_number": "3",
+    "melakarta": "true",
+    "raga_name": "Ganamoorti",
+    "arohanam": "S R1 G1 M1 P D1 N3 S.",
+    "avarohanam": "S. N3 D1 P M1 G1 R1 S"
+  },
+  {
+    "mela_number": "3",
+    "melakarta": "false",
+    "raga_name": "Ganasamavarali",
+    "arohanam": "R1 M1 P D1 N3 S.",
+    "avarohanam": "S. N3 D1 P M1 G1 R1 S"
+  },
+  {
+    "mela_number": "3",
+    "melakarta": "false",
+    "raga_name": "Bhinnapanchamam",
+    "arohanam": "S R1 G1 M1 P D1 N3 S.",
+    "avarohanam": "S. N3 D1 P M1 G1 R1 S"
+  },
+  {
+    "mela_number": "3",
+    "melakarta": "false",
+    "raga_name": "Nadharanjani",
+    "arohanam": "S R1 M1 D1 N3 S.",
+    "avarohanam": "S. N3 D1 M1 G1 R1 S"
+  },
+  {
+    "mela_number": "3",
+    "melakarta": "false",
+    "raga_name": "Poorvavarali",
+    "arohanam": "S R1 M1 P D1 S.",
+    "avarohanam": "S. N3 D1 P M1 G1 R1 S"
+  },
+  {
+    "mela_number": "3",
+    "melakarta": "false",
+    "raga_name": "Samavarali",
+    "arohanam": "S R1 M1 P D1 N3 S.",
+    "avarohanam": "S. N3 D1 P M1 G1 R1 G1 S"
+  },
+  {
+    "mela_number": "4",
+    "melakarta": "true",
+    "raga_name": "Vanaspati",
+    "arohanam": "S R1 G1 M1 P D2 N2 S.",
+    "avarohanam": "S. N2 D2 P M1 G1 R1 S"
+  },
+  {
+    "mela_number": "4",
+    "melakarta": "false",
+    "raga_name": "Bhanumati",
+    "arohanam": ".N2 S M1 P N2 S.",
+    "avarohanam": "S. N2 D2 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "4",
+    "melakarta": "false",
+    "raga_name": "Rasali",
+    "arohanam": "S R1 M1 P D2 N2 S.",
+    "avarohanam": "S. D2 P M1 R1 S"
+  },
+  {
+    "mela_number": "4",
+    "melakarta": "false",
+    "raga_name": "Vanavali",
+    "arohanam": "S R1 M1 P D2 N2 S.",
+    "avarohanam": "S. D2 P M1 R1 S"
+  },
+  {
+    "mela_number": "4",
+    "melakarta": "false",
+    "raga_name": "Vittalapriya",
+    "arohanam": "S R1 M1 P D2 S.",
+    "avarohanam": "S. D2 P M1 R1 S"
+  },
+  {
+    "mela_number": "5",
+    "melakarta": "true",
+    "raga_name": "Manavati",
+    "arohanam": "S R1 G1 M1 P D2 N3 S.",
+    "avarohanam": "S. N3 D2 P M1 G1 R1 S"
+  },
+  {
+    "mela_number": "5",
+    "melakarta": "false",
+    "raga_name": "Manoranjani",
+    "arohanam": "S R1 M1 P D2 N3 S.",
+    "avarohanam": "S. N3 D2 P M1 G1 R1 S"
+  },
+  {
+    "mela_number": "5",
+    "melakarta": "false",
+    "raga_name": "Ghanashyamala",
+    "arohanam": "S G1 M1 P D2 S.",
+    "avarohanam": "S. D2 N3 P M1 G1 R1 S"
+  },
+  {
+    "mela_number": "5",
+    "melakarta": "false",
+    "raga_name": "Kunjari",
+    "arohanam": "S R1 M1 P D2 P S.",
+    "avarohanam": "S. N3 D2 P M1 G1 R1 S"
+  },
+  {
+    "mela_number": "6",
+    "melakarta": "true",
+    "raga_name": "Tanaroopi",
+    "arohanam": "S R1 G1 M1 P D3 N3 S.",
+    "avarohanam": "S. N3 D3 P M1 G1 R1 S"
+  },
+  {
+    "mela_number": "6",
+    "melakarta": "false",
+    "raga_name": "Tanukeerti",
+    "arohanam": "S R1 M1 P N3 S.",
+    "avarohanam": "S. N3 D3 N3 P M1 G1 M1 R1 S"
+  },
+  {
+    "mela_number": "7",
+    "melakarta": "true",
+    "raga_name": "Senavati",
+    "arohanam": "S R1 G2 M1 P D1 N1 S.",
+    "avarohanam": "S. N1 D1 P M1 G2 R1 S"
+  },
+  {
+    "mela_number": "7",
+    "melakarta": "false",
+    "raga_name": "Senagrani",
+    "arohanam": "S R1 G2 R1 M1 G2 M1 P N1 D1 S.",
+    "avarohanam": "S. N1 D1 P M1 G2 M1 G2 R1 S"
+  },
+  {
+    "mela_number": "7",
+    "melakarta": "false",
+    "raga_name": "Bhogi",
+    "arohanam": "S G2 M1 P D1 N1 D1 S.",
+    "avarohanam": "S. N1 D1 P M1 G2 S"
+  },
+  {
+    "mela_number": "7",
+    "melakarta": "false",
+    "raga_name": "Chitthakarshani",
+    "arohanam": "S R1 G2 M1 D1 S.",
+    "avarohanam": "S. D1 M1 G2 R1 S"
+  },
+  {
+    "mela_number": "7",
+    "melakarta": "false",
+    "raga_name": "Navarasa Mala",
+    "arohanam": "S R1 G2 M1 P D1 S.",
+    "avarohanam": "S. N1 D1 P M1 R1 S"
+  },
+  {
+    "mela_number": "7",
+    "melakarta": "false",
+    "raga_name": "Sindhu Gowri",
+    "arohanam": "S R1 G2 M1 P D1 N1 S.",
+    "avarohanam": "S. N1 D1 M1 G2 M1 R1 S"
+  },
+  {
+    "mela_number": "8",
+    "melakarta": "true",
+    "raga_name": "Hanumatodi",
+    "arohanam": "S R1 G2 M1 P D1 N2 S.",
+    "avarohanam": "S. N2 D1 P M1 G2 R1 S"
+  },
+  {
+    "mela_number": "8",
+    "melakarta": "false",
+    "raga_name": "Janatodi",
+    "arohanam": "S R1 G2 M1 P D1 N2 S.",
+    "avarohanam": "S. N2 D1 P M1 G2 R1 S"
+  },
+  {
+    "mela_number": "8",
+    "melakarta": "false",
+    "raga_name": "Amrita Dhanyasi",
+    "arohanam": "S R1 G2 M1 P N2 S.",
+    "avarohanam": "S. N2 P M1 G2 R1 S"
+  },
+  {
+    "mela_number": "8",
+    "melakarta": "false",
+    "raga_name": "Asaveri",
+    "arohanam": "S R1 M1 P D1 S.",
+    "avarohanam": "S. N2 S P D1 M1 P R1 G2 R1 S"
+  },
+  {
+    "mela_number": "8",
+    "melakarta": "false",
+    "raga_name": "Bhanuchandrika",
+    "arohanam": "S M1 D1 N2 S.",
+    "avarohanam": "S. N2 D1 M1 G1 S"
+  },
+  {
+    "mela_number": "8",
+    "melakarta": "false",
+    "raga_name": "Bhadratodi",
+    "arohanam": "S R1 G2 M1 D1 S.",
+    "avarohanam": "S. N2 D1 P G2 S"
+  },
+  {
+    "mela_number": "8",
+    "melakarta": "false",
+    "raga_name": "Bhoopalam",
+    "arohanam": "S R1 G2 P D1 S.",
+    "avarohanam": "S. D1 P G2 R1 S"
+  },
+  {
+    "mela_number": "8",
+    "melakarta": "false",
+    "raga_name": "Chandrikatodi",
+    "arohanam": "S G2 M1 P D1 S.",
+    "avarohanam": "S. D1 P M1 G2 S"
+  },
+  {
+    "mela_number": "8",
+    "melakarta": "false",
+    "raga_name": "Deshikatodi",
+    "arohanam": "S G2 M1 P D1 N2 S.",
+    "avarohanam": "S. N2 D1 P M1 G2 R1 S"
+  },
+  {
+    "mela_number": "8",
+    "melakarta": "false",
+    "raga_name": "Dhanyasi",
+    "arohanam": "S G2 M1 P N2 S.",
+    "avarohanam": "S. N2 D1 P M1 G2 R1 S"
+  },
+  {
+    "mela_number": "8",
+    "melakarta": "false",
+    "raga_name": "Divyamalati",
+    "arohanam": "S G2 M1 P D1 N2 S.",
+    "avarohanam": "S. N2 D1 P M1 G2 S"
+  },
+  {
+    "mela_number": "8",
+    "melakarta": "false",
+    "raga_name": "Ghanta",
+    "arohanam": "S G2 R2 M1 P N2 S.",
+    "avarohanam": "S. N2 D1 P M1 G2 R1 S"
+  },
+  {
+    "mela_number": "8",
+    "melakarta": "false",
+    "raga_name": "Kalasaveri",
+    "arohanam": "S R1 G2 P N2 S.",
+    "avarohanam": "S. N2 P G2 R1 S"
+  },
+  {
+    "mela_number": "8",
+    "melakarta": "false",
+    "raga_name": "Kanakasaveri",
+    "arohanam": "S R1 M1 P D1 S.",
+    "avarohanam": "S. N2 D1 P M1 G2 R1 S"
+  },
+  {
+    "mela_number": "8",
+    "melakarta": "false",
+    "raga_name": "Nagavarali",
+    "arohanam": "S R1 G2 M1 P M1 D1 N2 S.",
+    "avarohanam": "S. N2 D1 P M1 G2 R1 S"
+  },
+  {
+    "mela_number": "8",
+    "melakarta": "false",
+    "raga_name": "Prabhupriya",
+    "arohanam": "S G2 M1 P D1 S.",
+    "avarohanam": "S. D1 P M1 G2 S"
+  },
+  {
+    "mela_number": "8",
+    "melakarta": "false",
+    "raga_name": "Punnagatodi",
+    "arohanam": ".N1 S R1 G2 M1 P",
+    "avarohanam": "P M1 G2 R1 S .N2 .D1"
+  },
+  {
+    "mela_number": "8",
+    "melakarta": "false",
+    "raga_name": "Punnagavarali",
+    "arohanam": ".N2 S R1 G2 M1 P D1 N2",
+    "avarohanam": "N2 D1 P M1 G2 R1 S .N2"
+  },
+  {
+    "mela_number": "8",
+    "melakarta": "false",
+    "raga_name": "Shravanamallika",
+    "arohanam": "S G2 M1 P D1 N2 S.",
+    "avarohanam": "S. N2 D1 P M1 G2 R1 S"
+  },
+  {
+    "mela_number": "8",
+    "melakarta": "false",
+    "raga_name": "Sowjanya",
+    "arohanam": "S R1 M1 D1 S.",
+    "avarohanam": "S. D1 M1 R1 S"
+  },
+  {
+    "mela_number": "8",
+    "melakarta": "false",
+    "raga_name": "Shuddha Seemantini",
+    "arohanam": "S R1 G2 M1 P D1 S.",
+    "avarohanam": "S. D1 P M1 G2 R1 S"
+  },
+  {
+    "mela_number": "8",
+    "melakarta": "false",
+    "raga_name": "Shuddha Todi",
+    "arohanam": "S R1 G2 M1 D1 N2 S.",
+    "avarohanam": "S. N2 D1 M1 G2 R1 S"
+  },
+  {
+    "mela_number": "8",
+    "melakarta": "false",
+    "raga_name": "Swarnamalli",
+    "arohanam": "S G2 M1 P D1 N1 S.",
+    "avarohanam": "S. N2 D1 P M1 G2 R1 S"
+  },
+  {
+    "mela_number": "9",
+    "melakarta": "true",
+    "raga_name": "Dhenuka",
+    "arohanam": "S R1 G2 M1 P D1 N3 S.",
+    "avarohanam": "S. N3 D1 P M1 G2 R1 S"
+  },
+  {
+    "mela_number": "9",
+    "melakarta": "false",
+    "raga_name": "Dhunibhinnashadjam",
+    "arohanam": "S R1 G2 R1 P M1 P N3 S.",
+    "avarohanam": "S. D1 P M1 G2 R1 S"
+  },
+  {
+    "mela_number": "9",
+    "melakarta": "false",
+    "raga_name": "Bhinnashadjam",
+    "arohanam": "S R1 G2 R1 P M1 P N3 S.",
+    "avarohanam": "S. D1 P M1 G2 R1 S"
+  },
+  {
+    "mela_number": "9",
+    "melakarta": "false",
+    "raga_name": "Mohananata",
+    "arohanam": "S G2 M1 P D1 P M1 P N3 S.",
+    "avarohanam": "S. N3 P D1 P M1 G2 S"
+  },
+  {
+    "mela_number": "9",
+    "melakarta": "false",
+    "raga_name": "Udayaravichandrika",
+    "arohanam": "S G2 M1 P N3 S.",
+    "avarohanam": "S. N3 P M1 G2 S"
+  },
+  {
+    "mela_number": "9",
+    "melakarta": "false",
+    "raga_name": "Vasanthatodi",
+    "arohanam": "S R1 G2 M1 D1 N3 S.",
+    "avarohanam": "S. N3 D1 M1 R1 S"
+  },
+  {
+    "mela_number": "10",
+    "melakarta": "true",
+    "raga_name": "Natakapriya",
+    "arohanam": "S R1 G2 M1 P D2 N2 S.",
+    "avarohanam": "S. N2 D2 P M1 G2 R1 S"
+  },
+  {
+    "mela_number": "10",
+    "melakarta": "false",
+    "raga_name": "Natabharanam",
+    "arohanam": "S R1 G2 M1 P D2 N2 S.",
+    "avarohanam": "S. N2 D2 P M1 G2 R1 S"
+  },
+  {
+    "mela_number": "10",
+    "melakarta": "false",
+    "raga_name": "Alankarapriya",
+    "arohanam": "S R1 G2 M1 D2 N2 S.",
+    "avarohanam": "S. N2 D2 M1 G2 R1 S"
+  },
+  {
+    "mela_number": "10",
+    "melakarta": "false",
+    "raga_name": "Bhagyashabari",
+    "arohanam": "S R1 G2 M1 D2 N2 S.",
+    "avarohanam": "S. N2 D2 M1 G2 R1 S"
+  },
+  {
+    "mela_number": "10",
+    "melakarta": "false",
+    "raga_name": "Deeparamu",
+    "arohanam": "S R1 G2 M1 P D2 N2 S.",
+    "avarohanam": "S. N2 D2 N2 P M1 G2 R1 S"
+  },
+  {
+    "mela_number": "10",
+    "melakarta": "false",
+    "raga_name": "Gunavati",
+    "arohanam": "S R1 M1 P D2 S.",
+    "avarohanam": "S. D2 P M1 R1 S"
+  },
+  {
+    "mela_number": "10",
+    "melakarta": "false",
+    "raga_name": "Hindoladeshikam",
+    "arohanam": "S M1 R1 G2 M1 P D2 N2 S.",
+    "avarohanam": "S. P N2 D2 M1 G2 R1 S"
+  },
+  {
+    "mela_number": "10",
+    "melakarta": "false",
+    "raga_name": "Kanakadri",
+    "arohanam": "S R1 G2 P D2 S.",
+    "avarohanam": "S. N2 D2 P M1 G2 R1 S"
+  },
+  {
+    "mela_number": "10",
+    "melakarta": "false",
+    "raga_name": "Matangakamini",
+    "arohanam": "S G2 M1 P D1 N2 S.",
+    "avarohanam": "S. N2 D1 P M1 G2 S"
+  },
+  {
+    "mela_number": "10",
+    "melakarta": "false",
+    "raga_name": "Natyadharana",
+    "arohanam": "S R1 M1 P D2 S.",
+    "avarohanam": "S. N2 D2 P M1 R1 S"
+  },
+  {
+    "mela_number": "10",
+    "melakarta": "false",
+    "raga_name": "Niranjana",
+    "arohanam": "S R1 G2 M1 P D2 S.",
+    "avarohanam": "S. N2 D2 P M1 G2 R1 S"
+  },
+  {
+    "mela_number": "10",
+    "melakarta": "false",
+    "raga_name": "Shanthabhashini",
+    "arohanam": "S R1 G2 M1 P D2 S.",
+    "avarohanam": "S. N2 D2 P M1 S"
+  },
+  {
+    "mela_number": "10",
+    "melakarta": "false",
+    "raga_name": "Shivashakti",
+    "arohanam": "S G2 M1 D2 S.",
+    "avarohanam": "S. N2 D2 M1 G2 S"
+  },
+  {
+    "mela_number": "10",
+    "melakarta": "false",
+    "raga_name": "Sindhubhairavi",
+    "arohanam": "S R2 G2 M1 G2 P D1 N2 S.",
+    "avarohanam": "N2 D1 P M1 G2 R1 S N2 S"
+  },
+  {
+    "mela_number": "11",
+    "melakarta": "true",
+    "raga_name": "Kokilapriyaa",
+    "arohanam": "S R1 G2 M1 P D2 N3 S.",
+    "avarohanam": "S. N3 D2 P M1 G2 R1 S"
+  },
+  {
+    "mela_number": "11",
+    "melakarta": "false",
+    "raga_name": "Kokilaravam",
+    "arohanam": "S R1 M1 P D2 N3 S.",
+    "avarohanam": "S. N3 D2 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "11",
+    "melakarta": "false",
+    "raga_name": "Chitramani",
+    "arohanam": "S R1 M1 P D2 N3 S.",
+    "avarohanam": "S. N3 D2 P M1 G2 R1 S"
+  },
+  {
+    "mela_number": "11",
+    "melakarta": "false",
+    "raga_name": "Jnanachintamani",
+    "arohanam": "S R1 M1 D2 N3 S.",
+    "avarohanam": "S. N3 D2 P M1 R1 S"
+  },
+  {
+    "mela_number": "11",
+    "melakarta": "false",
+    "raga_name": "Kowmari",
+    "arohanam": "S R1 G2 M1 P D2 S.",
+    "avarohanam": "S. N3 D2 P M1 G2 R1 S"
+  },
+  {
+    "mela_number": "11",
+    "melakarta": "false",
+    "raga_name": "Shuddha Lalitha",
+    "arohanam": "S P M1 D2 N3 S.",
+    "avarohanam": "S. N3 S D2 P M1 G2 R1 S"
+  },
+  {
+    "mela_number": "11",
+    "melakarta": "false",
+    "raga_name": "Vardhani",
+    "arohanam": "S G2 M1 P M1 P D2 N3 S.",
+    "avarohanam": "S. N3 D2 P M1 G2 R1 S"
+  },
+  {
+    "mela_number": "11",
+    "melakarta": "false",
+    "raga_name": "Vasantamalli",
+    "arohanam": "S G2 M1 P N3 S.",
+    "avarohanam": "S. D2 P M1 G2 S"
+  },
+  {
+    "mela_number": "11",
+    "melakarta": "false",
+    "raga_name": "Vasantanarayani",
+    "arohanam": "S R1 G2 M1 P S.",
+    "avarohanam": "S. N3 D2 P M1 G2 R1 S"
+  },
+  {
+    "mela_number": "12",
+    "melakarta": "true",
+    "raga_name": "Rupavati",
+    "arohanam": "S R1 G2 M1 P D3 N3 S.",
+    "avarohanam": "S. N3 D3 P M1 G2 R1 S"
+  },
+  {
+    "mela_number": "12",
+    "melakarta": "false",
+    "raga_name": "Rowpyanaka",
+    "arohanam": "S M1 P D3 N3 S.",
+    "avarohanam": "S. N3 P M1 G2 R1 S"
+  },
+  {
+    "mela_number": "12",
+    "melakarta": "false",
+    "raga_name": "Shyamakalyani",
+    "arohanam": "S M1 G2 M1 P D3 N3 S.",
+    "avarohanam": "S. N3 P D3 N3 P M1 G2 R1 S"
+  },
+  {
+    "mela_number": "13",
+    "melakarta": "true",
+    "raga_name": "Gayakapriya",
+    "arohanam": "S R1 G3 M1 P D1 N1 S.",
+    "avarohanam": "S. N1 D1 P M1 G3 R1 S"
+  },
+  {
+    "mela_number": "13",
+    "melakarta": "false",
+    "raga_name": "Geya Hejjajji",
+    "arohanam": "S R1 M1 G3 M1 P D1 S.",
+    "avarohanam": "S. N3 D1 P M1 G3 R1 S"
+  },
+  {
+    "mela_number": "13",
+    "melakarta": "false",
+    "raga_name": "Hejjajji",
+    "arohanam": "S R1 G3 M1 P D1 S.",
+    "avarohanam": "S. N1 D1 P M1 G3 R1 S"
+  },
+  {
+    "mela_number": "13",
+    "melakarta": "false",
+    "raga_name": "Kalakanti",
+    "arohanam": "S R1 G3 M1 D1 N1 S.",
+    "avarohanam": "S. N1 D1 P G3 R1 S"
+  },
+  {
+    "mela_number": "13",
+    "melakarta": "false",
+    "raga_name": "Kalkada (1)",
+    "arohanam": "S R1 G3 P D1 N1 S",
+    "avarohanam": "S. N1 D1 P G3 R1 S"
+  },
+  {
+    "mela_number": "13",
+    "melakarta": "false",
+    "raga_name": "Kalkada (2)",
+    "arohanam": "S R1 G3 P D1 S.",
+    "avarohanam": "S. N1 D1 P G3 R1 S"
+  },
+  {
+    "mela_number": "13",
+    "melakarta": "false",
+    "raga_name": "Kalpanadharini",
+    "arohanam": "S G3 M1 P D1 S.",
+    "avarohanam": "S. N1 D1 P M1 G3 R1 S"
+  },
+  {
+    "mela_number": "14",
+    "melakarta": "true",
+    "raga_name": "Vakulabharanam",
+    "arohanam": "S R1 G3 M1 P D1 N2 S.",
+    "avarohanam": "S. N2 D1 P M1 G3 R1 S"
+  },
+  {
+    "mela_number": "14",
+    "melakarta": "false",
+    "raga_name": "Vatee Vasantabhairavi",
+    "arohanam": "S R1 G3 M1 D1 N2 S.",
+    "avarohanam": "S. N2 D1 M1 G3 R1 S"
+  },
+  {
+    "mela_number": "14",
+    "melakarta": "false",
+    "raga_name": "Ahiri",
+    "arohanam": "S R1 S G3 M1 P D1 N2 S.",
+    "avarohanam": "S. N2 D1 P M1 G3 R1 S"
+  },
+  {
+    "mela_number": "14",
+    "melakarta": "false",
+    "raga_name": "Amudhasurabhi",
+    "arohanam": "S M1 G3 M1 P D1 S.",
+    "avarohanam": "S. N2 D1 P M1 R1 S"
+  },
+  {
+    "mela_number": "14",
+    "melakarta": "false",
+    "raga_name": "Devipriya",
+    "arohanam": "S G3 P N2 S.",
+    "avarohanam": "S. N2 D1 P M1 G3 R1 S"
+  },
+  {
+    "mela_number": "14",
+    "melakarta": "false",
+    "raga_name": "Kalindaja",
+    "arohanam": "S R1 G3 M1 P N2 S.",
+    "avarohanam": "S. N2 P M1 G3 R1 S"
+  },
+  {
+    "mela_number": "14",
+    "melakarta": "false",
+    "raga_name": "Kuvalayabharanam",
+    "arohanam": "S R1 G3 M1 D1 N1 S.",
+    "avarohanam": "S. N1 D1 M1 G3 R1 S"
+  },
+  {
+    "mela_number": "14",
+    "melakarta": "false",
+    "raga_name": "Sallapa",
+    "arohanam": "S G3 M1 D1 N2 S.",
+    "avarohanam": "S. N2 D1 M1 G3 S"
+  },
+  {
+    "mela_number": "14",
+    "melakarta": "false",
+    "raga_name": "Soma",
+    "arohanam": "S R1 P M1 D1 N2 S.",
+    "avarohanam": "S. N2 D1 M1 P M1 G3 R1 S"
+  },
+  {
+    "mela_number": "14",
+    "melakarta": "false",
+    "raga_name": "Surya",
+    "arohanam": "S G3 M1 D1 N2 S.",
+    "avarohanam": "S. N2 D1 M1 G3 S"
+  },
+  {
+    "mela_number": "14",
+    "melakarta": "false",
+    "raga_name": "Shuddha Kambhoji",
+    "arohanam": "S G3 R1 M1 P N2 S.",
+    "avarohanam": "S. N2 P M1 G3 R1 S"
+  },
+  {
+    "mela_number": "14",
+    "melakarta": "false",
+    "raga_name": "Vasantabhairavi",
+    "arohanam": "S R1 G3 M1 D1 N2 S.",
+    "avarohanam": "S. N2 D1 M1 G3 R1 S"
+  },
+  {
+    "mela_number": "14",
+    "melakarta": "false",
+    "raga_name": "Vasanta Mukhari",
+    "arohanam": "S M1 G3 M1 P D1 N2 S.",
+    "avarohanam": "S. N2 D1 P M1 G3 R1 S"
+  },
+  {
+    "mela_number": "14",
+    "melakarta": "false",
+    "raga_name": "Vijayollasini",
+    "arohanam": "S R1 G3 M1 P M1 D1 N2 S.",
+    "avarohanam": "S. N2 D1 P M1 G3 R1 S"
+  },
+  {
+    "mela_number": "15",
+    "melakarta": "true",
+    "raga_name": "Mayamalava Gowla",
+    "arohanam": "S R1 G3 M1 P D1 N3 S.",
+    "avarohanam": "S. N3 D1 P M1 G3 R1 S"
+  },
+  {
+    "mela_number": "15",
+    "melakarta": "false",
+    "raga_name": "Ardhradesi",
+    "arohanam": "S R1 G3 M1 P D1 N3 S.",
+    "avarohanam": "S. D1 P M1 G3 R1 S"
+  },
+  {
+    "mela_number": "15",
+    "melakarta": "false",
+    "raga_name": "Bhavini",
+    "arohanam": "S G3 M1 P D1 N3 S.",
+    "avarohanam": "S. N3 D1 P M1 G3 S"
+  },
+  {
+    "mela_number": "15",
+    "melakarta": "false",
+    "raga_name": "Bibhas",
+    "arohanam": "S R1 G3 P D1 S.",
+    "avarohanam": "S. D1 P M1 R1 S"
+  },
+  {
+    "mela_number": "15",
+    "melakarta": "false",
+    "raga_name": "Bowli",
+    "arohanam": "S R1 G3 P D1 S.",
+    "avarohanam": "S. N3 D1 P G3 R1 S"
+  },
+  {
+    "mela_number": "15",
+    "melakarta": "false",
+    "raga_name": "Bowli Ramakriya",
+    "arohanam": "S R1 G3 P D1 S.",
+    "avarohanam": "S. N3 P D1 P M1 G3 R1 S"
+  },
+  {
+    "mela_number": "15",
+    "melakarta": "false",
+    "raga_name": "Charuvardhani",
+    "arohanam": "S R1 M1 P D1 N3 S.",
+    "avarohanam": "S. D1 P M1 G3 R1 S"
+  },
+  {
+    "mela_number": "15",
+    "melakarta": "false",
+    "raga_name": "Chayagowla",
+    "arohanam": "S R1 M1 G3 M1 P N3 S.",
+    "avarohanam": "S. N3 D1 P M1 G3 R1 S"
+  },
+  {
+    "mela_number": "15",
+    "melakarta": "false",
+    "raga_name": "Chandrachooda",
+    "arohanam": "S M1 G3 M1 P D1 S.",
+    "avarohanam": "S. N3 D1 P M1 G3 S"
+  },
+  {
+    "mela_number": "15",
+    "melakarta": "false",
+    "raga_name": "Deshyagowla",
+    "arohanam": "S R1 P D1 N3 S.",
+    "avarohanam": "S. N3 D1 P R1 S"
+  },
+  {
+    "mela_number": "15",
+    "melakarta": "false",
+    "raga_name": "Devaranji",
+    "arohanam": "S M1 P D1 P N3 S.",
+    "avarohanam": "S. N3 D1 P M1 S"
+  },
+  {
+    "mela_number": "15",
+    "melakarta": "false",
+    "raga_name": "Ekakshari",
+    "arohanam": "S R1 G3 M1 P D1 N3 S.",
+    "avarohanam": "S. N1 P M1 R1 G3 M1 R1 S"
+  },
+  {
+    "mela_number": "15",
+    "melakarta": "false",
+    "raga_name": "Ghanasindhu",
+    "arohanam": "S M1 G3 M1 P D1 N3 D1 S.",
+    "avarohanam": "S. N3 D1 P M1 G3 R1 S"
+  },
+  {
+    "mela_number": "15",
+    "melakarta": "false",
+    "raga_name": "Gowla",
+    "arohanam": "S R1 M1 P N3 S.",
+    "avarohanam": "S. N3 P M1 R1 G3 M1 R1 S"
+  },
+  {
+    "mela_number": "15",
+    "melakarta": "false",
+    "raga_name": "Gowlipantu",
+    "arohanam": "S R1 M1 P N3 S.",
+    "avarohanam": "S. N3 D1 P M1 D1 M1 G3 R1 S"
+  },
+  {
+    "mela_number": "15",
+    "melakarta": "false",
+    "raga_name": "Gowri",
+    "arohanam": "S R1 M1 P N3 S.",
+    "avarohanam": "S. N3 D1 P M1 G3 R1 S"
+  },
+  {
+    "mela_number": "15",
+    "melakarta": "false",
+    "raga_name": "Gummakambhoji",
+    "arohanam": "S R1 G3 P D1 N3 S.",
+    "avarohanam": "S. N3 D1 P M1 G3 R1 S"
+  },
+  {
+    "mela_number": "15",
+    "melakarta": "false",
+    "raga_name": "Gundakriya",
+    "arohanam": "S R1 M1 P N3 S.",
+    "avarohanam": "S. N3 P D1 P M1 G3 R1 S"
+  },
+  {
+    "mela_number": "15",
+    "melakarta": "false",
+    "raga_name": "Gurjari",
+    "arohanam": "S R1 G3 M1 P D1 N3 S.",
+    "avarohanam": "S. D1 N3 P M1 G3 R1 S"
+  },
+  {
+    "mela_number": "15",
+    "melakarta": "false",
+    "raga_name": "Jaganmohini",
+    "arohanam": "S G3 M1 P N3 S.",
+    "avarohanam": "S. N3 P M1 G3 R1 S"
+  },
+  {
+    "mela_number": "15",
+    "melakarta": "false",
+    "raga_name": "Kalyanakesari",
+    "arohanam": "S R1 G3 P D1 S.",
+    "avarohanam": "S. D1 P G3 R1 S"
+  },
+  {
+    "mela_number": "15",
+    "melakarta": "false",
+    "raga_name": "Kannadabangala",
+    "arohanam": "S R1 M1 G3 M1 D1 P D1 S.",
+    "avarohanam": "S. D1 P M1 G3 R1 S"
+  },
+  {
+    "mela_number": "15",
+    "melakarta": "false",
+    "raga_name": "Karnataka Saranga",
+    "arohanam": "S R1 G3 M1 P D1 N3 S.",
+    "avarohanam": "S. N3 D1 P M1 R1 S"
+  },
+  {
+    "mela_number": "15",
+    "melakarta": "false",
+    "raga_name": "Lalita",
+    "arohanam": "S R1 G3 M1 D1 N3 S.",
+    "avarohanam": "S. N3 D1 M1 G3 R1 S"
+  },
+  {
+    "mela_number": "15",
+    "melakarta": "false",
+    "raga_name": "Lalitapanchamam",
+    "arohanam": "S R1 G3 M1 D1 N3 S.",
+    "avarohanam": "S. N3 D1 M1 P M1 G3 R1 S"
+  },
+  {
+    "mela_number": "15",
+    "melakarta": "false",
+    "raga_name": "Malavakurinji",
+    "arohanam": "S G3 P D1 N3 S.",
+    "avarohanam": "S. N3 D1 M1 R1 S"
+  },
+  {
+    "mela_number": "15",
+    "melakarta": "false",
+    "raga_name": "Malavapanchamam",
+    "arohanam": "S R1 G3 M1 P N3 S.",
+    "avarohanam": "S. N3 D1 P M1 G3 R1 S"
+  },
+  {
+    "mela_number": "15",
+    "melakarta": "false",
+    "raga_name": "Margadesi",
+    "arohanam": "S R1 G3 R1 G3 D1 M1 P D1 S.",
+    "avarohanam": "S. D1 P M1 G3 R1 S"
+  },
+  {
+    "mela_number": "15",
+    "melakarta": "false",
+    "raga_name": "Malahari",
+    "arohanam": "S R1 M1 P D1 S.",
+    "avarohanam": "S. D1 P M1 G3 R1 S"
+  },
+  {
+    "mela_number": "15",
+    "melakarta": "false",
+    "raga_name": "Mallikavasantam",
+    "arohanam": "S G3 M1 P N3 S.",
+    "avarohanam": "S. N3 D1 P M1 G3 R1 S"
+  },
+  {
+    "mela_number": "15",
+    "melakarta": "false",
+    "raga_name": "Mangalakaishiki",
+    "arohanam": "S R1 M1 G3 D1 P S.",
+    "avarohanam": "S. N3 D1 P M1 G3 R1 S"
+  },
+  {
+    "mela_number": "15",
+    "melakarta": "false",
+    "raga_name": "Manolayam",
+    "arohanam": "S R1 M1 P D1 S.",
+    "avarohanam": "S. N3 D1 P M1 R1 S"
+  },
+  {
+    "mela_number": "15",
+    "melakarta": "false",
+    "raga_name": "Maruva",
+    "arohanam": "S G3 M1 D1 N3 S.",
+    "avarohanam": "S. N3 D1 P G3 M1 G3 R1 S R1 G3 R1 S"
+  },
+  {
+    "mela_number": "15",
+    "melakarta": "false",
+    "raga_name": "Mechabowli",
+    "arohanam": "S R1 G3 P D1 S.",
+    "avarohanam": "S. N3 D1 P M1 G3 R1 S"
+  },
+  {
+    "mela_number": "15",
+    "melakarta": "false",
+    "raga_name": "Megharanjani",
+    "arohanam": "S R1 G3 M1 N3 S.",
+    "avarohanam": "S. N3 M1 G3 R1 S"
+  },
+  {
+    "mela_number": "15",
+    "melakarta": "false",
+    "raga_name": "Nadanamakriya",
+    "arohanam": "S R1 G3 M1 P D1 N3",
+    "avarohanam": "N3 D1 P M1 G3 R1 S N3"
+  },
+  {
+    "mela_number": "15",
+    "melakarta": "false",
+    "raga_name": "Padi",
+    "arohanam": "S R1 M1 P N3 S.",
+    "avarohanam": "S. N3 P D1 P M1 R1 S"
+  },
+  {
+    "mela_number": "15",
+    "melakarta": "false",
+    "raga_name": "Pharaju (Paras)",
+    "arohanam": "S G3 M1 P D1 N3 S.",
+    "avarohanam": "S. N3 D1 P M1 G3 R1 S"
+  },
+  {
+    "mela_number": "15",
+    "melakarta": "false",
+    "raga_name": "Poornalalita",
+    "arohanam": "S R1 G3 M1 P D1 S.",
+    "avarohanam": "S. D1 P M1 G3 R1 S"
+  },
+  {
+    "mela_number": "15",
+    "melakarta": "false",
+    "raga_name": "Poorvi",
+    "arohanam": "S R1 G3 M1 D1 N3 S.",
+    "avarohanam": "S. N3 D1 P M1 G3 R1 S"
+  },
+  {
+    "mela_number": "15",
+    "melakarta": "false",
+    "raga_name": "Poorvikavasanta",
+    "arohanam": "S M1 G3 M1 D N3 S.",
+    "avarohanam": "S. N3 D1 M1 P M1 G3 R1 S"
+  },
+  {
+    "mela_number": "15",
+    "melakarta": "false",
+    "raga_name": "Pratapadhanyasi",
+    "arohanam": "S G3 M1 P N3 S.",
+    "avarohanam": "S. N3 D1 P M1 G3 R1 S"
+  },
+  {
+    "mela_number": "15",
+    "melakarta": "false",
+    "raga_name": "Prataparanjani",
+    "arohanam": "S R1 M1 P D1 N3 S.",
+    "avarohanam": "S. N3 D1 P M1 G3 R1 S"
+  },
+  {
+    "mela_number": "15",
+    "melakarta": "false",
+    "raga_name": "Puranirmai",
+    "arohanam": "S R1 G3 P D1 S.",
+    "avarohanam": "S. N3 D1 P G3 R1 S"
+  },
+  {
+    "mela_number": "15",
+    "melakarta": "false",
+    "raga_name": "Ramakali",
+    "arohanam": "S R1 G3 P D1 S.",
+    "avarohanam": "S. N3 D1 P M1 G3 R1 S"
+  },
+  {
+    "mela_number": "15",
+    "melakarta": "false",
+    "raga_name": "Ramakriya",
+    "arohanam": "S G3 M1 P D1 N3 S.",
+    "avarohanam": "S. N3 P D1 P M1 G3 R1 S"
+  },
+  {
+    "mela_number": "15",
+    "melakarta": "false",
+    "raga_name": "Revagupti",
+    "arohanam": "S R1 G3 P D1 S.",
+    "avarohanam": "S. D1 P G3 R1 S"
+  },
+  {
+    "mela_number": "15",
+    "melakarta": "false",
+    "raga_name": "Rukhmambari",
+    "arohanam": "S R1 G3 P N3 S.",
+    "avarohanam": "S. N3 P G3 R1 S"
+  },
+  {
+    "mela_number": "15",
+    "melakarta": "false",
+    "raga_name": "Samantadeepara",
+    "arohanam": "S R1 G3 M1 P N3 S.",
+    "avarohanam": "S. N3 P M1 G3 R1 S"
+  },
+  {
+    "mela_number": "15",
+    "melakarta": "false",
+    "raga_name": "Saranga Nata",
+    "arohanam": "S R1 M1 P D1 S.",
+    "avarohanam": "S. N3 S D1 P M1 G3 R1 S"
+  },
+  {
+    "mela_number": "15",
+    "melakarta": "false",
+    "raga_name": "Saveri",
+    "arohanam": "S R1 M1 P D1 S.",
+    "avarohanam": "S. N3 D1 P M1 G3 R1 S"
+  },
+  {
+    "mela_number": "15",
+    "melakarta": "false",
+    "raga_name": "Salanganata",
+    "arohanam": "S R1 M1 P D1 S.",
+    "avarohanam": "S. D1 P G3 R1 S"
+  },
+  {
+    "mela_number": "15",
+    "melakarta": "false",
+    "raga_name": "Satyavati",
+    "arohanam": "S G3 R1 G3 P D1 S.",
+    "avarohanam": "S. N3 D1 N3 P D1 P G3 R1 S"
+  },
+  {
+    "mela_number": "15",
+    "melakarta": "false",
+    "raga_name": "Sindhu Ramakriya",
+    "arohanam": "S G3 M1 P D1 N3 S.",
+    "avarohanam": "S. N3 P M1 G3 R1 G3 S"
+  },
+  {
+    "mela_number": "15",
+    "melakarta": "false",
+    "raga_name": "Surasindhu",
+    "arohanam": "S M1 G3 M1 P D1 N3 D1 S.",
+    "avarohanam": "S. N3 D1 P M1 R1 G3 R1 S"
+  },
+  {
+    "mela_number": "15",
+    "melakarta": "false",
+    "raga_name": "Tarakagowla",
+    "arohanam": "S G3 M1 D1 N3 S.",
+    "avarohanam": "S. N3 D1 M1 G3 S"
+  },
+  {
+    "mela_number": "15",
+    "melakarta": "false",
+    "raga_name": "Takka",
+    "arohanam": "S R1 S G3 M1 G3 P M1 D1 N3 S.",
+    "avarohanam": "S. N3 D1 P M1 G3 R1 S"
+  },
+  {
+    "mela_number": "15",
+    "melakarta": "false",
+    "raga_name": "Ushavali",
+    "arohanam": "S R1 M1 P D1 S.",
+    "avarohanam": "S. N3 D1 M1 P M1 R1 S"
+  },
+  {
+    "mela_number": "15",
+    "melakarta": "false",
+    "raga_name": "Visharada",
+    "arohanam": "S R1 M1 P N3 S.",
+    "avarohanam": "S. N3 P M1 R1 S"
+  },
+  {
+    "mela_number": "16",
+    "melakarta": "true",
+    "raga_name": "Chakravakam",
+    "arohanam": "S R1 G3 M1 P D2 N2 S.",
+    "avarohanam": "S. N2 D2 P M1 G3 R1 S"
+  },
+  {
+    "mela_number": "16",
+    "melakarta": "false",
+    "raga_name": "Toyavegavahini",
+    "arohanam": "S R1 G3 M1 P D2 N2 S.",
+    "avarohanam": "S. N2 D2 P M1 G3 R1 S"
+  },
+  {
+    "mela_number": "16",
+    "melakarta": "false",
+    "raga_name": "Ahir Bhairavi",
+    "arohanam": "S R1 G3 M1 P N2 D2 M1 P D2 S.",
+    "avarohanam": "S. N2 D2 P M1 P G3 R1 S"
+  },
+  {
+    "mela_number": "16",
+    "melakarta": "false",
+    "raga_name": "Bhakthapriya",
+    "arohanam": "S G3 M1 P D2 N2 S.",
+    "avarohanam": "S. N2 D2 P M1 R1 M1 G3 S"
+  },
+  {
+    "mela_number": "16",
+    "melakarta": "false",
+    "raga_name": "Bhujangini",
+    "arohanam": "S R1 G3 M1 D2 N2 S.",
+    "avarohanam": "S. N2 D2 M1 G3 R1 S"
+  },
+  {
+    "mela_number": "16",
+    "melakarta": "false",
+    "raga_name": "Bindhumalini",
+    "arohanam": "S G3 R1 G3 M1 P N2 S.",
+    "avarohanam": "S. N2 S D2 P G3 M1 P G3 R1 S"
+  },
+  {
+    "mela_number": "16",
+    "melakarta": "false",
+    "raga_name": "Chakranarayani",
+    "arohanam": "S R1 M1 P D2 N2 S.",
+    "avarohanam": "S. N2 D2 P M1 R1 S"
+  },
+  {
+    "mela_number": "16",
+    "melakarta": "false",
+    "raga_name": "Ghoshini",
+    "arohanam": "S M1 G3 M1 P D2 N2 D2 S.",
+    "avarohanam": "S. N2 D2 P M1 G3 R1 S"
+  },
+  {
+    "mela_number": "16",
+    "melakarta": "false",
+    "raga_name": "Guhapriya",
+    "arohanam": "S R1 G3 M1 P P M1 D2 N2 S.",
+    "avarohanam": "S. N2 D2 P M1 G3 S R1 S"
+  },
+  {
+    "mela_number": "16",
+    "melakarta": "false",
+    "raga_name": "Kalavati",
+    "arohanam": "S R1 M1 P D2 S.",
+    "avarohanam": "S. D2 P M1 G3 S R1 S"
+  },
+  {
+    "mela_number": "16",
+    "melakarta": "false",
+    "raga_name": "Kokila",
+    "arohanam": "S R1 G3 M1 D2 N2 S.",
+    "avarohanam": "S. N2 D2 M1 G3 R1 S"
+  },
+  {
+    "mela_number": "16",
+    "melakarta": "false",
+    "raga_name": "Malayamarutam",
+    "arohanam": "S R1 G3 P D2 N2 S.",
+    "avarohanam": "S. N2 D2 P G3 R1 S"
+  },
+  {
+    "mela_number": "16",
+    "melakarta": "false",
+    "raga_name": "Mukthangi",
+    "arohanam": "S R1 G3 M1 P D2 N2 S.",
+    "avarohanam": "S. D2 N2 P M1 G3 R1 S"
+  },
+  {
+    "mela_number": "16",
+    "melakarta": "false",
+    "raga_name": "Mukundamalini",
+    "arohanam": "S R1 G2 P D2 S.",
+    "avarohanam": "S. D2 P G2 R1 S"
+  },
+  {
+    "mela_number": "16",
+    "melakarta": "false",
+    "raga_name": "Poornapanchamam",
+    "arohanam": "P M1 S R1 S M1 P D2",
+    "avarohanam": "D2 P M1 G3 R1 S N2"
+  },
+  {
+    "mela_number": "16",
+    "melakarta": "false",
+    "raga_name": "Pravritti",
+    "arohanam": "S G3 M1 P D2 N2 S.",
+    "avarohanam": "S. N2 D2 P M1 G3 S"
+  },
+  {
+    "mela_number": "16",
+    "melakarta": "false",
+    "raga_name": "Ragamanjari",
+    "arohanam": "S R1 M1 P D2 S.",
+    "avarohanam": "S. N2 D2 M1 R1 S"
+  },
+  {
+    "mela_number": "16",
+    "melakarta": "false",
+    "raga_name": "Rasikaranjani",
+    "arohanam": "S R1 G3 P S.",
+    "avarohanam": "S. D2 P G3 R1 S"
+  },
+  {
+    "mela_number": "16",
+    "melakarta": "false",
+    "raga_name": "Shree Nabhomargini",
+    "arohanam": "S G3 M1 P D2 N2 S.",
+    "avarohanam": "S. D2 P M1 G3 R1 S"
+  },
+  {
+    "mela_number": "16",
+    "melakarta": "false",
+    "raga_name": "Shyamali",
+    "arohanam": "S G3 P D2 N2 S.",
+    "avarohanam": "S. N2 D2 P G3 R1 S"
+  },
+  {
+    "mela_number": "16",
+    "melakarta": "false",
+    "raga_name": "Subhashini",
+    "arohanam": "S .D2 .N2 .D2 R1 G3 M1 P",
+    "avarohanam": "M1 G3 R1 S .N2 .D2 .N2 S"
+  },
+  {
+    "mela_number": "16",
+    "melakarta": "false",
+    "raga_name": "Valaji",
+    "arohanam": "S G3 P D2 N2 S.",
+    "avarohanam": "S. N2 D2 P G3 S"
+  },
+  {
+    "mela_number": "16",
+    "melakarta": "false",
+    "raga_name": "Veenadhari",
+    "arohanam": "S R1 G3 P D2 N2 S.",
+    "avarohanam": "S. N2 D2 P M1 G3 R1 S"
+  },
+  {
+    "mela_number": "16",
+    "melakarta": "false",
+    "raga_name": "Vegavahini",
+    "arohanam": "S R1 G3 M1 D2 N2 D2 S.",
+    "avarohanam": "S. N2 D2 P M1 G3 R1 S"
+  },
+  {
+    "mela_number": "17",
+    "melakarta": "true",
+    "raga_name": "Sooryakantam",
+    "arohanam": "S R1 G3 M1 P D2 N3 S.",
+    "avarohanam": "S. N3 D2 P M1 G3 R1 S"
+  },
+  {
+    "mela_number": "17",
+    "melakarta": "false",
+    "raga_name": "Chayavathi",
+    "arohanam": "S R1 G3 M1 D2 N3 S.",
+    "avarohanam": "S. N3 D2 P M1 G3 R1 S"
+  },
+  {
+    "mela_number": "17",
+    "melakarta": "false",
+    "raga_name": "Bhairavam",
+    "arohanam": "S R1 G3 M1 P D2 N3 S.",
+    "avarohanam": "S. D2 P M1 G3 R1 S"
+  },
+  {
+    "mela_number": "17",
+    "melakarta": "false",
+    "raga_name": "Haridarpa",
+    "arohanam": "S R1 G3 M1 P D2 N3 S.",
+    "avarohanam": "S. D2 P M1 R1 S"
+  },
+  {
+    "mela_number": "17",
+    "melakarta": "false",
+    "raga_name": "Jayasamvardhani",
+    "arohanam": "S G3 M1 P D2 N3 S.",
+    "avarohanam": "S. N3 P M1 G3 R1 S"
+  },
+  {
+    "mela_number": "17",
+    "melakarta": "false",
+    "raga_name": "Jeevantika",
+    "arohanam": "S R1 M1 P D2 N3 S.",
+    "avarohanam": "S. N3 D2 P M1 R1 S"
+  },
+  {
+    "mela_number": "17",
+    "melakarta": "false",
+    "raga_name": "Kusumamaruta",
+    "arohanam": "S M1 P D2 N3 S.",
+    "avarohanam": "S. N3 D2 P M1 G3 R1 G3 M1 S"
+  },
+  {
+    "mela_number": "17",
+    "melakarta": "false",
+    "raga_name": "Nagachoodamani",
+    "arohanam": "S R1 G3 M1 P D2 S.",
+    "avarohanam": "S. D2 N2 D2 P M1 G3 M1 R2 S"
+  },
+  {
+    "mela_number": "17",
+    "melakarta": "false",
+    "raga_name": "Rohini",
+    "arohanam": "S R1 G2 M1 M2 D2 N3 S.",
+    "avarohanam": "S. N3 D2 M2 M1 G2 R1 S"
+  },
+  {
+    "mela_number": "17",
+    "melakarta": "false",
+    "raga_name": "Samakannada",
+    "arohanam": "S R2 M1 G2 M1 P D2 N3 S.",
+    "avarohanam": "S. N3 D2 P M1 R1 S"
+  },
+  {
+    "mela_number": "17",
+    "melakarta": "false",
+    "raga_name": "Sowrashtram",
+    "arohanam": "S R1 G3 M1 P M1 D2 N3 S.",
+    "avarohanam": "S. N3 D2 N2 D2 P M1 G3 R1 S"
+  },
+  {
+    "mela_number": "17",
+    "melakarta": "false",
+    "raga_name": "Suddha Gowla",
+    "arohanam": "S R1 M1 P N3 S.",
+    "avarohanam": "S. N3 P M1 R1 S"
+  },
+  {
+    "mela_number": "17",
+    "melakarta": "false",
+    "raga_name": "Supradeepam",
+    "arohanam": "S R1 M1 P D2 N3 S.",
+    "avarohanam": "S. N3 D2 P M1 G3 M1 R1 S"
+  },
+  {
+    "mela_number": "17",
+    "melakarta": "false",
+    "raga_name": "Vasantha",
+    "arohanam": "S M1 G3 M1 D2 N3 S.",
+    "avarohanam": "S. N3 D2 M1 G3 R1 S"
+  },
+  {
+    "mela_number": "18",
+    "melakarta": "true",
+    "raga_name": "Hatakambari",
+    "arohanam": "S R1 G3 M1 P D3 N3 S.",
+    "avarohanam": "S. N3 D3 P M1 G3 R1 S"
+  },
+  {
+    "mela_number": "18",
+    "melakarta": "false",
+    "raga_name": "Jayashuddhamalavi",
+    "arohanam": "S R1 G3 M1 P N3 S.",
+    "avarohanam": "S. N3 D3 P M1 G3 R1 S"
+  },
+  {
+    "mela_number": "18",
+    "melakarta": "false",
+    "raga_name": "Hamsanantini",
+    "arohanam": "S G3 M1 P S.",
+    "avarohanam": "S. P M1 G3 R1 S"
+  },
+  {
+    "mela_number": "18",
+    "melakarta": "false",
+    "raga_name": "Kallola",
+    "arohanam": "S P D3 N3 S.",
+    "avarohanam": "S. N3 D3 P M1 G3 R1 S"
+  },
+  {
+    "mela_number": "18",
+    "melakarta": "false",
+    "raga_name": "Simhala",
+    "arohanam": "S R1 G3 M1 P D3 N3 S.",
+    "avarohanam": "S. N3 D3 N3 P M1 G3 R1 S"
+  },
+  {
+    "mela_number": "19",
+    "melakarta": "true",
+    "raga_name": "Jhankaradhvani",
+    "arohanam": "S R2 G2 M1 P D1 N1 S.",
+    "avarohanam": "S. N1 D1 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "19",
+    "melakarta": "false",
+    "raga_name": "Jhankarabhramari (1)",
+    "arohanam": "S R2 G2 M1 P D1 N1 D1 P D1 S.",
+    "avarohanam": "S. N1 D1 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "19",
+    "melakarta": "false",
+    "raga_name": "Jhankarabhramari (2)",
+    "arohanam": "S R2 G2 M1 P D1 S.",
+    "avarohanam": "S. N1 D1 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "19",
+    "melakarta": "false",
+    "raga_name": "Jhankarabhramari (3)",
+    "arohanam": "S R2 G2 M1 P D1 N1 D1 S.",
+    "avarohanam": "S. D1 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "19",
+    "melakarta": "false",
+    "raga_name": "Jhankarabhramari (4)",
+    "arohanam": "S R2 G2 M1 P D1 N1 D1 S.",
+    "avarohanam": "S. N1 D1 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "19",
+    "melakarta": "false",
+    "raga_name": "Jhankarabhramari (5)",
+    "arohanam": "S G2 R2 G M1 P D1 N1 D1 S.",
+    "avarohanam": "S. N1 D1 P M1 G2 R2 G R2 S"
+  },
+  {
+    "mela_number": "19",
+    "melakarta": "false",
+    "raga_name": "Jhankarabhramari (6)",
+    "arohanam": "S R2 G2 M1 P D1 N1 D1 S.",
+    "avarohanam": "D1 N1 D1 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "19",
+    "melakarta": "false",
+    "raga_name": "Bharati",
+    "arohanam": "S R2 G2 M1 P S.",
+    "avarohanam": "S. P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "19",
+    "melakarta": "false",
+    "raga_name": "Chittaranjani",
+    "arohanam": "S R2 G2 M1 P D1 N1",
+    "avarohanam": "N1 D1 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "19",
+    "melakarta": "false",
+    "raga_name": "Jalmika",
+    "arohanam": "S R2 G1 M1 P D1 N1 S.",
+    "avarohanam": "S. N1 D1 P M1 G1 S R2 S"
+  },
+  {
+    "mela_number": "19",
+    "melakarta": "false",
+    "raga_name": "Lalitabhairavi",
+    "arohanam": "S G2 M1 P D1 S.",
+    "avarohanam": "S. N1 D1 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "19",
+    "melakarta": "false",
+    "raga_name": "Poornalalita (1)",
+    "arohanam": "S G2 R2 M1 P S.",
+    "avarohanam": "S. N1 D1 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "19",
+    "melakarta": "false",
+    "raga_name": "Poornalalita (2)",
+    "arohanam": "S G2 R2 G2 R2 M1 P S.",
+    "avarohanam": "S. N1 D1 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "19",
+    "melakarta": "false",
+    "raga_name": "Poornalalita (3)",
+    "arohanam": "S R2 G2 R2 M1 P S.",
+    "avarohanam": "S. N1 D1 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "19",
+    "melakarta": "false",
+    "raga_name": "Poornalalita (4)",
+    "arohanam": "S R2 G2 M1 P S.",
+    "avarohanam": "S. N1 D1 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "19",
+    "melakarta": "false",
+    "raga_name": "Poornalalita (5)",
+    "arohanam": "S G2 R2 G2 M1 P S.",
+    "avarohanam": "S. N1 D1 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "20",
+    "melakarta": "true",
+    "raga_name": "Natabhairavi",
+    "arohanam": "S R2 G2 M1 P D1 N2 S.",
+    "avarohanam": "S. N2 D1 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "20",
+    "melakarta": "false",
+    "raga_name": "Nareretigowla",
+    "arohanam": "S G2 R2 G2 M1 N2 D1 M1 N2 N2 S.",
+    "avarohanam": "S. N2 D1 M1 G2 M1 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "20",
+    "melakarta": "false",
+    "raga_name": "Anandabhairavi",
+    "arohanam": "S G2 R2 G2 M1 P D2 P S.",
+    "avarohanam": "S. N2 D2 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "20",
+    "melakarta": "false",
+    "raga_name": "Amrithavahini",
+    "arohanam": "S R2 M1 P D1 N2 S.",
+    "avarohanam": "S. N2 D1 M1 G2 R2 S"
+  },
+  {
+    "mela_number": "20",
+    "melakarta": "false",
+    "raga_name": "Bhairavi",
+    "arohanam": "S G2 R2 G2 M1 P D2 N2 S.",
+    "avarohanam": "S. N2 D1 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "20",
+    "melakarta": "false",
+    "raga_name": "Bhuvanagandhari",
+    "arohanam": "S R2 M1 P N2 S.",
+    "avarohanam": "S. N2 D1 P M1 G2 S"
+  },
+  {
+    "mela_number": "20",
+    "melakarta": "false",
+    "raga_name": "Chapagantarva",
+    "arohanam": "S G2 M1 P N2",
+    "avarohanam": "D1 M1 G2 R2 S N2"
+  },
+  {
+    "mela_number": "20",
+    "melakarta": "false",
+    "raga_name": "Darbari Kanada",
+    "arohanam": ".N2 S R2 G2 R2 S M1 P D1 N2 S.",
+    "avarohanam": "S. D1 N2 P M1 P G2 M1 R2 S"
+  },
+  {
+    "mela_number": "20",
+    "melakarta": "false",
+    "raga_name": "Devakriya",
+    "arohanam": "S R2 M1 P N2 S.",
+    "avarohanam": "S. N2 D1 N2 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "20",
+    "melakarta": "false",
+    "raga_name": "Dhanashree",
+    "arohanam": ".N2 S G2 M1 P N2 S.",
+    "avarohanam": "S. N2 D1 P M1 G2 R1 S"
+  },
+  {
+    "mela_number": "20",
+    "melakarta": "false",
+    "raga_name": "Dharmaprakashini",
+    "arohanam": "S R2 M1 P N2 S.",
+    "avarohanam": "S. N2 D1 M1 G2 R2 S"
+  },
+  {
+    "mela_number": "20",
+    "melakarta": "false",
+    "raga_name": "Dilipika Vasantha",
+    "arohanam": "S G2 M1 P D1 P N2 S.",
+    "avarohanam": "S. D1 P M1 R2 S"
+  },
+  {
+    "mela_number": "20",
+    "melakarta": "false",
+    "raga_name": "Divyagandhari",
+    "arohanam": "S G2 M1 P D1 N2 S.",
+    "avarohanam": "S. N2 P M1 G2 S"
+  },
+  {
+    "mela_number": "20",
+    "melakarta": "false",
+    "raga_name": "Gopikavasantam",
+    "arohanam": "S R2 G2 M1 P D1 P N2",
+    "avarohanam": "S. N2 D1 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "20",
+    "melakarta": "false",
+    "raga_name": "Hindolam",
+    "arohanam": "S G2 M1 D1 N2 S.",
+    "avarohanam": "S. N2 D1 M1 G2 S"
+  },
+  {
+    "mela_number": "20",
+    "melakarta": "false",
+    "raga_name": "Hindolavasanta",
+    "arohanam": "S G2 M1 P D1 N2 D1 S.",
+    "avarohanam": "S. N2 D1 P M1 D2 M1 G2 S"
+  },
+  {
+    "mela_number": "20",
+    "melakarta": "false",
+    "raga_name": "Indughantarava",
+    "arohanam": "S G2 M1 P D1 P",
+    "avarohanam": "N2 D1 P M1 G2 R2 S N2"
+  },
+  {
+    "mela_number": "20",
+    "melakarta": "false",
+    "raga_name": "Jayanthashrib",
+    "arohanam": "S G2 M1 D1 N2 S.",
+    "avarohanam": "S. N2 D1 M1 P M1 G2 S"
+  },
+  {
+    "mela_number": "20",
+    "melakarta": "false",
+    "raga_name": "Jingala",
+    "arohanam": "S R2 G2 M1 P D1 N2 D1 P S.",
+    "avarohanam": "S. N2 D1 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "20",
+    "melakarta": "false",
+    "raga_name": "Jonpuri",
+    "arohanam": "S R2 M1 P D1 N2 S.",
+    "avarohanam": "S. N2 D1 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "20",
+    "melakarta": "false",
+    "raga_name": "Katyayani",
+    "arohanam": "S R2 G2 P D2 S.",
+    "avarohanam": "S. D2 P G2 R2 S"
+  },
+  {
+    "mela_number": "20",
+    "melakarta": "false",
+    "raga_name": "Kanakavasantham",
+    "arohanam": "S G2 M1 P N2 D1 S.",
+    "avarohanam": "S. N2 D1 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "20",
+    "melakarta": "false",
+    "raga_name": "Kshanika",
+    "arohanam": "S G2 M1 P D1 S.",
+    "avarohanam": "S. D1 P M1 G2 S"
+  },
+  {
+    "mela_number": "20",
+    "melakarta": "false",
+    "raga_name": "Manji",
+    "arohanam": "S R2 G2 M1 P D2 N2 S.",
+    "avarohanam": "S. N2 D1 P M1 P M1 P G2 R2 S"
+  },
+  {
+    "mela_number": "20",
+    "melakarta": "false",
+    "raga_name": "Mahati",
+    "arohanam": "S G2 P D1 N2 S.",
+    "avarohanam": "S. N2 P G2 R2 S"
+  },
+  {
+    "mela_number": "20",
+    "melakarta": "false",
+    "raga_name": "Malkosh",
+    "arohanam": "S G2 M1 D1 N2 S.",
+    "avarohanam": "S. N2 D1 M1 G2 S"
+  },
+  {
+    "mela_number": "20",
+    "melakarta": "false",
+    "raga_name": "Nagagandhari",
+    "arohanam": "S R2 M1 G2 M1 P D1 N2 S.",
+    "avarohanam": "S. N2 D1 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "20",
+    "melakarta": "false",
+    "raga_name": "Navarathna Vilasam",
+    "arohanam": "S R2 G2 M1 P D1 P S.",
+    "avarohanam": "S. D1 P M1 G2 M1 R2 S"
+  },
+  {
+    "mela_number": "20",
+    "melakarta": "false",
+    "raga_name": "Niblamati",
+    "arohanam": "S G2 M1 P D1 N2 S.",
+    "avarohanam": "S. N2 D1 M1 G2 S"
+  },
+  {
+    "mela_number": "20",
+    "melakarta": "false",
+    "raga_name": "Niblaveni",
+    "arohanam": "S R2 G2 M1 P D1 N2 D1 S.",
+    "avarohanam": "S. D1 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "20",
+    "melakarta": "false",
+    "raga_name": "Poornashadjam (1)",
+    "arohanam": "S R2 G2 M1 N2 N2 S.",
+    "avarohanam": "S. N2 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "20",
+    "melakarta": "false",
+    "raga_name": "Poornashadjam (2)",
+    "arohanam": "S R2 G2 M1 N2 S.",
+    "avarohanam": "S. N2 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "20",
+    "melakarta": "false",
+    "raga_name": "Rajarajeshwari",
+    "arohanam": "S R2 M1 P D1 S.",
+    "avarohanam": "S. N2 D1 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "20",
+    "melakarta": "false",
+    "raga_name": "Saramati",
+    "arohanam": "S R2 G2 M1 P D1 N2 S.",
+    "avarohanam": "S. N2 D1 M1 G2 S"
+  },
+  {
+    "mela_number": "20",
+    "melakarta": "false",
+    "raga_name": "Saranga Kapi",
+    "arohanam": "S R1 P M1 R1 P R1 M1 P N2 S.",
+    "avarohanam": "S. N2 D1 P M1 G2 R1 S"
+  },
+  {
+    "mela_number": "20",
+    "melakarta": "false",
+    "raga_name": "Sharadapriya",
+    "arohanam": "S R2 G2 P N2 S.",
+    "avarohanam": "S. N2 P G2 R2 S"
+  },
+  {
+    "mela_number": "20",
+    "melakarta": "false",
+    "raga_name": "Shree Navarasachandrika",
+    "arohanam": "S R2 G2 M1 P D1 S.",
+    "avarohanam": "S. D1 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "20",
+    "melakarta": "false",
+    "raga_name": "Sindhu Dhanyasi",
+    "arohanam": "S G2 M1 P N2 S.",
+    "avarohanam": "S. N2 D1 M1 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "20",
+    "melakarta": "false",
+    "raga_name": "Shuddha Desi",
+    "arohanam": "S R2 G2 R2 M1 P D1 N2 S.",
+    "avarohanam": "S. N2 D1 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "20",
+    "melakarta": "false",
+    "raga_name": "Shuddha Salavi",
+    "arohanam": "S G2 M1 P N2 S.",
+    "avarohanam": "S. N2 P M1 R2 S"
+  },
+  {
+    "mela_number": "20",
+    "melakarta": "false",
+    "raga_name": "Sukumari",
+    "arohanam": "S G2 M1 P N2 D1 N2 S.",
+    "avarohanam": "S. N2 P M1 G2 M1 R2 S"
+  },
+  {
+    "mela_number": "20",
+    "melakarta": "false",
+    "raga_name": "Sushama",
+    "arohanam": "S R2 M1 P D1 S.",
+    "avarohanam": "S. D1 P M1 R2 S"
+  },
+  {
+    "mela_number": "20",
+    "melakarta": "false",
+    "raga_name": "Sutradhari",
+    "arohanam": "(Also 27) S R2 M1 P D1 S.",
+    "avarohanam": "S. D1 P M1 R2 S"
+  },
+  {
+    "mela_number": "20",
+    "melakarta": "false",
+    "raga_name": "Tarkshika",
+    "arohanam": "S R2 M1 P N2 S.",
+    "avarohanam": "S. N2 D1 P M1 R2 G2 R2 S"
+  },
+  {
+    "mela_number": "20",
+    "melakarta": "false",
+    "raga_name": "Udayaraga",
+    "arohanam": "S G2 M1 P N2 S.",
+    "avarohanam": "S. N2 P M1 G2 S"
+  },
+  {
+    "mela_number": "20",
+    "melakarta": "false",
+    "raga_name": "Vasantavarali",
+    "arohanam": "S R2 M1 P D1 S.",
+    "avarohanam": "S. N2 D1 P G2 R2 S"
+  },
+  {
+    "mela_number": "21",
+    "melakarta": "true",
+    "raga_name": "Keeravani",
+    "arohanam": "S R2 G2 M1 P D1 N3 S.",
+    "avarohanam": "S. N3 D1 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "21",
+    "melakarta": "false",
+    "raga_name": "Keeranavali",
+    "arohanam": "S R2 G2 M1 P D1 N3 S.",
+    "avarohanam": "S. P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "21",
+    "melakarta": "false",
+    "raga_name": "Aymmukhan",
+    "arohanam": "S G2 M1 P D1 N3 S.",
+    "avarohanam": "S. N3 D1 P M1 G2 S"
+  },
+  {
+    "mela_number": "21",
+    "melakarta": "false",
+    "raga_name": "Bhanupriya",
+    "arohanam": "S R2 G2 D1 N3 S.",
+    "avarohanam": "S. N3 D1 G2 R2 S"
+  },
+  {
+    "mela_number": "21",
+    "melakarta": "false",
+    "raga_name": "Chandrika",
+    "arohanam": "S R2 G2 P D1 N3 S.",
+    "avarohanam": "S. N3 D1 P G2 R2 S"
+  },
+  {
+    "mela_number": "21",
+    "melakarta": "false",
+    "raga_name": "Gaganabhoopalam",
+    "arohanam": "S M1 G2 M1 P D1 N3",
+    "avarohanam": "S. N3 D1 M1 G2 R2 S"
+  },
+  {
+    "mela_number": "21",
+    "melakarta": "false",
+    "raga_name": "Hamsapancama",
+    "arohanam": "S G2 M1 P N3 D1 N3 P S.",
+    "avarohanam": "S. N3 D1 M1 G2 R2 S"
+  },
+  {
+    "mela_number": "21",
+    "melakarta": "false",
+    "raga_name": "Hamsavahini",
+    "arohanam": "S R2 M1 P D1 N3 S.",
+    "avarohanam": "S. N3 D1 P M1 R2 S"
+  },
+  {
+    "mela_number": "21",
+    "melakarta": "false",
+    "raga_name": "Jayashree",
+    "arohanam": "S R2 G2 M1 P D1 N3 D1 S.",
+    "avarohanam": "S. N3 D1 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "21",
+    "melakarta": "false",
+    "raga_name": "Chandrakauns (Hindustani)",
+    "arohanam": "S G2 M1 D1 N3 S.",
+    "avarohanam": "S. N3 D1 M1 G2 S"
+  },
+  {
+    "mela_number": "21",
+    "melakarta": "false",
+    "raga_name": "Kalyana Vasantam",
+    "arohanam": "S G2 M1 D1 N3 S.",
+    "avarohanam": "S. N3 D1 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "21",
+    "melakarta": "false",
+    "raga_name": "Kusumavali",
+    "arohanam": "S G2 M1 P D1 S.",
+    "avarohanam": "S. N3 D1 P M1 G2 M1 R1 S"
+  },
+  {
+    "mela_number": "21",
+    "melakarta": "false",
+    "raga_name": "Madhavi",
+    "arohanam": "S M1 G2 M1 P D1 N3 S.",
+    "avarohanam": "S. N3 D1 P M1 S M1 G2 R1 S"
+  },
+  {
+    "mela_number": "21",
+    "melakarta": "false",
+    "raga_name": "Mishramanolayam",
+    "arohanam": "S R2 M1 P D1 S.",
+    "avarohanam": "S. D2 D1 P M1 R2 S"
+  },
+  {
+    "mela_number": "21",
+    "melakarta": "false",
+    "raga_name": "Priyadarshani",
+    "arohanam": "S R2 M1 D1 N3 S.",
+    "avarohanam": "S. N3 D1 M1 R2 S"
+  },
+  {
+    "mela_number": "21",
+    "melakarta": "false",
+    "raga_name": "Rishipriya",
+    "arohanam": "S R2 G2 M1 P D1 N3 S.",
+    "avarohanam": "S. N3 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "21",
+    "melakarta": "false",
+    "raga_name": "Samapriya",
+    "arohanam": "S R2 M1 P D1 S.",
+    "avarohanam": "S. D1 P M1 R2 S"
+  },
+  {
+    "mela_number": "21",
+    "melakarta": "false",
+    "raga_name": "Shrothasvini",
+    "arohanam": "S G2 M1 P N3 S.",
+    "avarohanam": "S. N3 P M1 G2 S"
+  },
+  {
+    "mela_number": "21",
+    "melakarta": "false",
+    "raga_name": "Vasanthamanohari",
+    "arohanam": "S R2 G2 M1 D1 N3 S.",
+    "avarohanam": "S. N3 D1 M1 G2 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "true",
+    "raga_name": "Kharaharapriya",
+    "arohanam": "S R2 G2 M1 P D2 N2 S.",
+    "avarohanam": "S. N2 D2 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Shree",
+    "arohanam": "S R2 M1 P N2 S.",
+    "avarohanam": "S. N2 P D2 N2 P M1 R2 G2 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Abheri",
+    "arohanam": "S G2 M1 P N2 S.",
+    "avarohanam": "S. N2 D2 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Abhogi",
+    "arohanam": "S R2 G2 M1 D2 S.",
+    "avarohanam": "S. D2 M1 G2 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Adi Kapi",
+    "arohanam": "S R2 M1 G2 M1 P D2 N2 S.",
+    "avarohanam": "S. N2 D2 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Aryamati",
+    "arohanam": "S R2 G2 P D2 S.",
+    "avarohanam": "S. N2 D2 P D2 M1 G2 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Agnikopa",
+    "arohanam": "S G2 M1 P N2 S.",
+    "avarohanam": "S. N2 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Asaveri",
+    "arohanam": "S R2 G2 M1 D2 N2 S.",
+    "avarohanam": "S. N2 D2 M1 P D2 M1 G2 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Balachandrika",
+    "arohanam": "S G2 M1 P D2 N2 S.",
+    "avarohanam": "S. N2 D2 M1 G2 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Basant Bahar",
+    "arohanam": "S M2 P G3 M2 N3 D1 N3 S.",
+    "avarohanam": "R2. S. N2 D2 P M1 G2 M1 G2 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Bhageshri",
+    "arohanam": "S G2 M1 D2 N2 S.",
+    "avarohanam": "S. N2 D2 M1 P D2 G2 M1 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Bhagavatapriya",
+    "arohanam": "S R2 G2 M1 P N2 S.",
+    "avarohanam": "S. N2 D2 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Bhagavathpriya",
+    "arohanam": "S R2 G2 M1 R2 M1 P D2 N2 S.",
+    "avarohanam": "S. N2 D2 P M1 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Bhimpalas",
+    "arohanam": ".N2 S G2 M1 P N2 S.",
+    "avarohanam": "S. N2 D2 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Brindavana Saranga",
+    "arohanam": "S R2 M1 P N3 S.",
+    "avarohanam": "S. N2 P M1 R2 G2 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Brindavani",
+    "arohanam": "S R2 M1 P N3 S.",
+    "avarohanam": "S. N2 P M1 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Chakrapradipta",
+    "arohanam": "S R2 G2 M1 P M1 D2 N2 S.",
+    "avarohanam": "S. N2 D2 M1 G2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Chittaranjani",
+    "arohanam": "S R2 G2 M1 P D2 N2",
+    "avarohanam": "N2 D2 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Darbar",
+    "arohanam": "S R2 M1 P D2 N2 S.",
+    "avarohanam": "R2 S N2 S D2 P M1 R2 G2 G2 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Dayavati",
+    "arohanam": "S R2 G2 P N2 S.",
+    "avarohanam": "S. N2 P M1 G2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Devamruthavarshani",
+    "arohanam": "S R2 G2 M1 N2 D2 N2 S.",
+    "avarohanam": "S. N2 D2 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Deva Manohari",
+    "arohanam": "S R2 M1 P D2 N2 S.",
+    "avarohanam": "S. N2 D2 N2 P M1 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Dhanakapi",
+    "arohanam": "S R2 M1 P N2 S (Varies)",
+    "avarohanam": "S. N2 D2 N2 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Dilipika",
+    "arohanam": "S R2 G2 M1 P N2 D2 N2 P D2 N2 S.",
+    "avarohanam": "S. N2 D2 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Durga",
+    "arohanam": "S R2 M1 D2 P D2 S.",
+    "avarohanam": "S. D2 P M1 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Gowla Kannada",
+    "arohanam": "S R2 G2 M1 P D2 N2 S.",
+    "avarohanam": "S. N2 P M1 G2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Hamsa abheri",
+    "arohanam": "S G2 P M1 P N2 S.",
+    "avarohanam": "S. N2 D2 P M1 G2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Haridasapriya",
+    "arohanam": "S P M1 G3 M1 P N2 S.",
+    "avarohanam": "S. N2 D2 N2 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Harinarayani",
+    "arohanam": "S R2 G2 M1 P M1 D2 N2 S.",
+    "avarohanam": "S. N2 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Hindustani Kapi",
+    "arohanam": "S R2 M1 P N2 S.",
+    "avarohanam": "S. N2 D2 N2 P M1 G2 M1 D2 P G2 R2 S N2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Huseni (1)",
+    "arohanam": "S R2 G2 M1 P N2 D2 N2 S.",
+    "avarohanam": "S. N2 D1 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Huseni (2)",
+    "arohanam": "S R2 G3 M1 P N3 D2 M1 P N3 S.",
+    "avarohanam": "S. N3 S P D2 M1 P G3 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Jayamanohari",
+    "arohanam": "S R2 G2 M1 D2 S.",
+    "avarohanam": "S. N2 D2 M1 G2 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Jayanarayani",
+    "arohanam": "S R2 G2 M1 P D2 S.",
+    "avarohanam": "S. N2 D2 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Jayanthasena",
+    "arohanam": "S G2 M1 P D2 S.",
+    "avarohanam": "S. N2 D2 P M1 G2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Kanada",
+    "arohanam": "S R2 G2 M1 D2 N2 S.",
+    "avarohanam": "S. N2 P M1 G2 M1 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Kapi",
+    "arohanam": "S R2 M1 P N3 S.",
+    "avarohanam": "S. N2 D2 N2 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Kapijingala",
+    "arohanam": "S .N2 S R2 G2 M1",
+    "avarohanam": "M1 G2 R2 S .N2 .D2 .N2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Kalanidhi",
+    "arohanam": "S R2 G2 M1 S P M1 D2 N2 S.",
+    "avarohanam": "S. N2 D2 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Kalika",
+    "arohanam": "S R2 G2 P D2 N2 S.",
+    "avarohanam": "S. N2 D2 P G2 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Kannadagowla",
+    "arohanam": "S R2 G2 M1 P N2 S.",
+    "avarohanam": "S. N2 D2 P M1 G2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Karnataka Hindolam",
+    "arohanam": "S G2 M1 D2 N2 S.",
+    "avarohanam": "S. N2 D2 M1 G2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Karnataka Kapi",
+    "arohanam": "S R2 G2 M1 P D2 N2 S.",
+    "avarohanam": "S. N2 D2 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Karnaranjani",
+    "arohanam": "S R2 G2 M1 G2 P D2 S.",
+    "avarohanam": "S. N2 D2 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Kowmodaki",
+    "arohanam": "S R2 G2 M1 P D2 N2 S.",
+    "avarohanam": "S. D2 P G2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Kowshika",
+    "arohanam": "S G2 M1 D2 N2 S.",
+    "avarohanam": "S. N2 D2 M1 G2 M1 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Lalitamanohari",
+    "arohanam": "S G2 M1 P D2 N2 S.",
+    "avarohanam": "S. N2 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Madhavamanohari",
+    "arohanam": "S R2 G2 M1 P N2 D2 N2 S.",
+    "avarohanam": "S. N2 D2 M1 G2 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Malavashree",
+    "arohanam": "S G2 M1 P N2 D2 N2 P D2 N2 S.",
+    "avarohanam": "S. N2 D2 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Margahindolam",
+    "arohanam": "S R2 G2 M1 P D2 N2 S.",
+    "avarohanam": "S. N2 D2 P M1 G2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Mayapradeeptam",
+    "arohanam": "S M1 G2 M1 P D2 N2 S.",
+    "avarohanam": "S. D2 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Madhyamaravali",
+    "arohanam": "S R2 G2 P D2 N2 S.",
+    "avarohanam": "S. N2 D2 P G2 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Madhyamavathi",
+    "arohanam": "S R2 M1 P N2 S.",
+    "avarohanam": "S. N2 P M1 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Mahanandhi",
+    "arohanam": "S R2 G2 P D2 S.",
+    "avarohanam": "S. D2 P G2 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Mandamari",
+    "arohanam": "S R2 M1 P D2 S.",
+    "avarohanam": "S. N2 S D2 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Mangalavathi",
+    "arohanam": "S R2 M1 P D2 S.",
+    "avarohanam": "S. D2 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Manirangu",
+    "arohanam": "S R2 M1 P N2 S.",
+    "avarohanam": "S. N2 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Manjari",
+    "arohanam": "S G2 R2 G2 M1 P N2 D2 N2 S.",
+    "avarohanam": "S. N2 D2 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Manohari",
+    "arohanam": "S G2 R2 G2 M1 P D2 S.",
+    "avarohanam": "S. D2 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Manorama",
+    "arohanam": "S R2 G2 M1 P D1 P S.",
+    "avarohanam": "S. N2 D1 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Maruvadhanyasi",
+    "arohanam": "S G2 M1 P D2 S.",
+    "avarohanam": "S. N2 D2 P M1 D2 M1 G2 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Mishramanolayam",
+    "arohanam": "S R2 M1 P D1 S.",
+    "avarohanam": "S. D2 D1 P M1 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Mishrashivaranjani",
+    "arohanam": "S R2 G2 P D2 S.",
+    "avarohanam": "S. D2 P G3 G2 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Miyan Malhar",
+    "arohanam": "S R2 P M1 P N2 D2 N2 S.",
+    "avarohanam": "S. N2 P M1 P G2 M1 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Mukhari",
+    "arohanam": "S R2 M1 P N2 D2 S.",
+    "avarohanam": "S. N2 D1 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Nadachintamani",
+    "arohanam": "S R2 G2 M1 N2 D2 N2 S.",
+    "avarohanam": "S. N2 D2 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Nadatarangini",
+    "arohanam": "S P M1 R2 G2 S.",
+    "avarohanam": "S. P N2 D2 P M1 G2 R2 G2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Nadavarangini",
+    "arohanam": "S P M1 N2 D2 N2 S.",
+    "avarohanam": "S. P N2 D2 P M1 G2 R2 G2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Nagari",
+    "arohanam": "S R2 M1 P D2 N2 S.",
+    "avarohanam": "S. N2 D2 P M1 G2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Nagavalli",
+    "arohanam": "S R2 M1 D2 N2 S.",
+    "avarohanam": "S. N2 D2 M1 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Nayaki",
+    "arohanam": "S R2 M1 P D2 N2 D2 P S.",
+    "avarohanam": "S. N2 D2 P M1 R2 G2 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Nigamagamini",
+    "arohanam": "M1 G2 S G2 M1 N2 S.",
+    "avarohanam": "S. N2 M1 G2 M1 G2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Nirmalangi",
+    "arohanam": "S R2 M1 P N2 S.",
+    "avarohanam": "S. N2 P M1 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Omkari",
+    "arohanam": "S R2 G2 M1 P D2 S.",
+    "avarohanam": "S. D2 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Panchamam",
+    "arohanam": "S R2 D2 P N2 S.",
+    "avarohanam": "S. N2 D2 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Patadeep",
+    "arohanam": ".N2 S G2 M1 P N2 S.",
+    "avarohanam": "S. N2 D2 P M1 G2 R2 S N2 S G2 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Phalamanjari",
+    "arohanam": "S G2 M1 D2 S.",
+    "avarohanam": "S. N2 D2 P M1 G2 M1 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Phalaranjani",
+    "arohanam": "S G2 M1 P M1 D2 S.",
+    "avarohanam": "S. N2 D2 P M1 G2 M1 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Peeloo",
+    "arohanam": ".N2 S G3 M1 P N2 D2 P S.",
+    "avarohanam": "S. N2 D2 P D2 P M1 G2 R2 S .N2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Poornakalanidhi",
+    "arohanam": "S G2 M1 P D2 N2 S.",
+    "avarohanam": "S. D2 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Pushpalathika",
+    "arohanam": "S R2 G2 M1 P N2 S.",
+    "avarohanam": "S. N2 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Ratipatipriya",
+    "arohanam": "S R2 G2 P N2 S.",
+    "avarohanam": "S. N2 P G2 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Reethigowla",
+    "arohanam": "S G2 R2 G2 M1 N2 D2 M1 N2 N2 S.",
+    "avarohanam": "S. N2 D2 M1 G2 M1 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Rudrapriya",
+    "arohanam": "S R2 G2 M1 P D2 N2 S.",
+    "avarohanam": "S. N2 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Salagabhairavi",
+    "arohanam": "S R2 M1 P D2 S.",
+    "avarohanam": "S. N2 D2 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Sarang",
+    "arohanam": "S R2 M1 P N2 S.",
+    "avarohanam": "S. N2 P M1 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Saindhavi",
+    "arohanam": ".N2 .D2 .N2 S R2 G2 M1 P D2 N2",
+    "avarohanam": "D2 P M1 G2 R2 S .N2 .D2 .N2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Sangrama",
+    "arohanam": "S R2 M1 D2 N2 P S.",
+    "avarohanam": "S. N2 D2 G2 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Sankrandanapriya",
+    "arohanam": "S R2 G2 P D2 S.",
+    "avarohanam": "S. D2 P G2 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Sarvachoodamani",
+    "arohanam": "S R2 M1 G2 M1 P D2 N2 S.",
+    "avarohanam": "S. N2 P D2 N2 D2 P M1 G2 R2 G2 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Shivapriya",
+    "arohanam": "S R2 G2 P D2 S.",
+    "avarohanam": "S. D2 P G2 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Shivaranjani",
+    "arohanam": "S R2 G2 P D2 S.",
+    "avarohanam": "S. D2 P G2 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Shree Manohari",
+    "arohanam": "S G2 R2 G2 M1 P D2 S.",
+    "avarohanam": "S. D2 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Shree Manoranjani",
+    "arohanam": "S G2 M1 D2 N2 S.",
+    "avarohanam": "S. N2 D2 M1 G2 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Shreeranjani",
+    "arohanam": "S R2 G2 M1 D2 N2 S.",
+    "avarohanam": "S. N2 D2 M1 G2 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Siddhasena",
+    "arohanam": "S G2 R2 G2 M1 P D2 S.",
+    "avarohanam": "S. N2 D2 M1 P M1 R2 G2 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Suddha Bangala",
+    "arohanam": "S R2 M1 P D2 S.",
+    "avarohanam": "S. D2 P M1 R2 G2 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Suddha Bhairavi",
+    "arohanam": "S G2 M1 P N2 D2 S.",
+    "avarohanam": "S. N2 D2 M1 G2 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Suddha Dhanyasi",
+    "arohanam": "S G2 M1 P N2 S.",
+    "avarohanam": "S. N2 P M1 G2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Suddha Hindolam (Varamu)",
+    "arohanam": "S G2 M1 D2 N2 S.",
+    "avarohanam": "S. N2 D2 M1 G2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Suddha Manohari",
+    "arohanam": "S R2 G2 M1 P D2 S.",
+    "avarohanam": "S. N2 P M1 R2 G2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Suddha Velavali",
+    "arohanam": "S R2 M1 P N2 S.",
+    "avarohanam": "S. N2 D2 N2 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Sugunabhooshani",
+    "arohanam": "S G2 M1 P M1 D2 N2 S.",
+    "avarohanam": "S. N2 D2 P M1 D2 M1 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Swarabhooshani",
+    "arohanam": "S G2 M1 P D2 N2 S.",
+    "avarohanam": "S. N2 D2 P M1 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Swarakalanidhi",
+    "arohanam": "S M1 G2 M1 P D2 N2 S.",
+    "avarohanam": "S. N2 D2 N2 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Swararanjani",
+    "arohanam": "S R2 G2 M1 D2 N2 S.",
+    "avarohanam": "S. N2 P M1 G2 M1 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Tavamukhari",
+    "arohanam": "S R2 G2 P D2 S.",
+    "avarohanam": "S. N2 D2 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "22",
+    "melakarta": "false",
+    "raga_name": "Vajrakanti",
+    "arohanam": "S G2 M1 P N2 S.",
+    "avarohanam": "S. N2 D1 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "23",
+    "melakarta": "true",
+    "raga_name": "Gowri Manohari",
+    "arohanam": "S R2 G2 M1 P D2 N3 S.",
+    "avarohanam": "S. N3 D2 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "23",
+    "melakarta": "false",
+    "raga_name": "Gowrivelavali (1)",
+    "arohanam": "S R2 G2 S R2 M1 P D2 S.",
+    "avarohanam": "S. N3 D2 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "23",
+    "melakarta": "false",
+    "raga_name": "Gowrivelavali (2)",
+    "arohanam": "S R2 G1 G2 S R2 M1 M1 P D2 D2 S.",
+    "avarohanam": "S. N3 D2 P M1 G1 G2 R2 S"
+  },
+  {
+    "mela_number": "23",
+    "melakarta": "false",
+    "raga_name": "Gowrishankar",
+    "arohanam": "S R2 G2 M1 P N3 S.",
+    "avarohanam": "S. N3 D2 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "23",
+    "melakarta": "false",
+    "raga_name": "Hamsadeepika",
+    "arohanam": "S R2 G2 M1 D2 S.",
+    "avarohanam": "S. N3 D2 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "23",
+    "melakarta": "false",
+    "raga_name": "Hrudkamali",
+    "arohanam": "S R2 M1 D2 N3 S.",
+    "avarohanam": "S. N3 D2 M1 R2 S"
+  },
+  {
+    "mela_number": "23",
+    "melakarta": "false",
+    "raga_name": "Lavanthika",
+    "arohanam": "S R2 M1 P N3 S.",
+    "avarohanam": "S. N3 P M1 R2 S"
+  },
+  {
+    "mela_number": "23",
+    "melakarta": "false",
+    "raga_name": "Sundaramanohari",
+    "arohanam": "S R2 M1 P N3 S.",
+    "avarohanam": "S. N3 D2 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "23",
+    "melakarta": "false",
+    "raga_name": "Vasantashree (Amba Manohari)",
+    "arohanam": "S R2 G2 M1 D2 N3 S.",
+    "avarohanam": "S. N3 D2 M1 G2 R2 S"
+  },
+  {
+    "mela_number": "23",
+    "melakarta": "false",
+    "raga_name": "Velavali (1)",
+    "arohanam": "S G2 M1 D2 N3 S.",
+    "avarohanam": "S. N3 D2 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "23",
+    "melakarta": "false",
+    "raga_name": "Velavali (2)",
+    "arohanam": "S R2 M1 P D2 S.",
+    "avarohanam": "S. N3 D2 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "23",
+    "melakarta": "false",
+    "raga_name": "Velavali (3)",
+    "arohanam": "S R2 G2 M1 P D2 S.",
+    "avarohanam": "S. N3 D2 P M1 G2 S"
+  },
+  {
+    "mela_number": "23",
+    "melakarta": "false",
+    "raga_name": "Velavali (4)",
+    "arohanam": "S G2 R2 M1 P D2 S.",
+    "avarohanam": "S. N3 D2 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "23",
+    "melakarta": "false",
+    "raga_name": "Velavali (5)",
+    "arohanam": "S R2 G2 S R2 M1 P D2 S.",
+    "avarohanam": "S. N3 D2 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "23",
+    "melakarta": "false",
+    "raga_name": "Velavali (6)",
+    "arohanam": "S R2 M1 P D2 N3 S.",
+    "avarohanam": "S. N3 D2 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "24",
+    "melakarta": "true",
+    "raga_name": "Varunapriyaa",
+    "arohanam": "S R2 G2 M1 P D3 N3 S.",
+    "avarohanam": "S. N3 D3 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "24",
+    "melakarta": "false",
+    "raga_name": "Veeravasantham",
+    "arohanam": "S R2 G2 M1 P S.",
+    "avarohanam": "S. N3 D3 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "25",
+    "melakarta": "true",
+    "raga_name": "Mararanjani",
+    "arohanam": "S R2 G3 M1 P D1 N1 S.",
+    "avarohanam": "S. N1 D1 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "25",
+    "melakarta": "false",
+    "raga_name": "Sharavathi",
+    "arohanam": "S R2 G3 M1 P D1 N1 D1 S.",
+    "avarohanam": "S. N1 D1 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "25",
+    "melakarta": "false",
+    "raga_name": "Devasalaga",
+    "arohanam": "S G3 P D1 N1 S.",
+    "avarohanam": "S. N1 D1 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "25",
+    "melakarta": "false",
+    "raga_name": "Jana Sammodhini",
+    "arohanam": "S R2 G3 P D1 S.",
+    "avarohanam": "S. D1 P G3 R2 S"
+  },
+  {
+    "mela_number": "25",
+    "melakarta": "false",
+    "raga_name": "Kesari",
+    "arohanam": "S R2 G3 M1 P M1 D1 P D1 S.",
+    "avarohanam": "S. D1 N1 D1 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "25",
+    "melakarta": "false",
+    "raga_name": "Rajathilaka",
+    "arohanam": "S R2 G3 M1 P S.",
+    "avarohanam": "S. P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "26",
+    "melakarta": "true",
+    "raga_name": "Charukeshi",
+    "arohanam": "S R2 G3 M1 P D1 N2 S.",
+    "avarohanam": "S. N2 D1 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "26",
+    "melakarta": "false",
+    "raga_name": "Tarangini",
+    "arohanam": "S R2 G3 P D1 N2 D1 S",
+    "avarohanam": "S. D1 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "26",
+    "melakarta": "false",
+    "raga_name": "Tarangini",
+    "arohanam": "S R2 G3 P D1 N2 D1 P D1 S.",
+    "avarohanam": "S. D1 P G3 R2 S G3 M1 R2 G3 S"
+  },
+  {
+    "mela_number": "26",
+    "melakarta": "false",
+    "raga_name": "Chirswaroopi",
+    "arohanam": "S R2 G3 M1 P D1 N2 S.",
+    "avarohanam": "S. N2 D1 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "26",
+    "melakarta": "false",
+    "raga_name": "Maravi",
+    "arohanam": "S G3 M1 P N2 S.",
+    "avarohanam": "S. N2 D1 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "26",
+    "melakarta": "false",
+    "raga_name": "Poorvadhanyasi",
+    "arohanam": "S M1 G3 M1 N2 S.",
+    "avarohanam": "S. N2 D1 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "26",
+    "melakarta": "false",
+    "raga_name": "Shiva Manohari",
+    "arohanam": "S M1 G3 M1 P D1 N2 S.",
+    "avarohanam": "S. N2 D1 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "26",
+    "melakarta": "false",
+    "raga_name": "Shukrajyothi",
+    "arohanam": "S R2 G3 M1 P D1 N2 S.",
+    "avarohanam": "S. N2 P D1 M1 G3 R2 S"
+  },
+  {
+    "mela_number": "27",
+    "melakarta": "true",
+    "raga_name": "Sarasangi",
+    "arohanam": "S R2 G3 M1 P D1 N3 S.",
+    "avarohanam": "S. N3 D1 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "27",
+    "melakarta": "false",
+    "raga_name": "Sowrasena",
+    "arohanam": "S R2 M1 P D1 S.",
+    "avarohanam": "S. N3 D1 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "27",
+    "melakarta": "false",
+    "raga_name": "Haripriya",
+    "arohanam": "S R1 G3 M1 P S.",
+    "avarohanam": "S. N3 D1 P M1 G3 S"
+  },
+  {
+    "mela_number": "27",
+    "melakarta": "false",
+    "raga_name": "Kamala Manohari",
+    "arohanam": "S G3 M1 P N3 S.",
+    "avarohanam": "S. N3 D1 P M1 G3 S"
+  },
+  {
+    "mela_number": "27",
+    "melakarta": "false",
+    "raga_name": "Madhulika",
+    "arohanam": "S R2 G3 M1 N3 S.",
+    "avarohanam": "S. N3 M1 G3 R2 S"
+  },
+  {
+    "mela_number": "27",
+    "melakarta": "false",
+    "raga_name": "Nalinakanthi",
+    "arohanam": "S G3 R2 M1 P N3 S.",
+    "avarohanam": "S. N3 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "27",
+    "melakarta": "false",
+    "raga_name": "Neelamani",
+    "arohanam": "S R2 M1 P D1 N3 S.",
+    "avarohanam": "S. N3 D1 P M1 R2 S"
+  },
+  {
+    "mela_number": "27",
+    "melakarta": "false",
+    "raga_name": "Salavi",
+    "arohanam": "S G3 R2 G3 M1 P D1 N3 D1 S.",
+    "avarohanam": "S. N3 D1 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "27",
+    "melakarta": "false",
+    "raga_name": "Sarasanana",
+    "arohanam": "S R2 G3 M1 D1 N3 S.",
+    "avarohanam": "S. N3 D1 M1 G3 R2 S"
+  },
+  {
+    "mela_number": "27",
+    "melakarta": "false",
+    "raga_name": "Saraseeruha",
+    "arohanam": "S R2 G3 M1 D1 N1 D1 S.",
+    "avarohanam": "S. N1 D1 M1 G3 R2"
+  },
+  {
+    "mela_number": "27",
+    "melakarta": "false",
+    "raga_name": "Simhavahini",
+    "arohanam": "S G2 M1 P D1 N3 S.",
+    "avarohanam": "S. N3 D1 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "27",
+    "melakarta": "false",
+    "raga_name": "Surasena",
+    "arohanam": "S R2 M1 P D1 S.",
+    "avarohanam": "S. N3 D1 P M1 G3 S R2 S"
+  },
+  {
+    "mela_number": "27",
+    "melakarta": "false",
+    "raga_name": "Sutradhari",
+    "arohanam": "(Also 20) S R2 M1 P D1 S.",
+    "avarohanam": "S. D1 P M1 R2 S"
+  },
+  {
+    "mela_number": "27",
+    "melakarta": "false",
+    "raga_name": "Vasanthi",
+    "arohanam": "S R2 G3 P D1 S.",
+    "avarohanam": "S. D1 P G3 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "true",
+    "raga_name": "Harikambhoji",
+    "arohanam": "S R2 G3 M1 P D2 N2 S.",
+    "avarohanam": "S. N2 D2 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Harikedaragowla",
+    "arohanam": "S R2 G3 M1 P D2 N2 S.",
+    "avarohanam": "S. N2 D2 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Andolika",
+    "arohanam": "S R2 M1 P N2 S.",
+    "avarohanam": "S. N2 D2 M1 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Ambhojini",
+    "arohanam": "S R2 G3 M1 D2 S.",
+    "avarohanam": "S. D2 M1 G3 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Andhali",
+    "arohanam": "S R2 M1 P N2 S.",
+    "avarohanam": "S. N2 P M1 R2 G3 M1 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Aparoopam",
+    "arohanam": "S R2 G3 M1 P N2 D2 N2 S.",
+    "avarohanam": "S. D2 M1 G3 R2 G3 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Balahamsa",
+    "arohanam": "S R2 M1 P D2 S.",
+    "avarohanam": "S. N2 D2 P M1 R2 M1 G3 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Bahudari",
+    "arohanam": "S G3 M1 P D2 N2 S.",
+    "avarohanam": "S. N2 P M1 G3 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Bhoopali",
+    "arohanam": "S R2 G3 P D2 S.",
+    "avarohanam": "S. D2 P G3 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Chayalagakhamas",
+    "arohanam": "S M1 G3 M1 P D2 N2 S.",
+    "avarohanam": "S. N2 D2 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Chayatarangini",
+    "arohanam": "S R2 M1 G3 M1 P N2 S.",
+    "avarohanam": "S. N2 D2 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Chandrahasitham",
+    "arohanam": "S R2 G3 M1 D2 N2 S.",
+    "avarohanam": "S. N2 D2 M1 G3 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Dasharatipriya",
+    "arohanam": "S M1 G3 M1 P D2 N2 D2 S.",
+    "avarohanam": "S. N2 D2 P M1 G3 M1 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Dayaranjani",
+    "arohanam": "S R2 M1 P D2 S.",
+    "avarohanam": "S. N2 D2 M1 G3 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Desh",
+    "arohanam": "S R2 M1 P N3 S.",
+    "avarohanam": "S. N2 D2 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Deshakshi",
+    "arohanam": "S R2 G3 P D2 S.",
+    "avarohanam": "S. N2 D2 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Deshkar",
+    "arohanam": "S R2 G3 P D2 S.",
+    "avarohanam": "S. D2 P G3 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Dwaithachintamani (1)",
+    "arohanam": "S G3 M1 D2 N2 S.",
+    "avarohanam": "S. N2 D2 M1 P G3 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Dwaithachintamani (2)",
+    "arohanam": "S G3 M1 D2 N2 S.",
+    "avarohanam": "S. N2 D2 M1 G3 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Dwijavanthi",
+    "arohanam": "S R2 M1 G3 M1 P D2 S.",
+    "avarohanam": "S. N2 D2 P M1 G3 M1 R2 G2 R2 S .N2 .D2 .N2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Eeshamanohari",
+    "arohanam": "S R2 G3 M1 P D2 N2 S.",
+    "avarohanam": "S. N2 D2 P M1 R2 M1 G3 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Eeshaivaridhi",
+    "arohanam": "S R2 M1 D2 N2 S.",
+    "avarohanam": "S. N2 P M1 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Gandharalola",
+    "arohanam": "S R2 M1 P D2 S.",
+    "avarohanam": "S. N2 D2 P M1 G3 M1 G3 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Gavathi",
+    "arohanam": "S M1 P N3 S.",
+    "avarohanam": "S. D2 M1 P G3 M1 R2 N3 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Guhamanohari",
+    "arohanam": "S R2 M1 D2 N2 S.",
+    "avarohanam": "S. N2 D2 M1 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Guharanjani",
+    "arohanam": "S R2 S M1 P D2 N2 S.",
+    "avarohanam": "S. N2 D2 N2 P M1 G3 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Hamsaroopini",
+    "arohanam": "S R2 G3 P D2 S.",
+    "avarohanam": "S. N2 P M1 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Haridasapriya",
+    "arohanam": "S P M1 G3 M1 P N2 S.",
+    "avarohanam": "S. N2 D2 N2 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Harikedaram",
+    "arohanam": "S R2 G3 M1 P D2 N2 S N2 S.",
+    "avarohanam": "S. N2 S D2 N2 D2 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Harini",
+    "arohanam": "S G3 M1 P D2 N2 D2 S.",
+    "avarohanam": "S. N2 S N2 D2 P M1 G3 M1 G2 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Harithapriya",
+    "arohanam": "S R2 M1 P D2 S.",
+    "avarohanam": "S. N2 D2 P M1 G3 R2 G3 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Hemasaranga",
+    "arohanam": "S R2 G3 M1 P D2 N2 D2 S.",
+    "avarohanam": "S. P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Jaijaivanthi",
+    "arohanam": "S R2 G3 R2 S D2 N2 P R2 G3 M1 P N2 S.",
+    "avarohanam": "N2 S N2 D2 P D2 M1 G3 R2 G3 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Jaithshree",
+    "arohanam": "S R2 G3 P D2 S.",
+    "avarohanam": "S. D2 P G3 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Jana Sammodhini",
+    "arohanam": "S R2 G3 P D2 N2 S.",
+    "avarohanam": "S. N2 D2 P G3 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Jayarama",
+    "arohanam": "S R2 G3 M1 P D2 N2 S.",
+    "avarohanam": "S. N2 D2 P M1 G3 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Jhinjothi",
+    "arohanam": ".D2 S R2 G3 M1 P D2 N2",
+    "avarohanam": "D2 P M1 G3 R2 S .N2 .D2 .P .D2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Jog (Hindustani)",
+    "arohanam": "S G3 M1 P N3 S.",
+    "avarohanam": "S. N2 P M1 G3 M1 G3 S G3 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Jujahuli",
+    "arohanam": "S M1 G3 M1 P D2 N2 S.",
+    "avarohanam": "S. N2 D2 P M1 G3 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Kambhoji (1)",
+    "arohanam": "S R2 G3 M1 P D2 S.",
+    "avarohanam": "S. N2 D2 P M1 G3 R2 S .N3 .P .D2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Kambhoji (2)",
+    "arohanam": "S R2 G3 M1 P D2 S.",
+    "avarohanam": "S. N2 D2 P M1 G3 R2 S .N3 .P .D2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Kapi Narayani",
+    "arohanam": "S R2 M1 P D2 N2 S.",
+    "avarohanam": "S. N2 D2 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Kamas",
+    "arohanam": "S M1 G3 M1 P D2 N2 S.",
+    "avarohanam": "S. N2 D2 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Karnataka Behag",
+    "arohanam": "S R2 G3 M1 P D2 N2 S.",
+    "avarohanam": "S. N2 D2 N2 P D2 M1 G3 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Karnataka Devagandhari",
+    "arohanam": "S G3 M1 P N2 S.",
+    "avarohanam": "S. N2 D2 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Karnataka Khamas",
+    "arohanam": "S G3 M1 P D2 N2 S.",
+    "avarohanam": "S. N2 D2 P M1 G3 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Kedaragowla",
+    "arohanam": "S R2 M1 P N2 S.",
+    "avarohanam": "S. N2 D2 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Keshavapriya",
+    "arohanam": "S R2 S M1 P D2 N2 S.",
+    "avarohanam": "S. N2 S P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Kokiladhwani",
+    "arohanam": "S R2 G3 M1 D2 N2 D2 S.",
+    "avarohanam": "S. N2 D2 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Kokilavarali",
+    "arohanam": "S R2 M1 P D2 S.",
+    "avarohanam": "S. N2 D2 M1 P M1 G3 R2 G3 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Kunthalavarali",
+    "arohanam": "S M1 P D2 N2 D2 S.",
+    "avarohanam": "S. N2 D2 P M1 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Malavi",
+    "arohanam": "S R2 G3 M1 P N2 M1 D2 N2 S.",
+    "avarohanam": "S. N2 D2 N2 P M1 G3 M1 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Madhurakokila",
+    "arohanam": "S R2 G3 D2 N2 S.",
+    "avarohanam": "S. N2 D2 G3 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Mahathi",
+    "arohanam": "S G3 P N2 S.",
+    "avarohanam": "S. N2 P G3 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Mahuri",
+    "arohanam": "S R2 M1 G3 R2 G3 P D2 S.",
+    "avarohanam": "S. N2 D2 P M1 G3 R2 S R2 G3 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Manjupriya",
+    "arohanam": "S G3 M1 P N2 S.",
+    "avarohanam": "S. N2 D2 P G3 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Manoharam",
+    "arohanam": "S R2 G3 M1 D2 N2 S.",
+    "avarohanam": "S. N2 P M1 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Mattakokila",
+    "arohanam": "S R2 P D2 N2 D2 S.",
+    "avarohanam": "S. D2 N2 D2 P R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Meghana",
+    "arohanam": "S M1 G3 M1 P D2 S.",
+    "avarohanam": "S. N2 D2 M1 G3 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Mohanam",
+    "arohanam": "S R2 G3 P D2 S.",
+    "avarohanam": "S. D2 P G3 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Nadavalli",
+    "arohanam": "S R2 M1 D2 N2 S.",
+    "avarohanam": "S. N2 D2 M1 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Nagaswaravali",
+    "arohanam": "S G3 M1 P D2 S.",
+    "avarohanam": "S. D2 P M1 G3 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Narayanagowla",
+    "arohanam": "S R2 M1 P N2 D2 N2 S.",
+    "avarohanam": "S. N2 D2 P M1 G3 R2 G3 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Narayani",
+    "arohanam": "S R2 M1 P D2 S.",
+    "avarohanam": "S. N2 D2 P M1 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Nattai Kurinji (1)",
+    "arohanam": "S R2 G3 M1 N2 D2 N2 P D2 N2 S.",
+    "avarohanam": "S. N2 D2 M1 G3 M1 P G3 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Nattai Kurinji (2)",
+    "arohanam": "S R2 G3 M1 D2 N2 S.",
+    "avarohanam": "S. N2 D2 M1 G3 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Nattai Kurinji (3)",
+    "arohanam": "S R2 G3 M1 N2 D2 N2 P D2 N2 S.",
+    "avarohanam": "S. N2 D2 M1 G3 M1 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Nattai Narayani",
+    "arohanam": "S R2 G3 M1 D2 N2 D2 S.",
+    "avarohanam": "S. N2 D2 P M1 G3 M1 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Nandhkowns",
+    "arohanam": "S G3 M1 P M1 D2 N2 S.",
+    "avarohanam": "S. N2 D2 P M1 G3 S G3 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Narani",
+    "arohanam": "S R2 M1 P D2 S.",
+    "avarohanam": "S. N2 D2 P M1 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Navarasa Kalanidhi",
+    "arohanam": "S R2 M1 P S N2 S.",
+    "avarohanam": "S. N2 D2 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Navarasa kannada",
+    "arohanam": "S G3 M1 P S.",
+    "avarohanam": "S. N2 D2 M1 G3 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Neela",
+    "arohanam": "S G3 M1 D2 N2 S.",
+    "avarohanam": "S. N2 D2 M1 G3 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Parsi",
+    "arohanam": "S R2 G3 M1 D2 N2 S.",
+    "avarohanam": "S. N2 D2 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Parameshwarapriya",
+    "arohanam": "S R2 G3 M1 P N2 S.",
+    "avarohanam": "S. N2 P M1 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Pashupathipriya",
+    "arohanam": "S R2 M1 P M1 D2 S.",
+    "avarohanam": "S. D2 M1 P R2 M1 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Poornakambhoji",
+    "arohanam": "S R2 G3 M1 P N2 S.",
+    "avarohanam": "S. D2 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Pratapa Nattai",
+    "arohanam": "S R2 G3 M1 D2 P D2 N3 S.",
+    "avarohanam": "S. N3 D2 P M1 G3 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Pratapavarali",
+    "arohanam": "S R2 M1 P D2 P S.",
+    "avarohanam": "S. D2 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Pravalajyoti",
+    "arohanam": "S R2 M1 P D2 N2 S.",
+    "avarohanam": "S. N2 D2 P M1 G3 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Ragapanjaramu",
+    "arohanam": "S R2 M1 P D2 N2 D2 S.",
+    "avarohanam": "S. N2 D2 M1 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Ragavinodini",
+    "arohanam": "S R2 G3 M1 D2 S.",
+    "avarohanam": "S. D2 M1 G3 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Rageshree (1)",
+    "arohanam": "S G3 M1 D2 N3 S.",
+    "avarohanam": "S. N2 D2 M1 G3 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Rageshree (2)",
+    "arohanam": "S G3 M1 D2 N3 S.",
+    "avarohanam": "S. N3 D2 M1 G3 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Rageshree (3)",
+    "arohanam": "S G3 M1 D2 N3 S.",
+    "avarohanam": "S. N3 D2 N3 D2 M1 G3 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Ravi Chandrika",
+    "arohanam": "S R2 G3 M1 D2 N2 D2 S.",
+    "avarohanam": "S. N2 D2 M1 G3 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Savithri",
+    "arohanam": "S G3 M1 P N2 S.",
+    "avarohanam": "S. N2 P M1 G3 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Sahana",
+    "arohanam": "S R2 G3 M1 P M1 D2 N2 S.",
+    "avarohanam": "S. N2 S D2 N2 D2 P M1 G3 M1 R2 G3 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Saraswathi Manohari",
+    "arohanam": "S R2 G3 M1 D2 S.",
+    "avarohanam": "S. D2 N2 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Sathvamanjari",
+    "arohanam": "S R2 M1 P D2 S.",
+    "avarohanam": "S. N2 D2 P M1 N2 D2 M1 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Shakunthala",
+    "arohanam": "S R2 G3 M1 D2 N2 S.",
+    "avarohanam": "S. N2 D2 M1 G3 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Shankaraharigowla",
+    "arohanam": "S R2 G3 M1 P D2 N3 S.",
+    "avarohanam": "S. N2 D2 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Shenchukambhoji",
+    "arohanam": "S P M1 D2 N2 S.",
+    "avarohanam": "S. N2 D2 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Chenjurutti",
+    "arohanam": ".D2 S R2 G3 M1 P D2 N2",
+    "avarohanam": "N2 D2 P M1 G3 R2 S .N2 .D2 .P .D2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Shiva Kambhoji",
+    "arohanam": "S R2 G3 M1 N2 S.",
+    "avarohanam": "S. N2 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Surutti",
+    "arohanam": "S R2 M1 P N2 D2 N2 S.",
+    "avarohanam": "S. N2 D2 P M1 G3 P M1 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Shyama (1)",
+    "arohanam": "S R2 M1 P D2 S.",
+    "avarohanam": "S. D2 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Shyama (2)",
+    "arohanam": "S R2 G3 S R2 P M1 D2 D2 S.",
+    "avarohanam": "S. D2 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Simhavikrama",
+    "arohanam": "S R2 G3 R2 M1 P D2 P N2 S.",
+    "avarohanam": "S. N2 D2 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Sindhu Kannada",
+    "arohanam": "S M1 G3 M1 R2 G3 M1 P D2 P S.",
+    "avarohanam": "S. N2 D2 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Sindhu Surutti",
+    "arohanam": "S R2 M1 P N2 S S N2 S.",
+    "avarohanam": "S. N2 D2 P M1 R2 M1 G3 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Suddha Khamas",
+    "arohanam": "S M1 G3 M1 P D2 N2 S.",
+    "avarohanam": "S. N2 D2 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Suddha Varali",
+    "arohanam": "S R2 G3 M1 D2 N2 S.",
+    "avarohanam": "S. N2 D2 N2 P M1 G3 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Suddha",
+    "arohanam": "S R2 M1 P D2 S.",
+    "avarohanam": "S. N2 D2 P M1 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Suddhatarangini",
+    "arohanam": "S R2 M1 P D2 S.",
+    "avarohanam": "S. N2 D2 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Sumanapriya",
+    "arohanam": "S R2 G3 M1 P D2 P S.",
+    "avarohanam": "S. D2 S P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Suposhini",
+    "arohanam": "S R2 S M1 P N2 D2 S.",
+    "avarohanam": "S. D2 P M1 R2 M1 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Suvarnakriya",
+    "arohanam": "S R2 G3 P N2 D2 S.",
+    "avarohanam": "S. N2 P G3 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Swaravali",
+    "arohanam": "S M1 G3 M1 P N2 D2 N2 S.",
+    "avarohanam": "S. N2 D2 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Swaravedi",
+    "arohanam": "S M1 G3 M1 P N2 D2 N2 S.",
+    "avarohanam": "S. N2 D2 P M1 G3 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Tilakavathi",
+    "arohanam": "S R2 G3 M1 P D2 P S.",
+    "avarohanam": "S. D2 P M1 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Thilang",
+    "arohanam": "S G3 M1 P N3 S.",
+    "avarohanam": "S. N2 P M1 G3 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Umabharanam",
+    "arohanam": "S R2 G3 M1 P D2 N2 S.",
+    "avarohanam": "S. N2 P M1 R2 G3 M1 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Vaishnavi",
+    "arohanam": "S R2 G3 M1 P D2 S.",
+    "avarohanam": "S. D2 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Veenavadini",
+    "arohanam": "S R2 G3 P N2 S.",
+    "avarohanam": "S. N2 P G2 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Vivardhani",
+    "arohanam": "S R2 M1 P S.",
+    "avarohanam": "S. N2 D2 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "28",
+    "melakarta": "false",
+    "raga_name": "Yadukula Kambhoji",
+    "arohanam": "S R2 M1 P D2 S.",
+    "avarohanam": "S. N2 D2 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "29",
+    "melakarta": "true",
+    "raga_name": "Dheera Shankarabharanam",
+    "arohanam": "S R2 G3 M1 P D2 N3 S.",
+    "avarohanam": "S. N3 D2 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "29",
+    "melakarta": "false",
+    "raga_name": "Anandharoopa",
+    "arohanam": "S R2 G3 P D2 N3 S.",
+    "avarohanam": "S. N3 D2 P G3 R2 S"
+  },
+  {
+    "mela_number": "29",
+    "melakarta": "false",
+    "raga_name": "Arabi (1)",
+    "arohanam": "S R2 M1 P D2 S.",
+    "avarohanam": "S. N3 D2 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "29",
+    "melakarta": "false",
+    "raga_name": "Arabi (2)",
+    "arohanam": "S R2 M1 P D2 S.",
+    "avarohanam": "S. D2 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "29",
+    "melakarta": "false",
+    "raga_name": "Atana",
+    "arohanam": "S R2 M1 P N3 S.",
+    "avarohanam": "S. N3 D2 P M1 P G3 R2 S"
+  },
+  {
+    "mela_number": "29",
+    "melakarta": "false",
+    "raga_name": "Bangala",
+    "arohanam": "S R2 G3 M1 P M1 R2 P S.",
+    "avarohanam": "S. N3 P M1 R2 G3 M1 R2 S"
+  },
+  {
+    "mela_number": "29",
+    "melakarta": "false",
+    "raga_name": "Begada",
+    "arohanam": "S G3 R2 G3 M1 P D2 N2 D2 P S.",
+    "avarohanam": "S. N3 D2 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "29",
+    "melakarta": "false",
+    "raga_name": "Behag",
+    "arohanam": "S G3 M1 P N3 D2 N3 S.",
+    "avarohanam": "S. N3 D2 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "29",
+    "melakarta": "false",
+    "raga_name": "Behag Deshikam",
+    "arohanam": "S R2 G3 M1 M2 P D2 N3 S.",
+    "avarohanam": "S. N3 D2 P M2 M1 G3 R2 S"
+  },
+  {
+    "mela_number": "29",
+    "melakarta": "false",
+    "raga_name": "Bilahari",
+    "arohanam": "S R2 G3 P D2 S.",
+    "avarohanam": "S. N3 D2 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "29",
+    "melakarta": "false",
+    "raga_name": "Buddhamanohari",
+    "arohanam": "S R2 G3 M1 S P S.",
+    "avarohanam": "S. P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "29",
+    "melakarta": "false",
+    "raga_name": "Buddharanjani",
+    "arohanam": "S R2 G3 M1 P S.",
+    "avarohanam": "S. N3 P M1 G3 M1 R2 S"
+  },
+  {
+    "mela_number": "29",
+    "melakarta": "false",
+    "raga_name": "Chaya",
+    "arohanam": "S P M1 P D2 P N3 R2 S.",
+    "avarohanam": "S. D2 P M1 P D2 P G3 M1 R2 S"
+  },
+  {
+    "mela_number": "29",
+    "melakarta": "false",
+    "raga_name": "Chayashankarabharanam",
+    "arohanam": "S R1 M1 P D2 N3 S.",
+    "avarohanam": "S. N3 D2 P M1 G3 R1 S"
+  },
+  {
+    "mela_number": "29",
+    "melakarta": "false",
+    "raga_name": "Devagandhari",
+    "arohanam": "S R2 M1 P D2 S.",
+    "avarohanam": "S. N3 D2 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "29",
+    "melakarta": "false",
+    "raga_name": "Dharmalakhi",
+    "arohanam": "S M1 P D2 N3 S.",
+    "avarohanam": "S. N3 D2 P M1 S"
+  },
+  {
+    "mela_number": "29",
+    "melakarta": "false",
+    "raga_name": "Dhurvanki",
+    "arohanam": "S R2 M1 P D2 S.",
+    "avarohanam": "S. N3 D2 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "29",
+    "melakarta": "false",
+    "raga_name": "Gajagowri",
+    "arohanam": "S R2 M1 G3 M1 N3 P D2 S.",
+    "avarohanam": "S. N3 D2 P M1 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "29",
+    "melakarta": "false",
+    "raga_name": "Garudadhvani",
+    "arohanam": "S R2 G3 M1 P D2 N3 S.",
+    "avarohanam": "S. D2 P G3 R2 S"
+  },
+  {
+    "mela_number": "29",
+    "melakarta": "false",
+    "raga_name": "Gowdamalhar",
+    "arohanam": "S R2 M1 P D2 S.",
+    "avarohanam": "S. N3 M1 G3 R2 S"
+  },
+  {
+    "mela_number": "29",
+    "melakarta": "false",
+    "raga_name": "Hamsadhwani",
+    "arohanam": "S R2 G3 P N3 S.",
+    "avarohanam": "S. N3 P G3 R2 S"
+  },
+  {
+    "mela_number": "29",
+    "melakarta": "false",
+    "raga_name": "Hamsavinodhini",
+    "arohanam": "S R2 G3 M1 D2 N3 S.",
+    "avarohanam": "S. N3 D2 M1 G3 R2 S"
+  },
+  {
+    "mela_number": "29",
+    "melakarta": "false",
+    "raga_name": "Hemant",
+    "arohanam": ".N3 S .D2 .N3 S G3 G3 M1 D2 N3 S.",
+    "avarohanam": "S. N3 D2 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "29",
+    "melakarta": "false",
+    "raga_name": "Hindustani Behag",
+    "arohanam": "S G3 M1 P N3 S.",
+    "avarohanam": "S. N3 D2 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "29",
+    "melakarta": "false",
+    "raga_name": "Janaranjani",
+    "arohanam": "S R2 G3 M1 P D2 N3 S.",
+    "avarohanam": "S. D2 P M1 R2 S"
+  },
+  {
+    "mela_number": "29",
+    "melakarta": "false",
+    "raga_name": "Julavu",
+    "arohanam": ".P .D2 .N3 S R2 G3 M1 P",
+    "avarohanam": "M1 G3 R2 S .N3 .D2 .P .M1"
+  },
+  {
+    "mela_number": "29",
+    "melakarta": "false",
+    "raga_name": "Kamaripriya",
+    "arohanam": "S G3 M1 D2 N3 S.",
+    "avarohanam": "S. N3 D2 M1 M1 G3 M1 R2 S"
+  },
+  {
+    "mela_number": "29",
+    "melakarta": "false",
+    "raga_name": "Kannada",
+    "arohanam": "S R2 G3 M1 P M1 D2 N3 S.",
+    "avarohanam": "S. N3 S D2 P M1 G3 M1 G3 M1 R2 S"
+  },
+  {
+    "mela_number": "29",
+    "melakarta": "false",
+    "raga_name": "Kadanakuthoohalam",
+    "arohanam": "S R2 M1 D2 N3 G3 P S.",
+    "avarohanam": "S. N3 D2 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "29",
+    "melakarta": "false",
+    "raga_name": "Kedaram",
+    "arohanam": "S M1 G3 M1 P N3 S.",
+    "avarohanam": "S. N3 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "29",
+    "melakarta": "false",
+    "raga_name": "Kokilabhashani",
+    "arohanam": "S R2 G3 M1 P D2 N3 S.",
+    "avarohanam": "S. N3 P M1 G3 M1 R2 S"
+  },
+  {
+    "mela_number": "29",
+    "melakarta": "false",
+    "raga_name": "Kolahalam",
+    "arohanam": "S P M1 G3 M1 P D2 N3 S.",
+    "avarohanam": "S. N3 D2 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "29",
+    "melakarta": "false",
+    "raga_name": "Kurinji",
+    "arohanam": "S .N3 S R2 G3 M1 P D2",
+    "avarohanam": "D2 P M1 G3 R2 S .N3 S"
+  },
+  {
+    "mela_number": "29",
+    "melakarta": "false",
+    "raga_name": "Kusumavichithra",
+    "arohanam": "S G3 R2 G3 M1 P N3 P D2 N3 S.",
+    "avarohanam": "S. D2 N3 D2 M1 G3 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "29",
+    "melakarta": "false",
+    "raga_name": "Kutuhala",
+    "arohanam": "S R2 M1 N3 D2 P N3 S.",
+    "avarohanam": "S. N3 D2 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "29",
+    "melakarta": "false",
+    "raga_name": "Lahari",
+    "arohanam": "S R2 G3 P D2 S.",
+    "avarohanam": "S. D2 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "29",
+    "melakarta": "false",
+    "raga_name": "Mand",
+    "arohanam": "S G3 M1 P D2 S.",
+    "avarohanam": "S. N3 D2 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "29",
+    "melakarta": "false",
+    "raga_name": "Mayadravila",
+    "arohanam": "S R2 G3 M1 P D2 N3 S.",
+    "avarohanam": "S. N2 P M1 P G3 M1 R2 S"
+  },
+  {
+    "mela_number": "29",
+    "melakarta": "false",
+    "raga_name": "Mohanadhwani",
+    "arohanam": "S R2 G3 P D2 S.",
+    "avarohanam": "S. N3 P D2 P G3 R2 S"
+  },
+  {
+    "mela_number": "29",
+    "melakarta": "false",
+    "raga_name": "Nagabhooshani",
+    "arohanam": "S R2 M1 P D2 N3 S.",
+    "avarohanam": "S. D2 P M1 R2 S"
+  },
+  {
+    "mela_number": "29",
+    "melakarta": "false",
+    "raga_name": "Nagadhwani",
+    "arohanam": "S R2 S M1 G3 M1 P N3 D2 N3 S.",
+    "avarohanam": "S. N3 D2 N3 P M1 G3 S"
+  },
+  {
+    "mela_number": "29",
+    "melakarta": "false",
+    "raga_name": "Narayanadeshakshi",
+    "arohanam": "S R2 M1 G3 R2 G3 M1 P D2 N3 S.",
+    "avarohanam": "S. N3 D2 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "29",
+    "melakarta": "false",
+    "raga_name": "Navaroj",
+    "arohanam": ".P .D2 .N3 S R2 G3 M1 P",
+    "avarohanam": "M1 G1 R3 S .N2 .D2 .P"
+  },
+  {
+    "mela_number": "29",
+    "melakarta": "false",
+    "raga_name": "Neelambari",
+    "arohanam": "S R2 G3 M1 P D2 P N3 S.",
+    "avarohanam": "S. N3 P M1 G3 R2 G3 S"
+  },
+  {
+    "mela_number": "29",
+    "melakarta": "false",
+    "raga_name": "Niroshta",
+    "arohanam": "S R2 G3 D2 N3 S.",
+    "avarohanam": "S. N3 D2 G3 R2 S"
+  },
+  {
+    "mela_number": "29",
+    "melakarta": "false",
+    "raga_name": "Pahadi",
+    "arohanam": "S R2 G3 P D2 P D2 S.",
+    "avarohanam": "N3 D2 P G3 M1 G3 R2 S N3 D2 P D2 S"
+  },
+  {
+    "mela_number": "29",
+    "melakarta": "false",
+    "raga_name": "Poornachandrika",
+    "arohanam": "S R2 G3 M1 P D2 P S.",
+    "avarohanam": "S. N3 P M1 R2 G3 M1 R2 S"
+  },
+  {
+    "mela_number": "29",
+    "melakarta": "false",
+    "raga_name": "Poornagowla",
+    "arohanam": "S R2 G3 M1 P N3 D2 N3 P D2 N3 S.",
+    "avarohanam": "S. N3 D2 N3 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "29",
+    "melakarta": "false",
+    "raga_name": "Poorvagowla",
+    "arohanam": "S G3 R2 G3 S R2 M1 P D2 N3 S.",
+    "avarohanam": "S. N3 D2 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "29",
+    "melakarta": "false",
+    "raga_name": "Rathnabhooshani",
+    "arohanam": "S R2 G3 M1 P S.",
+    "avarohanam": "S. P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "29",
+    "melakarta": "false",
+    "raga_name": "Reetuvilasa",
+    "arohanam": "S G3 M1 P D2 N3 S.",
+    "avarohanam": "S. N3 D2 P M1 G3 S"
+  },
+  {
+    "mela_number": "29",
+    "melakarta": "false",
+    "raga_name": "Saranga Mallar",
+    "arohanam": "S R2 M1 P D2 N3 S.",
+    "avarohanam": "S. N3 D2 P M1 R2 S N3 S"
+  },
+  {
+    "mela_number": "29",
+    "melakarta": "false",
+    "raga_name": "Shankara",
+    "arohanam": "S G3 P S.",
+    "avarohanam": "S. N3 D2 P G3 P R2 G3 S"
+  },
+  {
+    "mela_number": "29",
+    "melakarta": "false",
+    "raga_name": "Shankaraharigowla",
+    "arohanam": "S R2 G3 M1 P D2 N3 S.",
+    "avarohanam": "S. N2 D2 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "29",
+    "melakarta": "false",
+    "raga_name": "Shankaramohana",
+    "arohanam": "S R2 G3 P N3 D2 S N3",
+    "avarohanam": "S. D2 P G3 R2 S"
+  },
+  {
+    "mela_number": "29",
+    "melakarta": "false",
+    "raga_name": "Shankari",
+    "arohanam": "S G3 P N3 S.",
+    "avarohanam": "S. N3 P G3 S"
+  },
+  {
+    "mela_number": "29",
+    "melakarta": "false",
+    "raga_name": "Sindhu",
+    "arohanam": "S M1 P D2 S.",
+    "avarohanam": "S. N3 D2 M1 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "29",
+    "melakarta": "false",
+    "raga_name": "Sindhu Mandari",
+    "arohanam": "S R2 G3 M1 P S.",
+    "avarohanam": "S. N3 D2 P G3 M1 P M1 R2 S"
+  },
+  {
+    "mela_number": "29",
+    "melakarta": "false",
+    "raga_name": "Suddha Malavi",
+    "arohanam": "S R2 G3 M1 P N3 S.",
+    "avarohanam": "S. D2 N3 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "29",
+    "melakarta": "false",
+    "raga_name": "Suddha Sarang",
+    "arohanam": "S R2 G3 M1 P D2 N3 D2 S.",
+    "avarohanam": "S. D2 P M1 R2 G3 R2 S"
+  },
+  {
+    "mela_number": "29",
+    "melakarta": "false",
+    "raga_name": "Suddha Saveri",
+    "arohanam": "S R2 M1 P D2 S.",
+    "avarohanam": "S. D2 P M1 R2 S"
+  },
+  {
+    "mela_number": "29",
+    "melakarta": "false",
+    "raga_name": "Suddha Vasantha",
+    "arohanam": "S R2 G3 M1 P N3 S.",
+    "avarohanam": "S. N3 D2 N3 P M1 G3 S"
+  },
+  {
+    "mela_number": "29",
+    "melakarta": "false",
+    "raga_name": "Suranandini",
+    "arohanam": "S R2 G3 P D2 N3 S.",
+    "avarohanam": "S. N3 D2 P G3 R2 S"
+  },
+  {
+    "mela_number": "29",
+    "melakarta": "false",
+    "raga_name": "Suraranjani",
+    "arohanam": "S G3 P R2 M1 D2 S.",
+    "avarohanam": "S. N3 D2 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "29",
+    "melakarta": "false",
+    "raga_name": "Tandavam",
+    "arohanam": "S G3 P D2 N3 S.",
+    "avarohanam": "S. N3 D2 P G3 S"
+  },
+  {
+    "mela_number": "29",
+    "melakarta": "false",
+    "raga_name": "Vallabhi",
+    "arohanam": "S R2 G3 M1 P D2 N3 S.",
+    "avarohanam": "S. N3 D2 N3 D2 P M1 P G3 M1 R2 S"
+  },
+  {
+    "mela_number": "29",
+    "melakarta": "false",
+    "raga_name": "Vasanthamalai",
+    "arohanam": "S R2 M1 P N3 S.",
+    "avarohanam": "S. D2 P M1 R2 S"
+  },
+  {
+    "mela_number": "29",
+    "melakarta": "false",
+    "raga_name": "Vedhandhagamana",
+    "arohanam": "S G3 M1 P N3 S.",
+    "avarohanam": "S. N3 P M1 G3 S"
+  },
+  {
+    "mela_number": "29",
+    "melakarta": "false",
+    "raga_name": "Veerapratapa",
+    "arohanam": "S G3 M1 P D2 S.",
+    "avarohanam": "S. N3 D2 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "29",
+    "melakarta": "false",
+    "raga_name": "Vilasini",
+    "arohanam": "S R2 G3 M1 P N3 S.",
+    "avarohanam": "S. N3 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "30",
+    "melakarta": "true",
+    "raga_name": "Naganandhini",
+    "arohanam": "S R2 G3 M1 P D3 N3 S.",
+    "avarohanam": "S. N3 D3 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "30",
+    "melakarta": "false",
+    "raga_name": "Nagabharanam",
+    "arohanam": "S R2 G2 M1 P D3 N3 S.",
+    "avarohanam": "S. N3 D3 P M1 G2 R2 S"
+  },
+  {
+    "mela_number": "30",
+    "melakarta": "false",
+    "raga_name": "Gambheeravani",
+    "arohanam": "S G3 P M1 D3 N3 S.",
+    "avarohanam": "S. N3 P M1 G3 R2 G3 R2 S"
+  },
+  {
+    "mela_number": "30",
+    "melakarta": "false",
+    "raga_name": "Lalithagandharva",
+    "arohanam": "S R2 G3 M1 P D3 N3 S.",
+    "avarohanam": "S. N3 P G3 R2 S"
+  },
+  {
+    "mela_number": "30",
+    "melakarta": "false",
+    "raga_name": "Samanta",
+    "arohanam": "S R2 G3 M1 P D3 N3 S.",
+    "avarohanam": "S. N3 D3 N3 D3 P M1 G3 R2 S"
+  },
+  {
+    "mela_number": "30",
+    "melakarta": "false",
+    "raga_name": "Thilang",
+    "arohanam": "S G3 M1 P N3 S.",
+    "avarohanam": "S. N2 P M1 G3 S"
+  },
+  {
+    "mela_number": "31",
+    "melakarta": "true",
+    "raga_name": "Yagapriya",
+    "arohanam": "S R3 G3 M1 P D1 N1 S.",
+    "avarohanam": "S. N1 D1 P M1 G3 R3 S"
+  },
+  {
+    "mela_number": "31",
+    "melakarta": "false",
+    "raga_name": "Kalavathi",
+    "arohanam": "S R3 G3 M1 P D1 N1 S.",
+    "avarohanam": "S. N1 D1 P M1 G3 R3 S"
+  },
+  {
+    "mela_number": "31",
+    "melakarta": "false",
+    "raga_name": "Damarugapriya",
+    "arohanam": "S R3 G3 P D1 N1 S.",
+    "avarohanam": "S. N1 D1 P G3 R3 S"
+  },
+  {
+    "mela_number": "31",
+    "melakarta": "false",
+    "raga_name": "Desharanjani",
+    "arohanam": "S R3 M1 P D1 N1 S.",
+    "avarohanam": "S. N1 D1 P M1 R3 S"
+  },
+  {
+    "mela_number": "31",
+    "melakarta": "false",
+    "raga_name": "Deshyathodi",
+    "arohanam": "S G2 M1 P D1 N2 S.",
+    "avarohanam": "S. N2 D1 P M1 G2 R1 S"
+  },
+  {
+    "mela_number": "31",
+    "melakarta": "false",
+    "raga_name": "Kalahamsa",
+    "arohanam": "S R3 G3 M1 P D1 S.",
+    "avarohanam": "S. N1 D1 P M1 G3 R3 S"
+  },
+  {
+    "mela_number": "31",
+    "melakarta": "false",
+    "raga_name": "Niranjani",
+    "arohanam": "S R3 M1 D1 N1 S.",
+    "avarohanam": "S. N1 D1 M1 R3 S"
+  },
+  {
+    "mela_number": "31",
+    "melakarta": "false",
+    "raga_name": "Prathapahamsi",
+    "arohanam": "S G3 M1 P N1 D1 N1 S.",
+    "avarohanam": "S. N1 D1 P M1 G3 M1 R3 S"
+  },
+  {
+    "mela_number": "32",
+    "melakarta": "true",
+    "raga_name": "Ragavardhani",
+    "arohanam": "S R3 G3 M1 P D1 N2 S.",
+    "avarohanam": "S. N2 D1 P M1 G3 R3 S"
+  },
+  {
+    "mela_number": "32",
+    "melakarta": "false",
+    "raga_name": "Ragachoodamani",
+    "arohanam": "S R3 G3 M1 P N2 S.",
+    "avarohanam": "S. N2 D1 M1 R3 G3 S"
+  },
+  {
+    "mela_number": "32",
+    "melakarta": "false",
+    "raga_name": "Amudagandhari",
+    "arohanam": "S G3 M1 P D1 N2 S.",
+    "avarohanam": "S. N2 D1 P M1 G3 R3 S"
+  },
+  {
+    "mela_number": "32",
+    "melakarta": "false",
+    "raga_name": "Dhowmya",
+    "arohanam": "S R3 G3 M1 P D1 N2 P S.",
+    "avarohanam": "S. N2 D1 P M1 G3 R3 S"
+  },
+  {
+    "mela_number": "32",
+    "melakarta": "false",
+    "raga_name": "Hindoladarbar",
+    "arohanam": "S G3 M1 P S.",
+    "avarohanam": "S. N2 D1 P M1 R3 S"
+  },
+  {
+    "mela_number": "32",
+    "melakarta": "false",
+    "raga_name": "Ramya",
+    "arohanam": "S R3 G3 M1 P D1 N2 P S.",
+    "avarohanam": "S. N2 D1 P M1 G3 R3 S"
+  },
+  {
+    "mela_number": "32",
+    "melakarta": "false",
+    "raga_name": "Samantajingala",
+    "arohanam": "S R3 G3 M1 P D1 N2 S.",
+    "avarohanam": "S. N2 P D1 N2 P M1 G3 M1 R3 G3 S"
+  },
+  {
+    "mela_number": "33",
+    "melakarta": "true",
+    "raga_name": "Gangeyabhushani",
+    "arohanam": "S R3 G3 M1 P D1 N3 S.",
+    "avarohanam": "S. N3 D1 P M1 G3 R3 S"
+  },
+  {
+    "mela_number": "33",
+    "melakarta": "false",
+    "raga_name": "Gangatarangini",
+    "arohanam": "S R3 G3 M1 P D1 N3 S.",
+    "avarohanam": "S. N3 D1 P M1 M1 G3 M1 R3 S"
+  },
+  {
+    "mela_number": "34",
+    "melakarta": "true",
+    "raga_name": "Vagadeeshwari",
+    "arohanam": "S R3 G3 M1 P D2 N2 S.",
+    "avarohanam": "S. N2 D2 P M1 G3 R3 S"
+  },
+  {
+    "mela_number": "34",
+    "melakarta": "false",
+    "raga_name": "Bhogachaya Nattai",
+    "arohanam": "S R3 G3 R3 G3 M1 P N2 N2 S.",
+    "avarohanam": "S. N2 D2 N2 P S N2 P M1 M1 R3 S"
+  },
+  {
+    "mela_number": "34",
+    "melakarta": "false",
+    "raga_name": "Bhanumanjari",
+    "arohanam": "S R3 G3 M1 P N2 S.",
+    "avarohanam": "S. N2 P M1 R3 G3 R3 S"
+  },
+  {
+    "mela_number": "34",
+    "melakarta": "false",
+    "raga_name": "Chayanattai",
+    "arohanam": "S R3 G3 M1 P M1 P S.",
+    "avarohanam": "S. N2 D2 N2 P M1 R3 S"
+  },
+  {
+    "mela_number": "34",
+    "melakarta": "false",
+    "raga_name": "Maghathi",
+    "arohanam": "S R3 M1 P D2 N2 S.",
+    "avarohanam": "S. N2 D2 P M1 R3 S"
+  },
+  {
+    "mela_number": "34",
+    "melakarta": "false",
+    "raga_name": "Mohanangi",
+    "arohanam": "S R3 G3 P D2 S.",
+    "avarohanam": "S. D2 P G3 P D2 P G3 R3 S"
+  },
+  {
+    "mela_number": "34",
+    "melakarta": "false",
+    "raga_name": "Murali",
+    "arohanam": "S R3 G3 M1 D2 N2 S.",
+    "avarohanam": "S. N2 D2 M1 G3 R3 S"
+  },
+  {
+    "mela_number": "34",
+    "melakarta": "false",
+    "raga_name": "Sharadabharana",
+    "arohanam": "S M1 G3 M1 P M1 D2 N2 S.",
+    "avarohanam": "S. N2 D2 M1 P M1 R3 S"
+  },
+  {
+    "mela_number": "34",
+    "melakarta": "false",
+    "raga_name": "Vikhavathi",
+    "arohanam": "S R3 G3 P D2 S.",
+    "avarohanam": "S. D2 P G3 R3 S"
+  },
+  {
+    "mela_number": "35",
+    "melakarta": "true",
+    "raga_name": "Shulini",
+    "arohanam": "S R3 G3 M1 P D2 N3 S.",
+    "avarohanam": "S. N3 D2 P M1 G3 R3 S"
+  },
+  {
+    "mela_number": "35",
+    "melakarta": "false",
+    "raga_name": "Shailadeshakshhi",
+    "arohanam": "S M1 G3 P D2 S.",
+    "avarohanam": "S. N3 D2 S N3 P M1 G3 S"
+  },
+  {
+    "mela_number": "35",
+    "melakarta": "false",
+    "raga_name": "Dheerahindolam",
+    "arohanam": "S G3 M1 D2 N3 S.",
+    "avarohanam": "S. N3 D2 P M1 G3 R3 S"
+  },
+  {
+    "mela_number": "35",
+    "melakarta": "false",
+    "raga_name": "Ganavaridhi",
+    "arohanam": "S M1 R3 G3 M1 P D2 N2/N3 S.",
+    "avarohanam": "S. D2 N2/N3 P M1 R3 S"
+  },
+  {
+    "mela_number": "35",
+    "melakarta": "false",
+    "raga_name": "Shokavarali",
+    "arohanam": "S G3 D2 N3",
+    "avarohanam": "D2 P M1 G3 R3 S"
+  },
+  {
+    "mela_number": "36",
+    "melakarta": "true",
+    "raga_name": "Chalanattai",
+    "arohanam": "S R3 G3 M1 P D3 N3 S.",
+    "avarohanam": "S. N3 D3 P M1 G3 R3 S"
+  },
+  {
+    "mela_number": "36",
+    "melakarta": "false",
+    "raga_name": "Devanattai",
+    "arohanam": "S G3 M1 P S.",
+    "avarohanam": "S. N3 D3 P M1 G3 R3 S"
+  },
+  {
+    "mela_number": "36",
+    "melakarta": "false",
+    "raga_name": "Gambheeranattai",
+    "arohanam": "S G3 M1 P N3 S.",
+    "avarohanam": "S. N3 P M1 G3 S"
+  },
+  {
+    "mela_number": "36",
+    "melakarta": "false",
+    "raga_name": "Ganaranjani",
+    "arohanam": "S R3 G3 M1 P M1 D3 N3 S.",
+    "avarohanam": "S. N3 D3 P M1 P M1 R3 S"
+  },
+  {
+    "mela_number": "36",
+    "melakarta": "false",
+    "raga_name": "Nattai",
+    "arohanam": "S R3 G3 M1 P N3 S.",
+    "avarohanam": "S. N3 P M1 G3 R3 S"
+  },
+  {
+    "mela_number": "37",
+    "melakarta": "true",
+    "raga_name": "Salagam",
+    "arohanam": "S R1 G1 M2 P D1 N1 S.",
+    "avarohanam": "S. N1 D1 P M2 G1 R1 S"
+  },
+  {
+    "mela_number": "37",
+    "melakarta": "false",
+    "raga_name": "Sowgandhini",
+    "arohanam": "S R1 M2 P D1 S.",
+    "avarohanam": "S. N1 D1 P M2 G1 R1 S"
+  },
+  {
+    "mela_number": "37",
+    "melakarta": "false",
+    "raga_name": "Bhogasaveri",
+    "arohanam": "S R1 M2 D1 N1",
+    "avarohanam": "D1 P M2 G1 R1 S"
+  },
+  {
+    "mela_number": "38",
+    "melakarta": "true",
+    "raga_name": "Jalarnavam",
+    "arohanam": "S R1 G1 M2 P D1 N2 S.",
+    "avarohanam": "S. N2 D1 P M2 G1 R1 S"
+  },
+  {
+    "mela_number": "38",
+    "melakarta": "false",
+    "raga_name": "Jaganmohinam",
+    "arohanam": "S R1 G1 M2 P D1 N2 S.",
+    "avarohanam": "S. N2 D1 P M2 G1 R1 S"
+  },
+  {
+    "mela_number": "38",
+    "melakarta": "false",
+    "raga_name": "Jaganmohana",
+    "arohanam": "S R1 G1 M2 P D2 S.",
+    "avarohanam": "S. N2 D1 P M2 G1 R1 S"
+  },
+  {
+    "mela_number": "39",
+    "melakarta": "true",
+    "raga_name": "Jhalavarali",
+    "arohanam": "S R1 G1 M2 P D1 N3 S.",
+    "avarohanam": "S. N3 D1 P M2 G1 R1 S"
+  },
+  {
+    "mela_number": "39",
+    "melakarta": "false",
+    "raga_name": "Dhalivarali",
+    "arohanam": "S R1 G1 M2 P D1 N3 S.",
+    "avarohanam": "S. N3 D1 P M2 G1 R1 S"
+  },
+  {
+    "mela_number": "39",
+    "melakarta": "false",
+    "raga_name": "Bhoopalapanchamam",
+    "arohanam": "S G1 R1 G1 P M2 D1 S.",
+    "avarohanam": "S. P D1 M2 G1 R1 S"
+  },
+  {
+    "mela_number": "39",
+    "melakarta": "false",
+    "raga_name": "Godari",
+    "arohanam": "S R1 G1 R1 M2 G1 M2 P D1 N3 S.",
+    "avarohanam": "S. N3 D1 P M2 R1 S"
+  },
+  {
+    "mela_number": "39",
+    "melakarta": "false",
+    "raga_name": "Jalasugandhi",
+    "arohanam": "S R1 G1 M2 P D1 S.",
+    "avarohanam": "S. D1 P M2 G1 R1 S"
+  },
+  {
+    "mela_number": "39",
+    "melakarta": "false",
+    "raga_name": "Janavali",
+    "arohanam": "S G2 R1 G2 M2 P D1 N3 D1 S.",
+    "avarohanam": "S. N3 D1 P M2 G2 R1 S"
+  },
+  {
+    "mela_number": "39",
+    "melakarta": "false",
+    "raga_name": "Karunamritavarshini",
+    "arohanam": "S R1 G1 M2 P D1 N3 P S.",
+    "avarohanam": "S. N3 D1 M2 G1 R1 S"
+  },
+  {
+    "mela_number": "39",
+    "melakarta": "false",
+    "raga_name": "Kokilapanchamam",
+    "arohanam": "S G1 R1 G1 P D1 N3 S.",
+    "avarohanam": "S. N3 D1 P M2 G1 R1 S"
+  },
+  {
+    "mela_number": "39",
+    "melakarta": "false",
+    "raga_name": "Varali",
+    "arohanam": "S G1 R1 G1 M2 P D1 N3 S.",
+    "avarohanam": "S. N3 D1 P M2 G1 R1 S"
+  },
+  {
+    "mela_number": "40",
+    "melakarta": "true",
+    "raga_name": "Navaneetham",
+    "arohanam": "S R1 G1 M2 P D2 N2 S.",
+    "avarohanam": "S. N2 D2 P M2 G1 R1 S"
+  },
+  {
+    "mela_number": "40",
+    "melakarta": "false",
+    "raga_name": "Nabhomani",
+    "arohanam": "S G1 R1 G1 M2 P S.",
+    "avarohanam": "S. N2 D2 P M2 G1 R1 S"
+  },
+  {
+    "mela_number": "41",
+    "melakarta": "true",
+    "raga_name": "Pavani",
+    "arohanam": "S R1 G1 M2 P D2 N3 S.",
+    "avarohanam": "S. N3 D2 P M2 G1 R1 S"
+  },
+  {
+    "mela_number": "41",
+    "melakarta": "false",
+    "raga_name": "Kumbhini",
+    "arohanam": "S G1 R1 G1 M2 P N3 D2 N3 S.",
+    "avarohanam": "S. N3 D2 P M2 G1 R1 S"
+  },
+  {
+    "mela_number": "41",
+    "melakarta": "false",
+    "raga_name": "Chandrajyothi",
+    "arohanam": "S R1 G1 M2 P D2 S.",
+    "avarohanam": "S. D2 P M2 G1 R1 S"
+  },
+  {
+    "mela_number": "41",
+    "melakarta": "false",
+    "raga_name": "Prabhavali",
+    "arohanam": "S R1 M2 P D2 N3 S.",
+    "avarohanam": "S. N3 D2 M2 P M2 R1 G1 R1 S"
+  },
+  {
+    "mela_number": "41",
+    "melakarta": "false",
+    "raga_name": "Poornalalitha",
+    "arohanam": "S R1 M2 G1 R1 M2 P N3 D2 N3 S.",
+    "avarohanam": "S. N3 D2 P M2 G1 R1 S"
+  },
+  {
+    "mela_number": "41",
+    "melakarta": "false",
+    "raga_name": "Poornapanchamam",
+    "arohanam": "(See 15, 16) S R1 G1 M2 P D2",
+    "avarohanam": "D2 P M2 G1 R1 S"
+  },
+  {
+    "mela_number": "42",
+    "melakarta": "true",
+    "raga_name": "Raghupriyaa",
+    "arohanam": "S R1 G1 M2 P D3 N3 S.",
+    "avarohanam": "S. N3 D3 P M2 G1 R1 S"
+  },
+  {
+    "mela_number": "42",
+    "melakarta": "false",
+    "raga_name": "Ravi Kriya",
+    "arohanam": "S G1 R1 G1 M2 P D3 N3 S.",
+    "avarohanam": "S. N3 P M2 G1 R1 S"
+  },
+  {
+    "mela_number": "42",
+    "melakarta": "false",
+    "raga_name": "Gandharva",
+    "arohanam": "M2 P D3 N3 S. R1. G1.",
+    "avarohanam": "R1. S. N3 P M2 P"
+  },
+  {
+    "mela_number": "42",
+    "melakarta": "false",
+    "raga_name": "Gomathi",
+    "arohanam": "S R1 G1 M2 P D3 N3",
+    "avarohanam": "P M2 G1 R1 S"
+  },
+  {
+    "mela_number": "42",
+    "melakarta": "false",
+    "raga_name": "Raghuleela",
+    "arohanam": "S M2 R1 P M2 G1 M2 P M2 R1 M2 P N3 S.",
+    "avarohanam": "S. N3 D3 N3 P M2 G1 M2 R1 M2 G1 R1 S"
+  },
+  {
+    "mela_number": "43",
+    "melakarta": "true",
+    "raga_name": "Ghavambhodi",
+    "arohanam": "S R1 G2 M2 P D1 N1 S.",
+    "avarohanam": "S. N1 D1 P M2 G2 R1 S"
+  },
+  {
+    "mela_number": "43",
+    "melakarta": "false",
+    "raga_name": "Geervani",
+    "arohanam": "S R1 G2 M2 P D1 N1 S.",
+    "avarohanam": "S. N1 D1 P M2 G2 R1 S"
+  },
+  {
+    "mela_number": "43",
+    "melakarta": "false",
+    "raga_name": "Kanchanabowli",
+    "arohanam": "S G2 M2 P D1 S.",
+    "avarohanam": "S. N1 D1 P M1 G2 R1 S"
+  },
+  {
+    "mela_number": "43",
+    "melakarta": "false",
+    "raga_name": "Mahathi",
+    "arohanam": "S G2 M2 P D1 N1 S.",
+    "avarohanam": "S. N1 D1 P M2 G2 S"
+  },
+  {
+    "mela_number": "43",
+    "melakarta": "false",
+    "raga_name": "Mechagandhari",
+    "arohanam": "S R3 G3 M1 P D2 N2 S.",
+    "avarohanam": "S. N2 D2 N2 P M1 G3 M1 R3 S"
+  },
+  {
+    "mela_number": "43",
+    "melakarta": "false",
+    "raga_name": "Suvarnadeepakam",
+    "arohanam": "S R1 G2 M2 P D1 S.",
+    "avarohanam": "S. D1 P M2 G2 R1 S"
+  },
+  {
+    "mela_number": "43",
+    "melakarta": "false",
+    "raga_name": "Vijayabhooshavali",
+    "arohanam": "S R1 G3 M2 P S.",
+    "avarohanam": "S. N3 D3 P M2 G3 R1 S"
+  },
+  {
+    "mela_number": "44",
+    "melakarta": "true",
+    "raga_name": "Bhavapriya",
+    "arohanam": "S R1 G2 M2 P D1 N2 S.",
+    "avarohanam": "S. N2 D1 P M2 G2 R1 S"
+  },
+  {
+    "mela_number": "44",
+    "melakarta": "false",
+    "raga_name": "Bhavani",
+    "arohanam": "S R1 G2 M2 P D1 P N2 S.",
+    "avarohanam": "S. N2 D1 P M2 G2 R1 S"
+  },
+  {
+    "mela_number": "44",
+    "melakarta": "false",
+    "raga_name": "Kanchanavathi",
+    "arohanam": "S R1 G2 M2 P N2 S.",
+    "avarohanam": "S. N2 P M2 G2 R1 S"
+  },
+  {
+    "mela_number": "45",
+    "melakarta": "true",
+    "raga_name": "Shubhapanthuvarali",
+    "arohanam": "S R1 G2 M2 P D1 N3 S.",
+    "avarohanam": "S. N3 D1 P M2 G2 R1 S"
+  },
+  {
+    "mela_number": "45",
+    "melakarta": "false",
+    "raga_name": "Shivapanthuvarali",
+    "arohanam": "S R1 G2 M2 P D1 N3 S.",
+    "avarohanam": "S. N3 D1 P M2 G2 R1 S"
+  },
+  {
+    "mela_number": "45",
+    "melakarta": "false",
+    "raga_name": "Arunangi",
+    "arohanam": "S R1 M2 P N3 D1 S.",
+    "avarohanam": "S. N3 D1 M2 R1 G2 R1 S"
+  },
+  {
+    "mela_number": "45",
+    "melakarta": "false",
+    "raga_name": "Bandhuvarali",
+    "arohanam": "S M2 S N3 D1 P M2",
+    "avarohanam": "D1 M2 G2 R1 S"
+  },
+  {
+    "mela_number": "45",
+    "melakarta": "false",
+    "raga_name": "Bhanudhanyasi",
+    "arohanam": "S R1 G2 M2 N3 D1 N3",
+    "avarohanam": "D1 P M2 G2 R1 S N3 S"
+  },
+  {
+    "mela_number": "45",
+    "melakarta": "false",
+    "raga_name": "Bhanukeeravani",
+    "arohanam": "S R1 G2 M2 P D1 N3 S.",
+    "avarohanam": "S. N3 D1 M2 G2 R1 S"
+  },
+  {
+    "mela_number": "45",
+    "melakarta": "false",
+    "raga_name": "Chayaranjani",
+    "arohanam": "S G2 M2 P N2 S.",
+    "avarohanam": "S. N2 D1 P M2 G2 S"
+  },
+  {
+    "mela_number": "45",
+    "melakarta": "false",
+    "raga_name": "Dhowreyani",
+    "arohanam": "S R1 G2 M2 N3 S.",
+    "avarohanam": "S. N3 D1 P M2 G2 R1 S"
+  },
+  {
+    "mela_number": "45",
+    "melakarta": "false",
+    "raga_name": "Hindusthani Todi",
+    "arohanam": ".N3 R1 G2 M2 D1 N3 S.",
+    "avarohanam": "S. N3 D1 P M2 G2 R1 S"
+  },
+  {
+    "mela_number": "45",
+    "melakarta": "false",
+    "raga_name": "Jalakesari",
+    "arohanam": "S R1 M2 P D1 N3 S.",
+    "avarohanam": "S. D1 P M2 R1 S"
+  },
+  {
+    "mela_number": "45",
+    "melakarta": "false",
+    "raga_name": "Kumudhachandrika",
+    "arohanam": "S G2 M2 D1 S.",
+    "avarohanam": "S. N3 D1 M2 G2 R1 S"
+  },
+  {
+    "mela_number": "45",
+    "melakarta": "false",
+    "raga_name": "Mahanandhini",
+    "arohanam": "S M2 G2 M2 P D1 N3 S.",
+    "avarohanam": "S. D1 N3 D1 P M2 G2 R1 S"
+  },
+  {
+    "mela_number": "45",
+    "melakarta": "false",
+    "raga_name": "Parpathi",
+    "arohanam": "S G2 M2 P N3 S.",
+    "avarohanam": "S. N3 P M2 G2 S"
+  },
+  {
+    "mela_number": "45",
+    "melakarta": "false",
+    "raga_name": "Shekharachandrika",
+    "arohanam": "S R1 G2 M2 D1 N3 S.",
+    "avarohanam": "S. N3 D1 M2 G2 R1 S"
+  },
+  {
+    "mela_number": "46",
+    "melakarta": "true",
+    "raga_name": "Shadvidhamargini",
+    "arohanam": "S R1 G2 M2 P D2 N2 S.",
+    "avarohanam": "S. N2 D2 P M2 G2 R1 S"
+  },
+  {
+    "mela_number": "46",
+    "melakarta": "false",
+    "raga_name": "Sthavarajam",
+    "arohanam": "S R1 M2 P D2 S.",
+    "avarohanam": "S. N2 D2 M2 G2 S"
+  },
+  {
+    "mela_number": "46",
+    "melakarta": "false",
+    "raga_name": "Ganahemavati",
+    "arohanam": "S G2 M2 P N2 S.",
+    "avarohanam": "S. N2 D2 P M2 G2 S"
+  },
+  {
+    "mela_number": "46",
+    "melakarta": "false",
+    "raga_name": "Indhudhanyasi",
+    "arohanam": "S G2 M2 D2 N2 S.",
+    "avarohanam": "S. N2 D2 P D2 M2 G2 R1 S"
+  },
+  {
+    "mela_number": "46",
+    "melakarta": "false",
+    "raga_name": "Shreekanti",
+    "arohanam": "S G2 M2 P D2 N2 S.",
+    "avarohanam": "S. N2 D2 P M2 G2 S"
+  },
+  {
+    "mela_number": "46",
+    "melakarta": "false",
+    "raga_name": "Teevravahini",
+    "arohanam": "S R1 G2 M2 P D2 P N2 S.",
+    "avarohanam": "S. N2 D2 P M2 G2 R1 G2 M2 R1 S"
+  },
+  {
+    "mela_number": "47",
+    "melakarta": "true",
+    "raga_name": "Suvarnangi",
+    "arohanam": "S R1 G2 M2 P D2 N3 S.",
+    "avarohanam": "S. N3 D2 P M2 G2 R1 S"
+  },
+  {
+    "mela_number": "47",
+    "melakarta": "false",
+    "raga_name": "Sowveeram",
+    "arohanam": "S R1 G2 M2 P D2 N3 S.",
+    "avarohanam": "S. N3 D2 P M2 G2 R1 S"
+  },
+  {
+    "mela_number": "47",
+    "melakarta": "false",
+    "raga_name": "Abhiru",
+    "arohanam": "S R1 G2 R1 M2 P N3 S.",
+    "avarohanam": "S. D2 P M2 G2 R1 G2 S"
+  },
+  {
+    "mela_number": "47",
+    "melakarta": "false",
+    "raga_name": "Rathika",
+    "arohanam": "S M2 G2 M2 P D2 N3 S.",
+    "avarohanam": "S. N3 D2 P M2 G2 R1 S"
+  },
+  {
+    "mela_number": "47",
+    "melakarta": "false",
+    "raga_name": "Vijayashree",
+    "arohanam": "S R1 G2 M2 P N2 S.",
+    "avarohanam": "S. N2 P M2 G2 R1 S"
+  },
+  {
+    "mela_number": "48",
+    "melakarta": "true",
+    "raga_name": "Divyamani",
+    "arohanam": "S R1 G2 M2 P D3 N3 S.",
+    "avarohanam": "S. N3 D3 P M2 G2 R1 S"
+  },
+  {
+    "mela_number": "48",
+    "melakarta": "false",
+    "raga_name": "Jeevanthika",
+    "arohanam": "S M2 P D3 N3 S.",
+    "avarohanam": "S. N3 P M2 G2 S"
+  },
+  {
+    "mela_number": "48",
+    "melakarta": "false",
+    "raga_name": "Deshamukhari",
+    "arohanam": "S R1 G2 M2 P D3 N3 D3 S.",
+    "avarohanam": "S. D3 N3 D3 P M2 G2 R1 S"
+  },
+  {
+    "mela_number": "48",
+    "melakarta": "false",
+    "raga_name": "Dundubi",
+    "arohanam": "S R1 G2 M2 P D3 N3 S.",
+    "avarohanam": "S. N3 P M2 G2 R1 S"
+  },
+  {
+    "mela_number": "48",
+    "melakarta": "false",
+    "raga_name": "Jeevanthini",
+    "arohanam": "S M2 P D3 N3 S.",
+    "avarohanam": "S. N3 P M2 G2 S"
+  },
+  {
+    "mela_number": "48",
+    "melakarta": "false",
+    "raga_name": "Suddha Gandhari",
+    "arohanam": "S R1 G2 M2 N3 S.",
+    "avarohanam": "S. N3 D3 N3 S N3 P M2 R1 S"
+  },
+  {
+    "mela_number": "49",
+    "melakarta": "true",
+    "raga_name": "Dhavalambari",
+    "arohanam": "S R1 G3 M2 P D1 N1 S.",
+    "avarohanam": "S. N1 D1 P M2 G3 R1 S"
+  },
+  {
+    "mela_number": "49",
+    "melakarta": "false",
+    "raga_name": "Dhavalangam",
+    "arohanam": "S R1 G3 M2 P D1 S.",
+    "avarohanam": "S. N1 D1 P M2 G3 R1 S"
+  },
+  {
+    "mela_number": "49",
+    "melakarta": "false",
+    "raga_name": "Abhiramam",
+    "arohanam": "S R1 M2 P D1 N1 S.",
+    "avarohanam": "S. N1 D1 P M2 G2 R1 S"
+  },
+  {
+    "mela_number": "49",
+    "melakarta": "false",
+    "raga_name": "Bhinnapauarali",
+    "arohanam": "S M2 P D1 N1 D1 S.",
+    "avarohanam": "S. N1 D1 P M2 G3 S"
+  },
+  {
+    "mela_number": "49",
+    "melakarta": "false",
+    "raga_name": "Dharmini",
+    "arohanam": "S R1 G3 M2 D1 N1 S.",
+    "avarohanam": "S. N1 D1 M2 G3 R1 S"
+  },
+  {
+    "mela_number": "49",
+    "melakarta": "false",
+    "raga_name": "Sudharmini",
+    "arohanam": "S R1 M2 P D1 N1 S.",
+    "avarohanam": "S. N1 D1 M1 G3 R2 S"
+  },
+  {
+    "mela_number": "50",
+    "melakarta": "true",
+    "raga_name": "Namanarayani",
+    "arohanam": "S R1 G3 M2 P D1 N2 S.",
+    "avarohanam": "S. N2 D1 P M2 G3 R1 S"
+  },
+  {
+    "mela_number": "50",
+    "melakarta": "false",
+    "raga_name": "Namadeshi",
+    "arohanam": "S R1 G3 M2 P D1 N2 S.",
+    "avarohanam": "S. N2 D1 P M2 G3 R1 S"
+  },
+  {
+    "mela_number": "50",
+    "melakarta": "false",
+    "raga_name": "Narmada",
+    "arohanam": "S R1 G3 M2 D1 N2 S.",
+    "avarohanam": "S. N2 D1 M2 P M2 G3 R1 S"
+  },
+  {
+    "mela_number": "50",
+    "melakarta": "false",
+    "raga_name": "Swaramanjari",
+    "arohanam": "S G3 M2 P D1 S.",
+    "avarohanam": "S. N2 D1 P M2 G3 S"
+  },
+  {
+    "mela_number": "51",
+    "melakarta": "true",
+    "raga_name": "Panthuvarali (Kamavardhani)",
+    "arohanam": "S R1 G3 M2 P D1 N3 S.",
+    "avarohanam": "S. N3 D1 P M2 G3 R1 S"
+  },
+  {
+    "mela_number": "51",
+    "melakarta": "false",
+    "raga_name": "Kashiramakriya",
+    "arohanam": "S G3 R1 G3 M2 P D1 N3 S.",
+    "avarohanam": "S. N3 D1 P M1 G3 R1 S"
+  },
+  {
+    "mela_number": "51",
+    "melakarta": "false",
+    "raga_name": "Mandari",
+    "arohanam": "S R1 G3 M2 P N3 S.",
+    "avarohanam": "S. N3 P M2 G3 R1 S"
+  },
+  {
+    "mela_number": "51",
+    "melakarta": "false",
+    "raga_name": "Adhi Panchama",
+    "arohanam": "S R1 P D1 N3 S.",
+    "avarohanam": "S. N3 D1 N3 P M2 G3 R1 S"
+  },
+  {
+    "mela_number": "51",
+    "melakarta": "false",
+    "raga_name": "Basant Bahar",
+    "arohanam": "S M2 P G3 M2 N3 D1 N3 S.",
+    "avarohanam": "R2. S. N2 D2 P M1 G2 M1 G2 R2 S"
+  },
+  {
+    "mela_number": "51",
+    "melakarta": "false",
+    "raga_name": "Bhogavasantha",
+    "arohanam": "S R1 G3 M2 D1 N3 S.",
+    "avarohanam": "S. N3 D1 M2 G3 R1 S"
+  },
+  {
+    "mela_number": "51",
+    "melakarta": "false",
+    "raga_name": "Deepakam",
+    "arohanam": "S R2 M2 P D1 P S.",
+    "avarohanam": "S. N3 D1 N3 P M2 G3 R1 S"
+  },
+  {
+    "mela_number": "51",
+    "melakarta": "false",
+    "raga_name": "Gamakapriya",
+    "arohanam": "S R1 G3 M2 P N3 D1 S.",
+    "avarohanam": "S. D1 P M2 G3 R1 S"
+  },
+  {
+    "mela_number": "51",
+    "melakarta": "false",
+    "raga_name": "Gamanapriya",
+    "arohanam": "S R1 G3 M2 P N3 D1 S.",
+    "avarohanam": "S. D1 P M2 G3 R1 S"
+  },
+  {
+    "mela_number": "51",
+    "melakarta": "false",
+    "raga_name": "Hamsanarayani",
+    "arohanam": "S R1 G3 M2 P S.",
+    "avarohanam": "S. N3 P M2 G3 R1 S"
+  },
+  {
+    "mela_number": "51",
+    "melakarta": "false",
+    "raga_name": "Indumathi",
+    "arohanam": "S G3 M2 D1 N3 S.",
+    "avarohanam": "S. N3 D1 P M2 G3 S"
+  },
+  {
+    "mela_number": "51",
+    "melakarta": "false",
+    "raga_name": "Kamalaptapriya",
+    "arohanam": "S R1 G3 M2 P D1 S.",
+    "avarohanam": "S. D1 P M2 G3 R1 S"
+  },
+  {
+    "mela_number": "51",
+    "melakarta": "false",
+    "raga_name": "Kumudhakriya",
+    "arohanam": "S R1 G3 M2 D1 S.",
+    "avarohanam": "S. N3 D1 M2 G3 R1 S"
+  },
+  {
+    "mela_number": "51",
+    "melakarta": "false",
+    "raga_name": "Maruthi",
+    "arohanam": "S R1 M2 P N3 S.",
+    "avarohanam": "S. N3 D1 P M2 G3 R1 S"
+  },
+  {
+    "mela_number": "51",
+    "melakarta": "false",
+    "raga_name": "Ponni",
+    "arohanam": "S G3 M2 P N3 S.",
+    "avarohanam": "S. N3 P M2 G3 R1 S"
+  },
+  {
+    "mela_number": "51",
+    "melakarta": "false",
+    "raga_name": "Prathapa",
+    "arohanam": "S G3 M2 D1 N3 S.",
+    "avarohanam": "S. N3 D P M2 G3 R1 S"
+  },
+  {
+    "mela_number": "51",
+    "melakarta": "false",
+    "raga_name": "Puriya Dhanashree",
+    "arohanam": ".N3 R1 G3 M2 P D1 P N3 S.",
+    "avarohanam": "R1. N3 D1 P M2 G3 M2 R1 G3 R1 S"
+  },
+  {
+    "mela_number": "51",
+    "melakarta": "false",
+    "raga_name": "Tandavapriya",
+    "arohanam": "S R1 G3 M2 P S.",
+    "avarohanam": "S. P M2 G3 R1 S"
+  },
+  {
+    "mela_number": "52",
+    "melakarta": "true",
+    "raga_name": "Ramapriya",
+    "arohanam": "S R1 G3 M2 P D2 N2 S.",
+    "avarohanam": "S. N2 D2 P M2 G3 R1 S"
+  },
+  {
+    "mela_number": "52",
+    "melakarta": "false",
+    "raga_name": "Ramamanohari",
+    "arohanam": "S R1 G3 M2 P D2 S.",
+    "avarohanam": "S. N2 D2 P M2 G3 R1 S"
+  },
+  {
+    "mela_number": "52",
+    "melakarta": "false",
+    "raga_name": "Chintaramani",
+    "arohanam": "S G3 M2 P D2 N2 S.",
+    "avarohanam": "S. D2 P M2 G3 R1 S"
+  },
+  {
+    "mela_number": "52",
+    "melakarta": "false",
+    "raga_name": "Hamsagamini",
+    "arohanam": "S G3 M2 P D2 N2 S.",
+    "avarohanam": "S. N2 D2 P M2 D2 P M2 G3 R1 S"
+  },
+  {
+    "mela_number": "52",
+    "melakarta": "false",
+    "raga_name": "Lokaranjani",
+    "arohanam": "S G3 M2 P M2 D2 N2 S.",
+    "avarohanam": "S. N2 D2 N2 P M2 G3 R1 S"
+  },
+  {
+    "mela_number": "52",
+    "melakarta": "false",
+    "raga_name": "Meghashyamala",
+    "arohanam": "S G3 M2 P D2 N2 D2 P S.",
+    "avarohanam": "S. N2 D2 P M2 G3 R1 S"
+  },
+  {
+    "mela_number": "52",
+    "melakarta": "false",
+    "raga_name": "Patalambari",
+    "arohanam": "S R1 G3 M2 D2 S.",
+    "avarohanam": "S. D2 M2 G3 R1 S"
+  },
+  {
+    "mela_number": "52",
+    "melakarta": "false",
+    "raga_name": "Raktimargini",
+    "arohanam": "S P M2 D2 N2 S.",
+    "avarohanam": "S. N2 D2 P M2 P G3 R1 S"
+  },
+  {
+    "mela_number": "52",
+    "melakarta": "false",
+    "raga_name": "Rasavinodini",
+    "arohanam": "S G3 M2 P D2 N2 S.",
+    "avarohanam": "S. N2 D2 P M2 G3 S"
+  },
+  {
+    "mela_number": "52",
+    "melakarta": "false",
+    "raga_name": "Reethi Chandrika",
+    "arohanam": "S R1 G3 M2 P D2 S.",
+    "avarohanam": "S. N2 D2 P M2 G3 R1 S"
+  },
+  {
+    "mela_number": "52",
+    "melakarta": "false",
+    "raga_name": "Seemantinipriya",
+    "arohanam": "S R1 G3 M2 D2 N2 S.",
+    "avarohanam": "S. N2 D2 M2 G3 R1 S"
+  },
+  {
+    "mela_number": "52",
+    "melakarta": "false",
+    "raga_name": "Sukhakari",
+    "arohanam": "S R1 S P D2 N2 S.",
+    "avarohanam": "S. N2 D2 P M2 G3 S R1 S"
+  },
+  {
+    "mela_number": "52",
+    "melakarta": "false",
+    "raga_name": "Vedhaswaroopi",
+    "arohanam": "S R1 G3 M2 P D2 N3 P S.",
+    "avarohanam": "S. N3 D2 Pn3 P M2 G3 S"
+  },
+  {
+    "mela_number": "53",
+    "melakarta": "true",
+    "raga_name": "Gamanashrama",
+    "arohanam": "S R1 G3 M2 P D2 N3 S.",
+    "avarohanam": "S. N3 D2 P M2 G3 R1 S"
+  },
+  {
+    "mela_number": "53",
+    "melakarta": "false",
+    "raga_name": "Gamakakriya",
+    "arohanam": "S R1 G3 M2 P D2 S.",
+    "avarohanam": "S. N3 D2 P M2 G3 R1 S"
+  },
+  {
+    "mela_number": "53",
+    "melakarta": "false",
+    "raga_name": "Alankari",
+    "arohanam": "S G3 M2 D2 N3 D2 S.",
+    "avarohanam": "S. N3 D2 M2 G3 S"
+  },
+  {
+    "mela_number": "53",
+    "melakarta": "false",
+    "raga_name": "Bhatiyar",
+    "arohanam": "S D2 P D2 M2 P G3 M2 D2 S.",
+    "avarohanam": "R1 N3 D2 P M2 P G3 R1 S"
+  },
+  {
+    "mela_number": "53",
+    "melakarta": "false",
+    "raga_name": "Dvigandharabhooshani",
+    "arohanam": "S R1 G2 G3 G2 P D2 S.",
+    "avarohanam": "S. D2 P G2 G3 G2 R1 S D2 S"
+  },
+  {
+    "mela_number": "53",
+    "melakarta": "false",
+    "raga_name": "Hamsanandi",
+    "arohanam": "S R1 G3 M2 D2 N3 S.",
+    "avarohanam": "S. N3 D2 M2 G3 R1 S"
+  },
+  {
+    "mela_number": "53",
+    "melakarta": "false",
+    "raga_name": "Mechakangi",
+    "arohanam": "S R1 G3 M2 P D2 P N3 S.",
+    "avarohanam": "S. N3 P D2 P M2 G3 R1 S"
+  },
+  {
+    "mela_number": "53",
+    "melakarta": "false",
+    "raga_name": "Padmakalyani",
+    "arohanam": "S G3 P N3 S.",
+    "avarohanam": "S. N3 D2 P M2 G3 S"
+  },
+  {
+    "mela_number": "53",
+    "melakarta": "false",
+    "raga_name": "Poorvi Kalyani",
+    "arohanam": "S R1 G3 M2 P D2 P S.",
+    "avarohanam": "S. N3 D2 P M2 G3 R1 S"
+  },
+  {
+    "mela_number": "53",
+    "melakarta": "false",
+    "raga_name": "Sharabadhvaja",
+    "arohanam": "S R1 G3 M2 P D2 S.",
+    "avarohanam": "S. D2 P G3 R1 S"
+  },
+  {
+    "mela_number": "53",
+    "melakarta": "false",
+    "raga_name": "Sohini",
+    "arohanam": "S G3 M2 D2 N3 S.",
+    "avarohanam": "S. N3 D2 M2 G3 R1 S"
+  },
+  {
+    "mela_number": "53",
+    "melakarta": "false",
+    "raga_name": "Vaishaka",
+    "arohanam": "S R1 G3 M2 P D2 N3 S.",
+    "avarohanam": "S. N3 D2 N3 P M2 G3 M2 R1 S"
+  },
+  {
+    "mela_number": "54",
+    "melakarta": "true",
+    "raga_name": "Vishvambhari",
+    "arohanam": "S R1 G3 M2 P D3 N3 S.",
+    "avarohanam": "S. N3 D3 P M2 G3 R1 S"
+  },
+  {
+    "mela_number": "54",
+    "melakarta": "false",
+    "raga_name": "Vamshavathi",
+    "arohanam": "S R1 G3 M2 P D3 N3 S.",
+    "avarohanam": "S. N3 P M2 G3 R1 S"
+  },
+  {
+    "mela_number": "54",
+    "melakarta": "false",
+    "raga_name": "Hemangi",
+    "arohanam": "S R1 G3 M2 D3 S.",
+    "avarohanam": "S. D3 M2 G3 R1 S"
+  },
+  {
+    "mela_number": "54",
+    "melakarta": "false",
+    "raga_name": "Pooshakalyani",
+    "arohanam": "S R1 G3 M2 P D3 N3 S.",
+    "avarohanam": "S. N3 P M2 G3 R1 S"
+  },
+  {
+    "mela_number": "54",
+    "melakarta": "false",
+    "raga_name": "Sharadhyuthi",
+    "arohanam": "S R1 G3 M2 P D3 N3 D3 S.",
+    "avarohanam": "S. N3 D3 P M2 G3 R1 S"
+  },
+  {
+    "mela_number": "54",
+    "melakarta": "false",
+    "raga_name": "Suddhakriya",
+    "arohanam": "S R1 M2 M2 P D3 S.",
+    "avarohanam": "S. D3 P M2 G3 R1 S"
+  },
+  {
+    "mela_number": "54",
+    "melakarta": "false",
+    "raga_name": "Sundarangi",
+    "arohanam": "S R1 G3 P D3 N3 S.",
+    "avarohanam": "S. N3 D3 P G3 R1 S"
+  },
+  {
+    "mela_number": "54",
+    "melakarta": "false",
+    "raga_name": "Vijayavasantham",
+    "arohanam": "S M2 P D3 N3 S.",
+    "avarohanam": "S. N3 P M2 G3 S"
+  },
+  {
+    "mela_number": "55",
+    "melakarta": "true",
+    "raga_name": "Shyamalangi",
+    "arohanam": "S R2 G2 M2 P D1 N1 S.",
+    "avarohanam": "S. N1 D1 P M2 G2 R2 S"
+  },
+  {
+    "mela_number": "55",
+    "melakarta": "false",
+    "raga_name": "Shyamalam",
+    "arohanam": "S R2 G2 M2 P D1 N1 S.",
+    "avarohanam": "S. N1 D1 P M2 G2 R2 S"
+  },
+  {
+    "mela_number": "55",
+    "melakarta": "false",
+    "raga_name": "Deshavali",
+    "arohanam": "S R2 G2 M2 D1 N1 D1 S.",
+    "avarohanam": "S. N1 D1 M2 G2 R2 S"
+  },
+  {
+    "mela_number": "55",
+    "melakarta": "false",
+    "raga_name": "Vijayamalavi",
+    "arohanam": "S R2 M2 P D1 S.",
+    "avarohanam": "S. N1 D1 P M2 R2 S"
+  },
+  {
+    "mela_number": "56",
+    "melakarta": "true",
+    "raga_name": "Shanmukhapriyaa",
+    "arohanam": "S R2 G2 M2 P D1 N2 S.",
+    "avarohanam": "S. N2 D1 P M2 G2 R2 S"
+  },
+  {
+    "mela_number": "56",
+    "melakarta": "false",
+    "raga_name": "Chamaram",
+    "arohanam": "S R2 M2 P D1 N2 S.",
+    "avarohanam": "S. N2 D1 P M2 G2 R2 S"
+  },
+  {
+    "mela_number": "56",
+    "melakarta": "false",
+    "raga_name": "Bhashini",
+    "arohanam": "S G2 R2 G2 M2 P D1 N2 S.",
+    "avarohanam": "S. N2 D1 P M2 G2 R1 S"
+  },
+  {
+    "mela_number": "56",
+    "melakarta": "false",
+    "raga_name": "Chintamani",
+    "arohanam": "S G2 R2 G2 M2 G2 R2 G2 P M2 P D2 N2 S.",
+    "avarohanam": "S. N2 D2 P M2 G2 R2 S"
+  },
+  {
+    "mela_number": "56",
+    "melakarta": "false",
+    "raga_name": "Dhanakari",
+    "arohanam": "S G2 P D1 N2 S.",
+    "avarohanam": "S. N2 D1 M2 G2 S"
+  },
+  {
+    "mela_number": "56",
+    "melakarta": "false",
+    "raga_name": "Garigadya",
+    "arohanam": ".N2 S G2 M2 P D1 N2",
+    "avarohanam": "D1 P M2 G2 R2 S"
+  },
+  {
+    "mela_number": "56",
+    "melakarta": "false",
+    "raga_name": "Gopikathilakam",
+    "arohanam": "S R2 G2 M2 P N2 S.",
+    "avarohanam": "S. N2 P M2 G2 R2 S"
+  },
+  {
+    "mela_number": "56",
+    "melakarta": "false",
+    "raga_name": "Kokilanandhi",
+    "arohanam": "S G2 M2 D1 N2 S.",
+    "avarohanam": "S. N2 D1 P M2 G2 S"
+  },
+  {
+    "mela_number": "56",
+    "melakarta": "false",
+    "raga_name": "Rajeshwari",
+    "arohanam": "S R2 G2 P N2 S.",
+    "avarohanam": "S. N2 D1 P M1 G2 S"
+  },
+  {
+    "mela_number": "56",
+    "melakarta": "false",
+    "raga_name": "Samudrapriya",
+    "arohanam": "S G2 M2 P N2 S.",
+    "avarohanam": "S. N2 P M2 G2 S"
+  },
+  {
+    "mela_number": "56",
+    "melakarta": "false",
+    "raga_name": "Shanmukhi (Trimoorti)",
+    "arohanam": "S R1 G2 M2 D1 N2 S.",
+    "avarohanam": "S. N2 D1 M2 G2 R1 S"
+  },
+  {
+    "mela_number": "56",
+    "melakarta": "false",
+    "raga_name": "Sumanasaranjani",
+    "arohanam": "S G2 M2 P N2 S.",
+    "avarohanam": "S. N2 P M2 G2 S"
+  },
+  {
+    "mela_number": "56",
+    "melakarta": "false",
+    "raga_name": "Vasukari",
+    "arohanam": "S G2 M2 P D1 N2 S.",
+    "avarohanam": "S. N2 D1 M2 G2 S"
+  },
+  {
+    "mela_number": "57",
+    "melakarta": "true",
+    "raga_name": "Simhendramadhyamam",
+    "arohanam": "S R2 G2 M2 P D1 N3 S.",
+    "avarohanam": "S. N3 D1 P M2 G2 R2 S"
+  },
+  {
+    "mela_number": "57",
+    "melakarta": "false",
+    "raga_name": "Anandavalli",
+    "arohanam": "S G2 M2 P N3 S.",
+    "avarohanam": "S. N3 P M2 G2 S"
+  },
+  {
+    "mela_number": "57",
+    "melakarta": "false",
+    "raga_name": "Ghantana",
+    "arohanam": "S R2 G2 M2 D1 N3 S.",
+    "avarohanam": "S. N3 D1 M2 G2 R2 S"
+  },
+  {
+    "mela_number": "57",
+    "melakarta": "false",
+    "raga_name": "Jayachoodamani",
+    "arohanam": "S G2 M2 P D1 S.",
+    "avarohanam": "S. N3 D1 P M2 G2 R2 S"
+  },
+  {
+    "mela_number": "57",
+    "melakarta": "false",
+    "raga_name": "Pranavapriya",
+    "arohanam": "S R2 M2 P N3 S.",
+    "avarohanam": "S. N3 P M2 G2 R2 S"
+  },
+  {
+    "mela_number": "57",
+    "melakarta": "false",
+    "raga_name": "Sarvangi",
+    "arohanam": "S R2 M2 D1 N3 S.",
+    "avarohanam": "S. N3 D1 M2 G2 S R3 S"
+  },
+  {
+    "mela_number": "57",
+    "melakarta": "false",
+    "raga_name": "Seshanadam",
+    "arohanam": "S R2 G2 M2 P D1 S.",
+    "avarohanam": "S. N3 D1 P M2 G2 R2 S"
+  },
+  {
+    "mela_number": "57",
+    "melakarta": "false",
+    "raga_name": "Suddha",
+    "arohanam": "S R2 G2 M2 P N3 S.",
+    "avarohanam": "S. N3 P M2 G2 R2 S"
+  },
+  {
+    "mela_number": "57",
+    "melakarta": "false",
+    "raga_name": "Sunadapriya",
+    "arohanam": "S R2 G2 M2 P S.",
+    "avarohanam": "S. N3 D1 P M2 G2 R2 S"
+  },
+  {
+    "mela_number": "57",
+    "melakarta": "false",
+    "raga_name": "Urmika",
+    "arohanam": "S R2 G2 M2 P N3 S.",
+    "avarohanam": "S. N3 P M2 G2 R2 S"
+  },
+  {
+    "mela_number": "57",
+    "melakarta": "false",
+    "raga_name": "Vijayasaraswathi",
+    "arohanam": "S G2 M2 P D1 N3 S.",
+    "avarohanam": "S. N3 P M2 G2 R2 S"
+  },
+  {
+    "mela_number": "58",
+    "melakarta": "true",
+    "raga_name": "Hemavathi",
+    "arohanam": "S R2 G2 M2 P D2 N2 S.",
+    "avarohanam": "S. N2 D2 P M2 G2 R2 S"
+  },
+  {
+    "mela_number": "58",
+    "melakarta": "false",
+    "raga_name": "Deshisimharavam",
+    "arohanam": "S R2 G2 M2 P D2 N2 S.",
+    "avarohanam": "S. N2 D2 P M2 G2 R2 S"
+  },
+  {
+    "mela_number": "58",
+    "melakarta": "false",
+    "raga_name": "Chandrarekha",
+    "arohanam": "S R2 G2 M2 P D2 S.",
+    "avarohanam": "S. N2 D2 M2 G2 R2 S"
+  },
+  {
+    "mela_number": "58",
+    "melakarta": "false",
+    "raga_name": "Hamsabhramari",
+    "arohanam": "S R2 G2 M2 P D2 S.",
+    "avarohanam": "S. N2 D2 P M2 G2 R2 S"
+  },
+  {
+    "mela_number": "58",
+    "melakarta": "false",
+    "raga_name": "Hemambari",
+    "arohanam": "S R2 G2 M2 P D2 N2 S.",
+    "avarohanam": "S. P M2 G2 R2 S"
+  },
+  {
+    "mela_number": "58",
+    "melakarta": "false",
+    "raga_name": "Hemapriya",
+    "arohanam": "S R2 G2 M2 D2 S.",
+    "avarohanam": "S. D2 M2 G2 R2 S"
+  },
+  {
+    "mela_number": "58",
+    "melakarta": "false",
+    "raga_name": "Kshemakari",
+    "arohanam": "S R2 M2 D2 N2 S.",
+    "avarohanam": "S. N2 D2 M2 R2 S"
+  },
+  {
+    "mela_number": "58",
+    "melakarta": "false",
+    "raga_name": "Madhukowns",
+    "arohanam": "S G2 M2 P N2 P S.",
+    "avarohanam": "S. N2 P M2 G3 S"
+  },
+  {
+    "mela_number": "58",
+    "melakarta": "false",
+    "raga_name": "Shakthiroopini",
+    "arohanam": "S G2 M2 D2 S.",
+    "avarohanam": "S. N2 D2 M2 G2 S"
+  },
+  {
+    "mela_number": "58",
+    "melakarta": "false",
+    "raga_name": "Simharava",
+    "arohanam": "S R2 M2 P N2 S.",
+    "avarohanam": "S. N2 P M2 R2 G2 R2 S"
+  },
+  {
+    "mela_number": "58",
+    "melakarta": "false",
+    "raga_name": "Vijayasaranga",
+    "arohanam": "S R2 G2 M2 P D2 S.",
+    "avarohanam": "S. N2 D2 M2 G2 R2 S"
+  },
+  {
+    "mela_number": "58",
+    "melakarta": "false",
+    "raga_name": "Vijayashrangi",
+    "arohanam": "S R2 G2 M2 P D2 S.",
+    "avarohanam": "S. N2 D2 M2 G2 R2 S"
+  },
+  {
+    "mela_number": "58",
+    "melakarta": "false",
+    "raga_name": "Yagini",
+    "arohanam": "S R2 M2 P N2 S.",
+    "avarohanam": "S. N2 P M2 R2 S"
+  },
+  {
+    "mela_number": "59",
+    "melakarta": "true",
+    "raga_name": "Dharmavathi",
+    "arohanam": "S R2 G2 M2 P D2 N3 S.",
+    "avarohanam": "S. N3 D2 P M2 G2 R2 S"
+  },
+  {
+    "mela_number": "59",
+    "melakarta": "false",
+    "raga_name": "Dhamavathi",
+    "arohanam": "S R2 G2 M2 P D2 N3 S.",
+    "avarohanam": "S. N3 D2 P M2 G2 R2 S"
+  },
+  {
+    "mela_number": "59",
+    "melakarta": "false",
+    "raga_name": "Gowrikriya",
+    "arohanam": "S G2 M2 P D2 N3 S.",
+    "avarohanam": "S. N3 D2 N3 P M2 G2 S"
+  },
+  {
+    "mela_number": "59",
+    "melakarta": "false",
+    "raga_name": "Karmukhavati",
+    "arohanam": "S R2 G2 M2 D2 N3 S.",
+    "avarohanam": "S. N3 D2 M2 G2 R2 S"
+  },
+  {
+    "mela_number": "59",
+    "melakarta": "false",
+    "raga_name": "Karpoora Bharani",
+    "arohanam": "S R2 G2 P M2 P D2 S.",
+    "avarohanam": "S. D2 P M2 P G2 R2 S"
+  },
+  {
+    "mela_number": "59",
+    "melakarta": "false",
+    "raga_name": "Lalitasimharavam",
+    "arohanam": "S R2 G2 M2 P S.",
+    "avarohanam": "S. N3 P M2 G2 R2 S"
+  },
+  {
+    "mela_number": "59",
+    "melakarta": "false",
+    "raga_name": "Madhumalathi",
+    "arohanam": ".N3 S G2 M2 P S.",
+    "avarohanam": "S. N3 D2 P M2 G2 R2 S"
+  },
+  {
+    "mela_number": "59",
+    "melakarta": "false",
+    "raga_name": "Madhuvanthi",
+    "arohanam": "S G2 M2 P N3 S.",
+    "avarohanam": "S. N3 D2 P M2 G2 R2 S"
+  },
+  {
+    "mela_number": "59",
+    "melakarta": "false",
+    "raga_name": "Moharanjani",
+    "arohanam": "S R2 G2 P D2 S.",
+    "avarohanam": "S. N3 D2 M2 G2 S"
+  },
+  {
+    "mela_number": "59",
+    "melakarta": "false",
+    "raga_name": "Ranjani",
+    "arohanam": "S R2 G2 M2 D2 S.",
+    "avarohanam": "S. N3 D2 M2 G2 S"
+  },
+  {
+    "mela_number": "59",
+    "melakarta": "false",
+    "raga_name": "Varada",
+    "arohanam": "S R2 M2 P N3 S.",
+    "avarohanam": "S. N3 P M2 R2 S"
+  },
+  {
+    "mela_number": "59",
+    "melakarta": "false",
+    "raga_name": "Vijayanagari",
+    "arohanam": "S R2 G2 M2 P D2 S.",
+    "avarohanam": "S. D2 P M2 G2 R2 S"
+  },
+  {
+    "mela_number": "59",
+    "melakarta": "false",
+    "raga_name": "Vishveshwarapriya",
+    "arohanam": "S R2 M2 P N3 S.",
+    "avarohanam": "S. N3 D2 P M2 R2 S"
+  },
+  {
+    "mela_number": "60",
+    "melakarta": "true",
+    "raga_name": "Neethimathi",
+    "arohanam": "S R2 G2 M2 P D3 N3 S.",
+    "avarohanam": "S. N3 D3 P M2 G2 R2 S"
+  },
+  {
+    "mela_number": "60",
+    "melakarta": "false",
+    "raga_name": "Nisshadham",
+    "arohanam": "S R2 G2 M2 P D3 N3 S.",
+    "avarohanam": "S. N3 P M2 G2 R2 S"
+  },
+  {
+    "mela_number": "60",
+    "melakarta": "false",
+    "raga_name": "Amarasenapriya",
+    "arohanam": "S R2 M2 P N2 S.",
+    "avarohanam": "S. N3 P M2 G2 R2 S"
+  },
+  {
+    "mela_number": "60",
+    "melakarta": "false",
+    "raga_name": "Deshyaganavaridhi",
+    "arohanam": "S R2 G2 M2 P D3 N3 P S.",
+    "avarohanam": "S. N3 S P M2 G2 R2 S"
+  },
+  {
+    "mela_number": "60",
+    "melakarta": "false",
+    "raga_name": "Hamsanadam (1)",
+    "arohanam": "S R2 M2 P D3 N3 S.",
+    "avarohanam": "S. N3 D3 P M2 R2 S"
+  },
+  {
+    "mela_number": "60",
+    "melakarta": "false",
+    "raga_name": "Hamsanadam (2)",
+    "arohanam": "S R2 M2 P N3 S.",
+    "avarohanam": "S. N3 P M2 R2 S"
+  },
+  {
+    "mela_number": "60",
+    "melakarta": "false",
+    "raga_name": "Kaikavashi",
+    "arohanam": "S R2 G2 M2 P D3 N3 S.",
+    "avarohanam": "S. N3 P M2 G2 R2 S"
+  },
+  {
+    "mela_number": "60",
+    "melakarta": "false",
+    "raga_name": "Nuthanachandrika",
+    "arohanam": "S R2 G2 M2 P D3 N3 S.",
+    "avarohanam": "S. N3 P D3 N3 P M2 G2 S"
+  },
+  {
+    "mela_number": "60",
+    "melakarta": "false",
+    "raga_name": "Rathnasaranga",
+    "arohanam": "S R2 G2 M2 P N3 S.",
+    "avarohanam": "S. N3 D3 P M2 G2 R2 S"
+  },
+  {
+    "mela_number": "61",
+    "melakarta": "true",
+    "raga_name": "Kanthamani",
+    "arohanam": "S R2 G3 M2 P D1 N1 S.",
+    "avarohanam": "S. N1 D1 P M2 G3 R2 S"
+  },
+  {
+    "mela_number": "61",
+    "melakarta": "false",
+    "raga_name": "Kunthalam",
+    "arohanam": "S R2 G3 M2 P D1 S.",
+    "avarohanam": "S. N1 D1 P M2 G3 R2 S"
+  },
+  {
+    "mela_number": "61",
+    "melakarta": "false",
+    "raga_name": "Kanakakusumavali",
+    "arohanam": "S R2 G3 M2 P D2 S.",
+    "avarohanam": "S. D2 P M2 G3 R2 S"
+  },
+  {
+    "mela_number": "61",
+    "melakarta": "false",
+    "raga_name": "Shruthiranjani",
+    "arohanam": "S R2 G3 M2 P D1 N1",
+    "avarohanam": "N1 D1 P M2 G3 R2 S"
+  },
+  {
+    "mela_number": "62",
+    "melakarta": "true",
+    "raga_name": "Rishabhapriya",
+    "arohanam": "S R2 G3 M2 P D1 N2 S.",
+    "avarohanam": "S. N2 D1 P M2 G3 R2 S"
+  },
+  {
+    "mela_number": "62",
+    "melakarta": "false",
+    "raga_name": "Rathipriya",
+    "arohanam": "S R2 G3 M2 P D1 N2 S.",
+    "avarohanam": "S. N2 D1 P M2 G3 R2 S"
+  },
+  {
+    "mela_number": "62",
+    "melakarta": "false",
+    "raga_name": "Gopriya",
+    "arohanam": "S R2 G3 M2 D1 N2 S.",
+    "avarohanam": "S. N2 D1 M2 G3 R2 S"
+  },
+  {
+    "mela_number": "62",
+    "melakarta": "false",
+    "raga_name": "Poornasaveri",
+    "arohanam": "S R2 M2 P D1 S.",
+    "avarohanam": "S. N2 D1 P M2 G3 R2 S"
+  },
+  {
+    "mela_number": "62",
+    "melakarta": "false",
+    "raga_name": "Rathnabhanu",
+    "arohanam": "S R2 M2 P N2 D1 N2 S.",
+    "avarohanam": "S. N2 D1 P M2 G3 R2 S"
+  },
+  {
+    "mela_number": "62",
+    "melakarta": "false",
+    "raga_name": "Suddha Saranga",
+    "arohanam": "S G M2 P N2 S.",
+    "avarohanam": "S. D1 P M2 G3 S"
+  },
+  {
+    "mela_number": "63",
+    "melakarta": "true",
+    "raga_name": "Lathangi",
+    "arohanam": "S R2 G3 M2 P D1 N3 S.",
+    "avarohanam": "S. N3 D1 P M2 G3 R2 S"
+  },
+  {
+    "mela_number": "63",
+    "melakarta": "false",
+    "raga_name": "Geethapriya",
+    "arohanam": "S R2 G3 M2 P D1 N3 S.",
+    "avarohanam": "S. N3 D1 P M2 G3 R2 S"
+  },
+  {
+    "mela_number": "63",
+    "melakarta": "false",
+    "raga_name": "Chitrachandrika",
+    "arohanam": "S G3 R2 G3 M2 P N3 D1 S.",
+    "avarohanam": "S. N3 D1 M2 G3 R2 S"
+  },
+  {
+    "mela_number": "63",
+    "melakarta": "false",
+    "raga_name": "Hamsalatha",
+    "arohanam": "S R2 G3 P N3 S.",
+    "avarohanam": "S. N3 D1 P M2 G3 R2 S"
+  },
+  {
+    "mela_number": "63",
+    "melakarta": "false",
+    "raga_name": "Kananapriya",
+    "arohanam": "S R2 G3 M2 P M2 D1 N3 S.",
+    "avarohanam": "S. D1 N3 P M2 G3 R2 S"
+  },
+  {
+    "mela_number": "63",
+    "melakarta": "false",
+    "raga_name": "Karunakari",
+    "arohanam": "S M2 P D1 N3 D1 S.",
+    "avarohanam": "S. N3 D1 P M2 S"
+  },
+  {
+    "mela_number": "63",
+    "melakarta": "false",
+    "raga_name": "Lalithangi",
+    "arohanam": "S R2 G3 M2 D1 N3 S.",
+    "avarohanam": "S. N3 D1 M2 G3 R2 S"
+  },
+  {
+    "mela_number": "63",
+    "melakarta": "false",
+    "raga_name": "Ramani",
+    "arohanam": "S G3 M2 P N3 S.",
+    "avarohanam": "S. N3 D1 P M2 G3 S"
+  },
+  {
+    "mela_number": "63",
+    "melakarta": "false",
+    "raga_name": "Rathnakanthi",
+    "arohanam": "S R2 G3 M2 P N3 S.",
+    "avarohanam": "S. N3 P M2 G3 R2 S"
+  },
+  {
+    "mela_number": "63",
+    "melakarta": "false",
+    "raga_name": "Raviswaroopini",
+    "arohanam": "S G3 M2 P D1 N3 S.",
+    "avarohanam": "S. N3 D1 P M2 G3 S"
+  },
+  {
+    "mela_number": "63",
+    "melakarta": "false",
+    "raga_name": "Sajjananandhi",
+    "arohanam": "S R2 G3 M2 P D1 N3 S.",
+    "avarohanam": "S. N3 D1 M2 G3 R2 S"
+  },
+  {
+    "mela_number": "63",
+    "melakarta": "false",
+    "raga_name": "Skandamanorama",
+    "arohanam": "S R2 M2 P N3 S.",
+    "avarohanam": "S. N3 P M2 R2 S"
+  },
+  {
+    "mela_number": "64",
+    "melakarta": "true",
+    "raga_name": "Vachaspathi",
+    "arohanam": "S R2 G3 M2 P D2 N2 S.",
+    "avarohanam": "S. N2 D2 P M2 G3 R2 S"
+  },
+  {
+    "mela_number": "64",
+    "melakarta": "false",
+    "raga_name": "Bhooshavathi",
+    "arohanam": "S R2 G3 M2 P D2 N2 S.",
+    "avarohanam": "S. N2 D2 P M2 G3 R2 S"
+  },
+  {
+    "mela_number": "64",
+    "melakarta": "false",
+    "raga_name": "Bhagavataranjana",
+    "arohanam": "S R2 M2 P D2 N2 S.",
+    "avarohanam": "S. N2 D2 P M2 G3 R2 S"
+  },
+  {
+    "mela_number": "64",
+    "melakarta": "false",
+    "raga_name": "Bhogeeshwari",
+    "arohanam": "S R2 G3 P D2 N2 D2 S.",
+    "avarohanam": "S. N2 D2 P M2 G3 R2 S"
+  },
+  {
+    "mela_number": "64",
+    "melakarta": "false",
+    "raga_name": "Bhooshavali",
+    "arohanam": "S R2 G3 M2 P D2 S.",
+    "avarohanam": "S. N2 D2 P M2 G3 R2 S"
+  },
+  {
+    "mela_number": "64",
+    "melakarta": "false",
+    "raga_name": "Dwigandharabhooshani",
+    "arohanam": "S R1 G2 G3 G2 P D2 S.",
+    "avarohanam": "S. D2 P G2 G3 G2 R1 S D2 S"
+  },
+  {
+    "mela_number": "64",
+    "melakarta": "false",
+    "raga_name": "Gaganamohini",
+    "arohanam": "S G3 P D2 N2 S.",
+    "avarohanam": "S. N2 P M2 G3 S"
+  },
+  {
+    "mela_number": "64",
+    "melakarta": "false",
+    "raga_name": "Gurupriya",
+    "arohanam": "S R2 G3 M2 D2 N2 S.",
+    "avarohanam": "S. N2 D2 M2 G3 R2 S"
+  },
+  {
+    "mela_number": "64",
+    "melakarta": "false",
+    "raga_name": "Hrdhini",
+    "arohanam": "S G3 M2 P N2 S.",
+    "avarohanam": "S. N2 P M2 G3 S"
+  },
+  {
+    "mela_number": "64",
+    "melakarta": "false",
+    "raga_name": "Mangalakari",
+    "arohanam": "S R2 P M2 P D2 N2 S.",
+    "avarohanam": "S. N2 D2 P G3 R2 S"
+  },
+  {
+    "mela_number": "64",
+    "melakarta": "false",
+    "raga_name": "Mukthidayini",
+    "arohanam": "S G3 M2 P D2 N2 S.",
+    "avarohanam": "S. N2 D2 P M2 G3 S"
+  },
+  {
+    "mela_number": "64",
+    "melakarta": "false",
+    "raga_name": "Nadhabrahma",
+    "arohanam": "S P M2 P D2 N2 S.",
+    "avarohanam": "S. N2 D2 P M2 G3 S"
+  },
+  {
+    "mela_number": "64",
+    "melakarta": "false",
+    "raga_name": "Pranavakari",
+    "arohanam": "P N2 D2 N2 S R2 G3 M2",
+    "avarohanam": "P M2 G3 R2 S N2 D2 N2 P"
+  },
+  {
+    "mela_number": "64",
+    "melakarta": "false",
+    "raga_name": "Saraswathi",
+    "arohanam": "S R2 M2 P D2 S.",
+    "avarohanam": "S. N2 D2 P M2 R2 S"
+  },
+  {
+    "mela_number": "64",
+    "melakarta": "false",
+    "raga_name": "Triveni",
+    "arohanam": "S R2 M2 P D2 N2 S.",
+    "avarohanam": "S. N2 D2 P M2 R2 S"
+  },
+  {
+    "mela_number": "64",
+    "melakarta": "false",
+    "raga_name": "Utthari",
+    "arohanam": "S G3 M2 P D2 N2 S.",
+    "avarohanam": "S. N2 D2 M2 G3 S"
+  },
+  {
+    "mela_number": "64",
+    "melakarta": "false",
+    "raga_name": "Vivahapriya",
+    "arohanam": "S R2 M2 P D2 N3 S.",
+    "avarohanam": "S. N3 D2 P M2 R2 S"
+  },
+  {
+    "mela_number": "65",
+    "melakarta": "true",
+    "raga_name": "Mechakalyani",
+    "arohanam": "S R2 G3 M2 P D2 N3 S.",
+    "avarohanam": "S. N3 D2 P M2 G3 R2 S"
+  },
+  {
+    "mela_number": "65",
+    "melakarta": "false",
+    "raga_name": "Shanthakalyani",
+    "arohanam": "S R2 G3 M2 P D2 N3 S.",
+    "avarohanam": "S. N3 D2 P M2 G3 R2 S"
+  },
+  {
+    "mela_number": "65",
+    "melakarta": "false",
+    "raga_name": "Amritha Behag",
+    "arohanam": "S M2 G3 P N3 S.",
+    "avarohanam": "D N3 D2 M2 G3 S"
+  },
+  {
+    "mela_number": "65",
+    "melakarta": "false",
+    "raga_name": "Aprameya",
+    "arohanam": "S R2 M2 P D2 S.",
+    "avarohanam": "S. N3 D2 M2 G3 M2 R2 S"
+  },
+  {
+    "mela_number": "65",
+    "melakarta": "false",
+    "raga_name": "Bhoopkalyani",
+    "arohanam": "S R2 G3 P D2 S.",
+    "avarohanam": "S. N3 D2 P M2 G3 R2 S"
+  },
+  {
+    "mela_number": "65",
+    "melakarta": "false",
+    "raga_name": "Chandrakantha",
+    "arohanam": "S R2 G3 M2 P D2 N3 S.",
+    "avarohanam": "S. N3 D2 N3 P M2 G3 R2 S"
+  },
+  {
+    "mela_number": "65",
+    "melakarta": "false",
+    "raga_name": "Hameer (Hindustani)",
+    "arohanam": "S R2 S G3 M1 D2 N3 D2 S.",
+    "avarohanam": "S. N3 D2 N2 P G3 M1 D2 M2 P D2 P G3 M1 R2 S"
+  },
+  {
+    "mela_number": "65",
+    "melakarta": "false",
+    "raga_name": "Hameer Kalyani (1)",
+    "arohanam": "S P M2 P D2 N3 S.",
+    "avarohanam": "S. N3 D2 P M2 M1 G3 P M1 R2 S"
+  },
+  {
+    "mela_number": "65",
+    "melakarta": "false",
+    "raga_name": "Hameer Kalyani (2)",
+    "arohanam": "S R2 S P M2 P D2 N3 S.",
+    "avarohanam": "S. N3 D2 P M2 G3 M1 G3 R2 S"
+  },
+  {
+    "mela_number": "65",
+    "melakarta": "false",
+    "raga_name": "Hameer Kalyani (3)",
+    "arohanam": "S R2 S P M2 N3 D2 S N3 S.",
+    "avarohanam": "S. N3 D2 P M2 G M1 R2 S"
+  },
+  {
+    "mela_number": "65",
+    "melakarta": "false",
+    "raga_name": "Hameer Kalyani (4)",
+    "arohanam": "S R2 G3 M2 P D2 N3 P D2 P S.",
+    "avarohanam": "S. N3 D2 P G3 M1 G3 R2 S"
+  },
+  {
+    "mela_number": "65",
+    "melakarta": "false",
+    "raga_name": "Hameer Kalyani (5)",
+    "arohanam": "S P M2 P D2 N3 S.",
+    "avarohanam": "S. N3 D2 P G3 M1 G3 R2 S"
+  },
+  {
+    "mela_number": "65",
+    "melakarta": "false",
+    "raga_name": "Hamsakalyani",
+    "arohanam": "S R2 G3 P N3 S.",
+    "avarohanam": "S. N3 D2 P M2 G3 R2 S"
+  },
+  {
+    "mela_number": "65",
+    "melakarta": "false",
+    "raga_name": "Kalyanadayini",
+    "arohanam": "S R2 G3 M2 D2 N3 S.",
+    "avarohanam": "S. N3 D2 M2 G3 R2 S"
+  },
+  {
+    "mela_number": "65",
+    "melakarta": "false",
+    "raga_name": "Kannadamaruva",
+    "arohanam": "S G3 M2 P D2 N3 S.",
+    "avarohanam": "S. N3 D2 P M2 G3 S"
+  },
+  {
+    "mela_number": "65",
+    "melakarta": "false",
+    "raga_name": "Kowmoda",
+    "arohanam": "S R2 G3 M2 N3 S.",
+    "avarohanam": "S. N3 P M2 G3 S"
+  },
+  {
+    "mela_number": "65",
+    "melakarta": "false",
+    "raga_name": "Kunthalashreekanti",
+    "arohanam": "S G3 M2 P D2 N3 S.",
+    "avarohanam": "S. N3 P M2 G3 R2 S"
+  },
+  {
+    "mela_number": "65",
+    "melakarta": "false",
+    "raga_name": "Mohana Kalyani",
+    "arohanam": "S R2 G3 P D2 S.",
+    "avarohanam": "S. N3 D2 P M2 G3 R2 S"
+  },
+  {
+    "mela_number": "65",
+    "melakarta": "false",
+    "raga_name": "Mrganandhana",
+    "arohanam": "S R2 G3 D2 N3 S.",
+    "avarohanam": "S. N3 D2 M2 D2 G3 R2 S"
+  },
+  {
+    "mela_number": "65",
+    "melakarta": "false",
+    "raga_name": "Nadhakalyani",
+    "arohanam": "S G3 M2 D2 N3 S.",
+    "avarohanam": "S. N3 D2 M2 G3 M2 R2 S"
+  },
+  {
+    "mela_number": "65",
+    "melakarta": "false",
+    "raga_name": "Pramodhini",
+    "arohanam": "S G3 M2 P D2 S.",
+    "avarohanam": "S. D2 P M2 G3 S"
+  },
+  {
+    "mela_number": "65",
+    "melakarta": "false",
+    "raga_name": "Saranga (1)",
+    "arohanam": "S R2 G3 M2 P D2 N3 S.",
+    "avarohanam": "S. N3 D2 P M2 R2 G3 M1 R2 S"
+  },
+  {
+    "mela_number": "65",
+    "melakarta": "false",
+    "raga_name": "Saranga (2)",
+    "arohanam": "S R2 S P M2 P D2 N3 S.",
+    "avarohanam": "S. N3 S D2 P M2 R2 G3 M1 R2 S"
+  },
+  {
+    "mela_number": "65",
+    "melakarta": "false",
+    "raga_name": "Saranga (3)",
+    "arohanam": "S P M2 P D2 N3 S.",
+    "avarohanam": "S. N3 D2 P M2 R2 G3 M1 R2 S"
+  },
+  {
+    "mela_number": "65",
+    "melakarta": "false",
+    "raga_name": "Saranga Tarangini",
+    "arohanam": "S R2 M2 P D2 N3 S.",
+    "avarohanam": "S. N3 D2 P M2 R2 S"
+  },
+  {
+    "mela_number": "65",
+    "melakarta": "false",
+    "raga_name": "Shilangi",
+    "arohanam": "S G2 M2 P N3 S.",
+    "avarohanam": "S. N3 P M2 G2 S"
+  },
+  {
+    "mela_number": "65",
+    "melakarta": "false",
+    "raga_name": "Suddha Koshala",
+    "arohanam": "S G3 M2 P S.",
+    "avarohanam": "S. N3 D2 M2 G3 R2 S"
+  },
+  {
+    "mela_number": "65",
+    "melakarta": "false",
+    "raga_name": "Sunadavinodini",
+    "arohanam": "S G3 M2 D2 N3 S.",
+    "avarohanam": "S. N3 D2 M2 G3 S"
+  },
+  {
+    "mela_number": "65",
+    "melakarta": "false",
+    "raga_name": "Swayambhooshwara Raga",
+    "arohanam": "S G3 P S.",
+    "avarohanam": "S. P G3 S"
+  },
+  {
+    "mela_number": "65",
+    "melakarta": "false",
+    "raga_name": "Vandanadharini",
+    "arohanam": "S R2 M2 P D2 S.",
+    "avarohanam": "S. D2 P M2 R2 S"
+  },
+  {
+    "mela_number": "65",
+    "melakarta": "false",
+    "raga_name": "Yamuna Kalyani",
+    "arohanam": "S R2 G3 M2 P D2 N3 S.",
+    "avarohanam": "S. N3 D2 P M2 G3 M1 G3 R2 S"
+  },
+  {
+    "mela_number": "66",
+    "melakarta": "true",
+    "raga_name": "Chitrambari",
+    "arohanam": "S R2 G3 M2 P D3 N3 S.",
+    "avarohanam": "S. N3 D3 P M2 G3 R2 S"
+  },
+  {
+    "mela_number": "66",
+    "melakarta": "false",
+    "raga_name": "Chaturangini",
+    "arohanam": "S R2 G3 M2 P N3 S.",
+    "avarohanam": "S. N3 D3 N3 P G3 M2 G3 R2 S"
+  },
+  {
+    "mela_number": "66",
+    "melakarta": "false",
+    "raga_name": "Amritavarshini",
+    "arohanam": "S G3 M2 P N3 S.",
+    "avarohanam": "S. N3 P M2 G3 S"
+  },
+  {
+    "mela_number": "66",
+    "melakarta": "false",
+    "raga_name": "Chitrasindhu",
+    "arohanam": "S G3 M2 P N3 S.",
+    "avarohanam": "S. N3 D3 P M2 G3 R2 S"
+  },
+  {
+    "mela_number": "66",
+    "melakarta": "false",
+    "raga_name": "Churnikavinodhini",
+    "arohanam": "S R2 G3 M2 P D3 N3 S.",
+    "avarohanam": "S. N3 D3 N3 P M2 G3 R2 S"
+  },
+  {
+    "mela_number": "66",
+    "melakarta": "false",
+    "raga_name": "Vijayakoshalam",
+    "arohanam": "S R2 G3 M2 P S.",
+    "avarohanam": "S. N3 P M2 G3 S"
+  },
+  {
+    "mela_number": "67",
+    "melakarta": "true",
+    "raga_name": "Sucharitra",
+    "arohanam": "S R3 G3 M2 P D1 N1 S.",
+    "avarohanam": "S. N1 D1 P M2 G3 R3 S"
+  },
+  {
+    "mela_number": "67",
+    "melakarta": "false",
+    "raga_name": "Santhana Manjari",
+    "arohanam": "S R3 G3 M2 P D1 S.",
+    "avarohanam": "S. N1 D1 P M2 R3 S"
+  },
+  {
+    "mela_number": "68",
+    "melakarta": "true",
+    "raga_name": "Jyothiswaroopini",
+    "arohanam": "S R3 G3 M2 P D1 N2 S.",
+    "avarohanam": "S. N2 D1 P M2 G3 R3 S"
+  },
+  {
+    "mela_number": "68",
+    "melakarta": "false",
+    "raga_name": "Jyothi",
+    "arohanam": "S R3 G3 M2 P D1 N2 S.",
+    "avarohanam": "S. N2 D1 P M2 G3 S"
+  },
+  {
+    "mela_number": "68",
+    "melakarta": "false",
+    "raga_name": "Deepavarali",
+    "arohanam": "S R3 M2 P N2 S.",
+    "avarohanam": "S. N2 P M2 G3 R3 S"
+  },
+  {
+    "mela_number": "68",
+    "melakarta": "false",
+    "raga_name": "Jyothishmathi",
+    "arohanam": "S R3 G3 M2 P S.",
+    "avarohanam": "S. N2 D1 M2 P M2 G3 R3 S"
+  },
+  {
+    "mela_number": "68",
+    "melakarta": "false",
+    "raga_name": "Ramagiri",
+    "arohanam": "S R3 M2 G3 M2 P D1 N2 S.",
+    "avarohanam": "S. D1 N2 D1 P M2 G3 R3 S"
+  },
+  {
+    "mela_number": "69",
+    "melakarta": "true",
+    "raga_name": "Dhatuvardhani",
+    "arohanam": "S R3 G3 M2 P D1 N3 S.",
+    "avarohanam": "S. N3 D1 P M2 G3 R3 S"
+  },
+  {
+    "mela_number": "69",
+    "melakarta": "false",
+    "raga_name": "Dhowtha Panchamam",
+    "arohanam": "S R3 G3 M2 P N3 P S.",
+    "avarohanam": "S. N3 D1 P M2 R3 G3 M2 R3 S"
+  },
+  {
+    "mela_number": "69",
+    "melakarta": "false",
+    "raga_name": "Dhwithiyapanchamam",
+    "arohanam": "S R3 G3 M2 P N3 P S.",
+    "avarohanam": "S. N3 D1 P M2 R3 M3 G3 R3 S"
+  },
+  {
+    "mela_number": "69",
+    "melakarta": "false",
+    "raga_name": "Sumukham",
+    "arohanam": "S R3 M2 N3 S.",
+    "avarohanam": "S. N3 M2 R3 S"
+  },
+  {
+    "mela_number": "69",
+    "melakarta": "false",
+    "raga_name": "Tavapriya",
+    "arohanam": "S R3 M2 P N3 S.",
+    "avarohanam": "S. N3 D1 P M2 G3 R3 S"
+  },
+  {
+    "mela_number": "70",
+    "melakarta": "true",
+    "raga_name": "Nasikabhooshhani",
+    "arohanam": "S R3 G3 M2 P D2 N2 S.",
+    "avarohanam": "S. N2 D2 P M2 G3 R3 S"
+  },
+  {
+    "mela_number": "70",
+    "melakarta": "false",
+    "raga_name": "Nasamani",
+    "arohanam": "S R3 S M2 P D2 N2 S.",
+    "avarohanam": "S. N2 D2 P M2 G3 R3 S"
+  },
+  {
+    "mela_number": "70",
+    "melakarta": "false",
+    "raga_name": "Marakathagowla",
+    "arohanam": "S R3 M2 P D2 N2 S.",
+    "avarohanam": "S. N2 D2 P M2 G3 R3 S"
+  },
+  {
+    "mela_number": "70",
+    "melakarta": "false",
+    "raga_name": "Thilakamandari",
+    "arohanam": "S R3 M2 P D2 S.",
+    "avarohanam": "S. D2 P M2 G3 R3 S"
+  },
+  {
+    "mela_number": "71",
+    "melakarta": "true",
+    "raga_name": "Kosalam",
+    "arohanam": "S R3 G3 M2 P D2 N3 S.",
+    "avarohanam": "S. N3 D2 P M2 G3 R3 S"
+  },
+  {
+    "mela_number": "71",
+    "melakarta": "false",
+    "raga_name": "Kusumakaram",
+    "arohanam": "S R3 G3 M2 P D2 N3 S.",
+    "avarohanam": "S. N3 D2 P M2 G3 R3 S"
+  },
+  {
+    "mela_number": "71",
+    "melakarta": "false",
+    "raga_name": "Ayodhya",
+    "arohanam": "S G3 M2 P N3 S.",
+    "avarohanam": "S. D2 P M2 G3 M2 R3 S"
+  },
+  {
+    "mela_number": "72",
+    "melakarta": "true",
+    "raga_name": "Rasikapriya",
+    "arohanam": "S R3 G3 M2 P D3 N3 S.",
+    "avarohanam": "S. N3 D3 P M2 G3 R3 S"
+  },
+  {
+    "mela_number": "72",
+    "melakarta": "false",
+    "raga_name": "Rasamanjari",
+    "arohanam": "S R3 G3 M2 P D3 N3 S.",
+    "avarohanam": "S. N3 D3 P M2 G3 R3 S"
+  },
+  {
+    "mela_number": "72",
+    "melakarta": "false",
+    "raga_name": "Hamsagiri",
+    "arohanam": "S R3 G3 M2 P D3 N3 S.",
+    "avarohanam": "S. N3 P D3 N3 P M2 G3 S"
+  },
+  {
+    "mela_number": "72",
+    "melakarta": "false",
+    "raga_name": "Ishtarangini",
+    "arohanam": "S R3 M2 P N3 S.",
+    "avarohanam": "S. N3 D3 P M2 G3 R3 S"
+  },
+  {
+    "mela_number": "72",
+    "melakarta": "false",
+    "raga_name": "Nagagiri",
+    "arohanam": "S G3 M2 P D2 P S.",
+    "avarohanam": "S. D2 P M2 G3 S"
+  }
+]

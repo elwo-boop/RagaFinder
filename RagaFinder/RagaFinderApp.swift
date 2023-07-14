@@ -9,6 +9,11 @@ import SwiftUI
 
 @main
 struct RagaFinderApp: App {
+    
+    init() {
+        UINavigationBar.appearance().largeTitleTextAttributes = [.foregroundColor : UIColor.white]
+    }
+    
     var body: some Scene {
         WindowGroup {
             ContentView()
