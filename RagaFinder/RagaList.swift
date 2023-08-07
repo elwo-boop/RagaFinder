@@ -28,8 +28,15 @@ struct RagaList: View {
                 
                 List(filteredRagas) { raga in
                     NavigationLink(destination: SingleRagaView(raga: raga, screenWidth: screenWidth, screenHeight: screenHeight)) {
-                        Text(raga.raga_name)
-                            .font(.title3)
+                        HStack {
+                            Text(raga.raga_name)
+                                .font(.title3)
+                            Spacer()
+                            if (Bool(raga.melakarta)!) {
+                                Image(systemName: "staroflife.fill")
+                            }
+                        }
+                        .padding(.horizontal)
                     }
                 }
                 .scrollContentBackground(.hidden)

@@ -6,11 +6,10 @@
 //  Convert ragaInfo.json into a Swift array.
 
 import Foundation
+import SwiftUI
 
 var rawRagas: [Raga] = loadRagas("ragaInfo.json")
 var ragas = rawRagas.sorted(by: {$0.raga_name < $1.raga_name})
-
-
 
 func loadRagas<T: Decodable>(_ filename: String) -> T {
     let data: Data
@@ -51,3 +50,5 @@ struct Raga: Codable, Hashable, Identifiable {
         return UUID()
     }
 }
+
+

@@ -592,7 +592,7 @@
     "melakarta": "false",
     "raga_name": "Sindhubhairavi",
     "arohanam": "S R2 G2 M1 G2 P D1 N2 S.",
-    "avarohanam": "N2 D1 P M1 G2 R1 S N2 S"
+    "avarohanam": "N2 D1 P M1 G2 R1 S .N2 S"
   },
   {
     "mela_number": "11",
@@ -2237,7 +2237,7 @@
     "melakarta": "false",
     "raga_name": "Darbar",
     "arohanam": "S R2 M1 P D2 N2 S.",
-    "avarohanam": "R2 S N2 S D2 P M1 R2 G2 G2 R2 S"
+    "avarohanam": "R2. S. N2 S. D2 P M1 R2 G2 G2 R2 S"
   },
   {
     "mela_number": "22",
@@ -2291,7 +2291,7 @@
   {
     "mela_number": "22",
     "melakarta": "false",
-    "raga_name": "Hamsa abheri",
+    "raga_name": "Hamsa Abheri",
     "arohanam": "S G2 P M1 P N2 S.",
     "avarohanam": "S. N2 D2 P M1 G2 S"
   },
@@ -3033,14 +3033,14 @@
   {
     "mela_number": "26",
     "melakarta": "false",
-    "raga_name": "Tarangini",
+    "raga_name": "Tarangini (1)",
     "arohanam": "S R2 G3 P D1 N2 D1 S",
     "avarohanam": "S. D1 P M1 G3 R2 S"
   },
   {
     "mela_number": "26",
     "melakarta": "false",
-    "raga_name": "Tarangini",
+    "raga_name": "Tarangini (2)",
     "arohanam": "S R2 G3 P D1 N2 D1 P D1 S.",
     "avarohanam": "S. D1 P G3 R2 S G3 M1 R2 G3 S"
   },
@@ -3677,7 +3677,7 @@
   {
     "mela_number": "28",
     "melakarta": "false",
-    "raga_name": "Navarasa kannada",
+    "raga_name": "Navarasa KSannada",
     "arohanam": "S G3 M1 P S.",
     "avarohanam": "S. N2 D2 M1 G3 R2 S"
   },
@@ -4722,7 +4722,7 @@
     "melakarta": "false",
     "raga_name": "Shailadeshakshhi",
     "arohanam": "S M1 G3 P D2 S.",
-    "avarohanam": "S. N3 D2 S N3 P M1 G3 S"
+    "avarohanam": "S. N3 D2 S. N3 P M1 G3 S"
   },
   {
     "mela_number": "35",
@@ -5583,7 +5583,7 @@
     "melakarta": "false",
     "raga_name": "Dvigandharabhooshani",
     "arohanam": "S R1 G2 G3 G2 P D2 S.",
-    "avarohanam": "S. D2 P G2 G3 G2 R1 S D2 S"
+    "avarohanam": "S. D2 P G2 G3 G2 R1 S .D2 S"
   },
   {
     "mela_number": "53",
@@ -6423,7 +6423,7 @@
     "melakarta": "false",
     "raga_name": "Amritha Behag",
     "arohanam": "S M2 G3 P N3 S.",
-    "avarohanam": "D N3 D2 M2 G3 S"
+    "avarohanam": "D2 N3 D2 M2 G3 S"
   },
   {
     "mela_number": "65",

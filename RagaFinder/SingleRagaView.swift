@@ -52,15 +52,20 @@ struct SingleRagaView: View {
                         }
                         if isMelakarta == true {
                             Text(western ? "Parent Raga #\(raga.mela_number)" : "Melakarta Raga #\(raga.mela_number)")
-                                .font(.title)
+                                .font(.title2)
+                                .bold()
                         }
                         else {
                             VStack(alignment: .leading) {
                                 Text(western ? "Child Raga of:" : "Janya Raga of:")
                                     .font(.title2)
                                     .bold()
-                                Text("\(parentMelakarta.raga_name) - (#\(parentMelakarta.mela_number))")
-                                    .font(.title2)
+                                NavigationLink(destination: SingleRagaView(raga: parentMelakarta, screenWidth: screenWidth, screenHeight: screenHeight)) {
+                                    Text("\(parentMelakarta.raga_name) - (#\(parentMelakarta.mela_number))")
+                                        .font(.title2)
+                                        .foregroundColor(.blue)
+                                        .underline()
+                                }
                             }
                         }
                     }
@@ -81,6 +86,7 @@ struct SingleRagaView: View {
                     
                 }
                 Spacer().frame(height: screenHeight / 40)
+                Divider()
                 if (isMelakarta) {
                     VStack {
                         Text(western ? "Child Ragas of \(raga.raga_name)" : "Janya Ragas of \(raga.raga_name)")
@@ -88,7 +94,8 @@ struct SingleRagaView: View {
                             .bold()
                             .foregroundColor(.white)
                         Text(western ? "\(janyaRagas.count) child ragas." : "\(janyaRagas.count) janya ragas.")
-                            .font(.title2)
+                            .font(.title3)
+                            .bold()
                             .foregroundColor(.white)
                         List(janyaRagas) { raga in
                             NavigationLink(destination: SingleRagaView(raga: raga, screenWidth: screenWidth, screenHeight: screenHeight)) {

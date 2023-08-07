@@ -10,7 +10,7 @@ import SwiftUI
 struct Test: View {
     
     var body: some View {
-        Text("")
+        Text("A. B.. C.. D..".replacingOccurrences(of: "..", with: "."))
     }
     
 }
